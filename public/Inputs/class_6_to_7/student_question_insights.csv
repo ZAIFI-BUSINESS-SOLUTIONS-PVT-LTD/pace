@@ -1,0 +1,91 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+701,Q1,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q2,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q3,D,C,False,Guess,"The student selected option D, which is incorrect.",Low,UNKNOWN
+701,Q4,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q5,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q6,C,B,False,Guess,"The student selected option C, but the correct option is B.",Low,UNKNOWN
+701,Q7,C,A,False,Guess,"The student selected option C, but the correct option is A.",Low,UNKNOWN
+701,Q8,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q9,B,D,False,Guess,"The student selected option B, which is incorrect. The correct option is D.",Low,UNKNOWN
+701,Q10,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+701,Q11,C,C,True,None,"The student selected the correct option, C.",High,UNKNOWN
+701,Q12,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q13,B,A,False,Guess,Student answered B while the correct answer is A.,Low,UNKNOWN
+701,Q14,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q15,D,B,False,Guess,Student answered D while correct answer is B.,Low,UNKNOWN
+701,Q16,A,C,False,Guess,"Student answered A, but the correct option is C.",Low,UNKNOWN
+701,Q17,B,A,False,Guess,"Student answered B, but the correct option is A.",Low,UNKNOWN
+701,Q18,B,A,False,Guess,"Student answered B, but the correct option is A.",Low,UNKNOWN
+701,Q19,D,C,False,Guess,"Student answered D, but the correct option is C.",Low,UNKNOWN
+701,Q20,B,A,False,Guess,"Student answered B, but the correct option is A.",Low,UNKNOWN
+701,Q21,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q22,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+701,Q23,C,C,True,None,"The student selected the correct option, C.",High,UNKNOWN
+701,Q24,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+701,Q25,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q26,A,B,False,Guess,"The student selected option A, but the correct answer is B.",Low,UNKNOWN
+701,Q27,A,D,False,Guess,"The student selected option A, but the correct answer is D.",Low,UNKNOWN
+701,Q28,D,C,False,Guess,"The student selected option D, but the correct answer is C.",Low,UNKNOWN
+701,Q29,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q30,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q31,A,B,False,Guess,Student chose option A. Correct answer is B.,Low,UNKNOWN
+701,Q32,B,A,False,Guess,Student selected option B when correct option is A.,Low,UNKNOWN
+701,Q33,C,C,True,None,"The student selected the correct option, C.",High,UNKNOWN
+701,Q34,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q35,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+701,Q36,C,C,True,None,"The student selected the correct option, C.",High,UNKNOWN
+701,Q37,C,B,False,Guess,Student chose option C instead of B.,Low,UNKNOWN
+701,Q38,B,B,True,None,"The student selected the correct option, B.",High,UNKNOWN
+701,Q39,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+701,Q40,A,D,False,Guess,Student chose option A. Correct answer is D.,Low,UNKNOWN
+701,Q41,D,B,False,Guess,Student chose option D when correct option is B.,Low,UNKNOWN
+701,Q42,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q43,D,D,True,None,"The student selected the correct option, D.",High,UNKNOWN
+701,Q44,C,B,False,Guess,Student chose option C instead of B.,Low,UNKNOWN
+701,Q45,A,A,True,None,"The student selected the correct option, A.",High,UNKNOWN
+261700,Q1,D,D,True,None,The student correctly identified the coded word.,High,UNKNOWN
+261700,Q2,B,B,True,None,The student correctly identified the date based on the given constraints.,High,UNKNOWN
+261700,Q3,C,C,True,None,The student correctly determined the relative position of C with respect to D.,High,UNKNOWN
+261700,Q4,D,D,True,None,The student correctly identified the last word as per dictionary order.,High,UNKNOWN
+261700,Q5,D,D,True,None,The student correctly completed the series.,High,UNKNOWN
+261700,Q6,A,B,False,Calculation,The student failed to evaluate the expression correctly. Might have calculation error.,Low,UNKNOWN
+261700,Q7,C,A,False,Calculation,The student made an error in calculating the final position on the number line. Check number line arithmetic.,Low,UNKNOWN
+261700,Q8,C,B,False,Calculation,The student incorrectly calculated the amount of water remaining after draining. Calculation error.,Low,UNKNOWN
+261700,Q9,D,D,True,None,The student correctly calculated the total weight of the mixture.,High,UNKNOWN
+261700,Q10,A,A,True,None,The student correctly converted the number from the Indian to the International system.,High,UNKNOWN
+261700,Q11,C,C,True,None,The student correctly calculated the total marks.,High,UNKNOWN
+261700,Q12,B,B,True,None,The student performed the operations and got the correct answer.,High,UNKNOWN
+261700,Q13,A,A,True,None,The student correctly determined the number of integers between A and B.,High,UNKNOWN
+261700,Q14,C,D,False,Careless,The student selected the wrong answer. The student missed the negative sign.,Medium,UNKNOWN
+261700,Q15,B,B,True,None,The student evaluated the expression and got the correct answer.,High,UNKNOWN
+261700,Q16,D,C,False,Calculation,Student failed to approximate speed from m/s to km/h.,Low,UNKNOWN
+261700,Q17,C,A,False,Conceptual,Student failed to convert nm to meter correctly. Exponent error.,Low,UNKNOWN
+261700,Q18,A,A,True,None,The student correctly converted units and expressed the answer in scientific notation.,High,UNKNOWN
+261700,Q19,A,C,False,Conceptual,Student identified the wrong SI unit. Should understand derived vs fundamental.,Low,UNKNOWN
+261700,Q20,C,A,False,Conceptual,Student failed to express Pascal in terms of fundamental SI units.,Low,UNKNOWN
+261700,Q21,B,B,True,None,The student correctly identified a source of artificial light.,High,UNKNOWN
+261700,Q22,A,A,True,None,The student correctly identified butter paper as translucent.,High,UNKNOWN
+261700,Q23,C,C,True,None,The student correctly identified penumbra.,High,UNKNOWN
+261700,Q24,B,A,False,Guess,"Student selected a wrong answer. Without explanation, it is a guess.",Low,UNKNOWN
+261700,Q25,B,B,True,None,The student correctly identified mirror image,High,UNKNOWN
+261700,Q26,D,B,False,Conceptual,Student is not aware of process to remove temporary and permanent hardness.,Low,UNKNOWN
+261700,Q27,B,D,False,Conceptual,Student seems to have difficulty distinguishing properties of underground water.,Low,UNKNOWN
+261700,Q28,C,C,True,None,Student identified correct type of water suitable for drinking.,High,UNKNOWN
+261700,Q29,C,B,False,Conceptual,Student is not aware of how volume changes when water freezes.,Low,UNKNOWN
+261700,Q30,C,B,False,Conceptual,Student selected wrong salts. Does not know the salts responsible for hardness.,Low,UNKNOWN
+261700,Q31,C,B,False,Conceptual,Student does not understand how purity is determined.,Low,UNKNOWN
+261700,Q32,B,A,False,Conceptual,Student is confused about melting point of ice.,Low,UNKNOWN
+261700,Q33,C,C,True,None,Student identified where liquid with high boiling point will condense.,High,UNKNOWN
+261700,Q34,D,D,True,None,Student identified correct process to purify liquid with soluble impurities.,High,UNKNOWN
+261700,Q35,A,A,True,None,Student identified correct process to purify liquid with insoluble impurities.,High,UNKNOWN
+261700,Q36,C,C,True,None,The student correctly identified which plant part makes seeds.,High,UNKNOWN
+261700,Q37,B,B,True,None,The student correctly identified the structure.,High,UNKNOWN
+261700,Q38,B,B,True,None,The student correctly identified the shoot system.,High,UNKNOWN
+261700,Q39,A,A,True,None,The student correctly identified cactus leaf.,High,UNKNOWN
+261700,Q40,D,D,True,None,The student correctly identified the plant that has fibrous root.,High,UNKNOWN
+261700,Q41,B,B,True,None,The student correctly identified the abiotic factors in aquatic habitat.,High,UNKNOWN
+261700,Q42,D,D,True,None,The student correctly identified what is not a terrestrial habitat.,High,UNKNOWN
+261700,Q43,A,D,False,Conceptual,The student confused growth and reproduction.,Low,UNKNOWN
+261700,Q44,B,B,True,None,The student correctly identified stimulus.,High,UNKNOWN
+261700,Q45,A,A,True,None,The student correctly identified the habitat of camel.,High,UNKNOWN

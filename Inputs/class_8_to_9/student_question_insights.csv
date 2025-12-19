@@ -1,0 +1,583 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+2737,Q1,A,A,True,None,Student selected the correct option A.,Medium,UNKNOWN
+2737,Q2,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q3,B,C,False,Guess,"Student selected option B, but the correct option is C.",Low,UNKNOWN
+2737,Q4,B,A,False,Guess,"Student selected option B, but the correct option is A.",Low,UNKNOWN
+2737,Q5,C,B,False,Guess,"Student selected option C, but the correct option is B.",Low,UNKNOWN
+2737,Q6,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q8,C,D,False,Guess,"Student selected option C, but the correct option is D.",Low,UNKNOWN
+2737,Q9,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q10,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q11,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q12,B,B,True,None,Student selected the correct option B.,Medium,UNKNOWN
+2737,Q13,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q14,A,B,False,Guess,"Student selected option A, but the correct option is B.",Low,UNKNOWN
+2737,Q15,A,A,True,None,Student selected the correct option A.,Medium,UNKNOWN
+2737,Q16,C,B,False,Guess,"Student selected option C, but the correct option is B.",Low,UNKNOWN
+2737,Q17,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q18,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q19,B,D,False,Guess,"Student selected option B, but the correct option is D.",Low,UNKNOWN
+2737,Q20,A,A,True,None,Student selected the correct option A.,Medium,UNKNOWN
+2737,Q21,C,B,False,Guess,"Student selected option C, but the correct option is B.",Low,UNKNOWN
+2737,Q22,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q23,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q24,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q25,D,C,False,Guess,"Student selected option D, but the correct option is C. Student probably did not divide by 2 to find the distance to the cliff.",Low,UNKNOWN
+2737,Q26,A,C,False,Guess,"Student selected option A, but the correct option is C.",Low,UNKNOWN
+2737,Q27,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q28,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q29,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q30,B,B,True,None,Student selected the correct option B.,Medium,UNKNOWN
+2737,Q31,C,B,False,Guess,"Student selected option C, but the correct option is B.",Low,UNKNOWN
+2737,Q32,A,A,True,None,Student selected the correct option A.,Medium,UNKNOWN
+2737,Q33,B,B,True,None,Student selected the correct option B.,Medium,UNKNOWN
+2737,Q34,A,D,False,Guess,"Student selected option A, but the correct option is D.",Low,UNKNOWN
+2737,Q35,B,A,False,Guess,"Student selected option B, but the correct option is A.",Low,UNKNOWN
+2737,Q36,C,C,True,None,Student selected the correct option C.,Medium,UNKNOWN
+2737,Q37,D,D,True,None,Student selected the correct option D.,Medium,UNKNOWN
+2737,Q38,B,B,True,None,Student selected the correct option B.,Medium,UNKNOWN
+2737,Q39,C,B,False,Guess,"Student selected option C, but the correct option is B.",Low,UNKNOWN
+2737,Q40,D,A,False,Guess,"Student selected option D, but the correct option is A.",Low,UNKNOWN
+2737,Q41,B,B,True,None,Student selected the correct option B.,Medium,UNKNOWN
+2737,Q42,A,B,False,Guess,"Student selected option A, but the correct option is B.",Low,UNKNOWN
+2737,Q43,B,C,False,Guess,"Student selected option B, but the correct option is C.",Low,UNKNOWN
+2737,Q44,C,D,False,Guess,"Student selected option C, but the correct option is D.",Low,UNKNOWN
+2737,Q45,A,A,True,None,Student selected the correct option A.,Medium,UNKNOWN
+2716,Q1,B,A,False,Guess,"The student selected option B, while the correct option is A. No explanation is provided, so we assume it was a guess.",Low,UNKNOWN
+2716,Q2,D,D,True,None,The student correctly identified the digit representing 'see'.,High,UNKNOWN
+2716,Q3,C,C,True,None,The student correctly identified the letter.,High,UNKNOWN
+2716,Q4,B,A,False,Guess,"The student selected option B, while the correct option is A. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q5,B,B,True,None,The student correctly identified the relationship between E and C.,High,UNKNOWN
+2716,Q6,D,D,True,None,The student correctly identified the largest three-digit number.,High,UNKNOWN
+2716,Q7,B,A,False,Guess,"The student selected option B, while the correct option is A. No explanation provided, so we assume it was a guess.",Low,UNKNOWN
+2716,Q8,D,D,True,None,The student correctly identified the HCF.,High,UNKNOWN
+2716,Q9,B,C,False,Guess,"The student selected option B, while the correct option is C.  No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q10,C,C,True,None,The student correctly identified the value of 1/x.,High,UNKNOWN
+2716,Q11,B,D,False,Guess,"The student selected option B, while the correct option is D.  No explanation is available, so we assume it was a guess.",Low,UNKNOWN
+2716,Q12,B,B,True,None,The student correctly identified the value of a^2 + b^2 + c^2.,High,UNKNOWN
+2716,Q13,D,D,True,None,The student correctly identified the value.,High,UNKNOWN
+2716,Q14,C,B,False,Guess,"The student selected option C, while the correct option is B. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q15,C,A,False,Guess,"The student selected option C, while the correct option is A. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q16,C,B,False,Guess,"The student selected option C, while the correct option is B. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q17,A,D,False,Guess,"The student selected option A, while the correct option is D. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q18,D,C,False,Guess,"The student selected option D, while the correct option is C. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q19,B,D,False,Conceptual,"The student selected option B, while the correct option is D. Newton's third law implies that the forces should be equal and opposite.",Low,UNKNOWN
+2716,Q20,A,A,True,None,The student correctly identified that electric current is a base quantity and a scalar.,High,UNKNOWN
+2716,Q21,B,B,True,None,The student correctly applied the pressure formula.,High,UNKNOWN
+2716,Q22,C,C,True,None,The student correctly understood the relationship between pressure and area.,High,UNKNOWN
+2716,Q23,C,C,True,None,The student correctly identified the characteristic of the wave that remains unchanged.,High,UNKNOWN
+2716,Q24,D,D,True,None,The student correctly identified whether light and sound can travel through a vacuum.,High,UNKNOWN
+2716,Q25,C,C,True,None,The student correctly calculated the distance to the cliff.,High,UNKNOWN
+2716,Q26,C,C,True,None,The student correctly identified the group containing all synthetic substances.,High,UNKNOWN
+2716,Q27,D,D,True,None,The student correctly identified the material.,High,UNKNOWN
+2716,Q28,C,C,True,None,The student correctly identified from where wool is obtained.,High,UNKNOWN
+2716,Q29,C,C,True,None,The student correctly identified artificial silk.,High,UNKNOWN
+2716,Q30,A,B,False,Guess,"The student selected option A, while the correct option is B. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q31,B,B,True,None,The student correctly identified isoelectronic ion.,High,UNKNOWN
+2716,Q32,A,A,True,None,The student correctly identified the number of electrons.,High,UNKNOWN
+2716,Q33,B,B,True,None,The student correctly identified the element with equal number of protons and neutrons.,High,UNKNOWN
+2716,Q34,C,D,False,Guess,"The student selected option C, while the correct option is D. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q35,A,A,True,None,The student correctly identified the finding of Rutherford's experiment.,High,UNKNOWN
+2716,Q36,C,C,True,None,The student correctly identified the locomotory organ of Bacteria.,High,UNKNOWN
+2716,Q37,B,D,False,Guess,"The student selected option B, while the correct option is D. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q38,B,B,True,None,The student correctly identified the composition of plasma membrane.,High,UNKNOWN
+2716,Q39,A,B,False,Guess,"The student selected option A, while the correct option is B. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q40,A,A,True,None,The student correctly identified the process used by Amoeba.,High,UNKNOWN
+2716,Q41,B,B,True,None,The student correctly identified the shape of bacillus bacteria.,High,UNKNOWN
+2716,Q42,C,B,False,Guess,"The student selected option C, while the correct option is B. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q43,C,C,True,None,The student correctly identified the carrier for dengue fever.,High,UNKNOWN
+2716,Q44,A,D,False,Guess,"The student selected option A, while the correct option is D. No explanation available, so it is a guess.",Low,UNKNOWN
+2716,Q45,D,A,False,Guess,"The student selected option D, while the correct option is A. No explanation available, so it is a guess.",Low,UNKNOWN
+240700,Q1,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q2,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q3,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q4,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q5,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q6,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q7,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q8,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q9,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q10,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q11,B,D,False,Guess,The student selected option 'B' instead of 'D'. No specific error can be determined from the given information.,Low,UNKNOWN
+240700,Q12,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q13,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q14,A,B,False,Guess,"The student selected option 'A' instead of 'B'. Without solution, it can be assumed to be a guess.",Low,UNKNOWN
+240700,Q15,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q16,C,B,False,Guess,"The student selected option 'C' instead of 'B'. Could be a calculation mistake, but assuming it is a guess without explanation.",Low,UNKNOWN
+240700,Q17,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q18,B,C,False,Conceptual,The student incorrectly identified the net force. The correct answer is zero since the block is in static equilibrium.,Low,UNKNOWN
+240700,Q19,A,D,False,Conceptual,"The student failed to recognize Newton's Third Law, which states that the forces are equal and opposite.",Low,UNKNOWN
+240700,Q20,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q21,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q22,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q23,D,C,False,Conceptual,The student selected option 'D' (Amplitude) instead of 'C' (Frequency). Frequency of the wave remains the same.,Low,UNKNOWN
+240700,Q24,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q25,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q26,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q27,A,D,False,Guess,The student selected option 'A' instead of 'D'. Assuming it's a guess as no explanation is given.,Low,UNKNOWN
+240700,Q28,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q29,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q30,A,B,False,Guess,"Student chose 'A' instead of 'B'. Without more information, assuming a guess.",Low,UNKNOWN
+240700,Q31,A,B,False,Guess,The student selected option 'A' instead of 'B'. Assuming it is a guess.,Low,UNKNOWN
+240700,Q32,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+240700,Q33,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q34,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q35,B,A,False,Guess,Student selected option 'B' instead of 'A'. Without explanation it is a guess.,Low,UNKNOWN
+240700,Q36,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q37,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+240700,Q38,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q39,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q40,B,A,False,Guess,"The student chose 'B' instead of 'A'. With the information available, it is a guess.",Low,UNKNOWN
+240700,Q41,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q42,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+240700,Q43,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+240700,Q44,A,D,False,Guess,The student selected option 'A' instead of 'D'. Assuming it's a guess.,Low,UNKNOWN
+240700,Q45,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+274800,Q2,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q3,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q4,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q5,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q6,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q7,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q8,A,D,False,Guess,The student selected the incorrect option A instead of the correct option D.,Low,UNKNOWN
+274800,Q9,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q10,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q11,B,D,False,Guess,The student selected the incorrect option B instead of the correct option D.,Low,UNKNOWN
+274800,Q12,D,B,False,Guess,The student selected the incorrect option D instead of the correct option B.,Low,UNKNOWN
+274800,Q13,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q14,A,B,False,Guess,The student selected the incorrect option A instead of the correct option B.,Low,UNKNOWN
+274800,Q15,C,A,False,Guess,The student selected the incorrect option C instead of the correct option A.,Low,UNKNOWN
+274800,Q16,A,B,False,Guess,The student selected the incorrect option A instead of the correct option B.,Low,UNKNOWN
+274800,Q17,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q18,B,C,False,Guess,The student selected the incorrect option B instead of the correct option C.,Low,UNKNOWN
+274800,Q19,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q20,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q21,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q22,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q23,A,C,False,Guess,The student selected the incorrect option A instead of the correct option C.,Low,UNKNOWN
+274800,Q24,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q25,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q26,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q27,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q28,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q29,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+274800,Q30,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q31,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q32,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q33,A,B,False,Guess,The student selected the incorrect option A instead of the correct option B.,Low,UNKNOWN
+274800,Q34,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q35,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q36,B,C,False,Guess,The student selected the incorrect option B instead of the correct option C.,Low,UNKNOWN
+274800,Q37,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q38,A,B,False,Guess,The student selected the incorrect option A instead of the correct option B.,Low,UNKNOWN
+274800,Q39,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q40,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+274800,Q41,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q42,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+274800,Q43,B,C,False,Guess,The student selected the incorrect option B instead of the correct option C.,Low,UNKNOWN
+274800,Q44,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+274800,Q45,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+250500,Q1,C,A,False,Guess,Student selected option C while the correct option is A. No solution available for reasoning.,Low,UNKNOWN
+250500,Q2,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q3,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q4,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+250500,Q5,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q6,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q7,C,A,False,Guess,Student selected option C while the correct option is A. No solution available for reasoning.,Low,UNKNOWN
+250500,Q8,BC,D,False,Careless,Student selected 'BC' which is invalid input. The correct answer is 'D'.,Low,UNKNOWN
+250500,Q9,A,C,False,Guess,Student selected option A while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q10,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q11,B,D,False,Guess,Student selected option B while the correct option is D. No solution available for reasoning.,Low,UNKNOWN
+250500,Q12,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q13,C,D,False,Guess,Student selected option C while the correct option is D. No solution available for reasoning.,Low,UNKNOWN
+250500,Q14,C,B,False,Guess,Student selected option C while the correct option is B. No solution available for reasoning.,Low,UNKNOWN
+250500,Q15,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+250500,Q16,A,B,False,Guess,Student selected option A while the correct option is B. No solution available for reasoning.,Low,UNKNOWN
+250500,Q17,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q18,B,C,False,Guess,Student selected option B while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q19,A,D,False,Guess,Student selected option A while the correct option is D. No solution available for reasoning.,Low,UNKNOWN
+250500,Q20,D,A,False,Guess,Student selected option D while the correct option is A. No solution available for reasoning.,Low,UNKNOWN
+250500,Q21,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q22,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q23,D,C,False,Guess,Student selected option D while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q24,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q25,D,C,False,Guess,Student selected option D while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q26,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q27,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q28,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q29,A,C,False,Guess,Student selected option A while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q30,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q31,A,B,False,Guess,Student selected option A while the correct option is B. No solution available for reasoning.,Low,UNKNOWN
+250500,Q32,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+250500,Q33,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q34,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q35,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+250500,Q36,A,C,False,Guess,Student selected option A while the correct option is C. No solution available for reasoning.,Low,UNKNOWN
+250500,Q37,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q38,C,B,False,Guess,Student selected option C while the correct option is B. No solution available for reasoning.,Low,UNKNOWN
+250500,Q39,A,B,False,Guess,Student selected option A while the correct option is B. No solution available for reasoning.,Low,UNKNOWN
+250500,Q40,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+250500,Q41,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q42,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+250500,Q43,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+250500,Q44,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+250500,Q45,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+229600,Q1,B,A,False,Guess,The student selected the incorrect option without a clear understanding of the series pattern.,Low,UNKNOWN
+229600,Q2,D,D,True,None,The student correctly identified the digit representing 'see' based on the code provided.,High,UNKNOWN
+229600,Q3,C,C,True,None,The student correctly determined the 2nd letter to the left of the 17th letter from the right after the alphabet reversal.,High,UNKNOWN
+229600,Q4,A,A,True,None,The student correctly identified the weight that cannot be obtained by any combination of boxes.,High,UNKNOWN
+229600,Q5,B,B,True,None,The student correctly determined the relationship between E and C based on the family information.,High,UNKNOWN
+229600,Q6,D,D,True,None,The student correctly found the largest three-digit number which leaves a remainder of 2 when divided by 8 or 12.,High,UNKNOWN
+229600,Q7,B,A,False,Guess,"Student chose a wrong option, likely due to guessing as the solution is not available.",Low,UNKNOWN
+229600,Q8,A,D,False,Guess,The student selected an incorrect option without clear evidence of understanding the HCF calculation.,Low,UNKNOWN
+229600,Q9,B,C,False,Guess,"The student selected the incorrect answer, indicating a possible misunderstanding of exponential and radical calculations.",Low,UNKNOWN
+229600,Q10,C,C,True,None,The student correctly calculated the value of x and then the value of 1+x-x.,High,UNKNOWN
+229600,Q11,B,D,False,Guess,"The student selected the incorrect digit for 'd' to make the number divisible by 18, indicating lack of divisibility rule knowledge.",Low,UNKNOWN
+229600,Q12,D,B,False,Guess,"The student seems to have guessed, without understanding the formula application",Low,UNKNOWN
+229600,Q13,D,D,True,None,The student correctly simplified and identified the equivalent expression.,High,UNKNOWN
+229600,Q14,C,B,False,Guess,"Student chose a wrong option, likely due to guessing as the solution is not available.",Low,UNKNOWN
+229600,Q15,A,A,True,None,The student correctly determined the sign of the remainder when the expression is divided by (p-1).,High,UNKNOWN
+229600,Q16,A,B,False,Guess,"The student calculated the pressure incorrectly, possibly due to confusion with units or formula application.",Low,UNKNOWN
+229600,Q17,C,D,False,Guess,"The student selected the incorrect unit, suggesting a misunderstanding of mass unit conversions.",Low,UNKNOWN
+229600,Q18,A,C,False,Guess,"The student incorrectly identified the net force. As the block is motionless, net force is zero.",Low,UNKNOWN
+229600,Q19,C,D,False,Guess,"The student incorrectly related the forces during the collision, potentially misunderstanding Newton's third law.",Low,UNKNOWN
+229600,Q20,B,A,False,Guess,"Student guessed, but doesn't understand properties of Electric current.",Low,UNKNOWN
+229600,Q21,C,B,False,Guess,"Student chose the wrong application of the pressure formula, confusing area's inverse relationship with pressure.",Low,UNKNOWN
+229600,Q22,C,C,True,None,The student correctly identified that increasing the contact area reduces pressure on the snow.,High,UNKNOWN
+229600,Q23,A,C,False,Guess,Student mixed up characteristics of sound wave when medium changes.,Low,UNKNOWN
+229600,Q24,D,D,True,None,"The student correctly identified that light can travel through a vacuum, but sound cannot.",High,UNKNOWN
+229600,Q25,D,C,False,Guess,"The student calculated the distance incorrectly, not considering the echo travel distance from the cliff to the person, instead of from the person to the cliff.",Low,UNKNOWN
+229600,Q26,C,C,True,None,The student correctly identified the group containing only synthetic substances.,High,UNKNOWN
+229600,Q27,D,D,True,None,The student correctly identified the material commonly used for making kitchen containers.,High,UNKNOWN
+229600,Q28,A,C,False,Guess,"The student incorrectly answered, indicating a possible lack of knowledge about the source of wool.",Low,UNKNOWN
+229600,Q29,C,C,True,None,The student correctly identified Rayon as artificial silk.,High,UNKNOWN
+229600,Q30,B,B,True,None,The student correctly identified the term for rearing silk worms.,High,UNKNOWN
+229600,Q31,B,B,True,None,The student correctly identified the isoelectronic ion.,High,UNKNOWN
+229600,Q32,A,A,True,None,The student correctly stated the number of electrons equal to the number of protons in a neutral atom.,High,UNKNOWN
+229600,Q33,B,B,True,None,The student correctly identified the element with an equal number of neutrons and protons.,High,UNKNOWN
+229600,Q34,D,D,True,None,The student correctly identified isotopes and allotropes as having similar chemical properties.,High,UNKNOWN
+229600,Q35,A,A,True,None,The student correctly stated that Rutherford's experiment showed the existence of the nucleus.,High,UNKNOWN
+229600,Q36,B,C,False,Guess,"The student incorrectly answered, indicating a possible lack of knowledge about the bacteria locomotion.",Low,UNKNOWN
+229600,Q37,C,D,False,Guess,The student made a guess without understanding that animal cells do not have cell walls.,Low,UNKNOWN
+229600,Q38,B,B,True,None,The student correctly identified the composition of the plasma membrane.,High,UNKNOWN
+229600,Q39,A,B,False,Guess,The student doesn't understand differences between prokaryotic and eukaryotic cells,Low,UNKNOWN
+229600,Q40,D,A,False,Guess,Student doesn't understand mechanism of how Amoeba engulf food.,Low,UNKNOWN
+229600,Q41,B,B,True,None,The student correctly identified the shape of bacillus bacteria.,High,UNKNOWN
+229600,Q42,B,B,True,None,The student correctly identified Influenza as a disease caused by a virus.,High,UNKNOWN
+229600,Q43,C,C,True,None,The student correctly identified the carrier for dengue fever.,High,UNKNOWN
+229600,Q44,C,D,False,Guess,The student incorrectly identified the cause of citrus canker disease.,Low,UNKNOWN
+229600,Q45,A,A,True,None,The student correctly identified the main component of biogas.,High,UNKNOWN
+260900,Q1,D,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q2,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q3,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q4,B,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q5,D,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q6,A,D,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q7,C,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q8,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q9,A,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q10,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q11,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q12,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q13,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q14,D,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q15,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q16,A,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q17,C,D,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q18,A,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q19,B,D,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q20,C,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q21,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q22,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q23,D,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q24,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q25,D,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q26,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q27,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q28,D,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q29,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q30,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q31,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q32,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q33,C,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q34,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q35,B,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q36,D,C,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q37,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q38,C,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q39,D,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q40,B,A,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q41,C,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q42,A,B,False,Guess,The student selected the wrong option without any explanation provided. So assuming it was a guess.,Low,UNKNOWN
+260900,Q43,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q44,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260900,Q45,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+67264,Q1,C,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q2,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q3,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q4,D,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q5,B,B,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q6,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q7,C,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q8,C,D,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q9,D,C,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q10,D,C,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q11,C,D,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q12,D,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q13,A,D,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q14,B,B,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q15,A,A,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q16,A,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q17,A,D,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q18,A,C,False,Conceptual,"The student doesn't seem to grasp the concept of static equilibrium, thinking gravity acts down the ramp even when stationary.",Low,UNKNOWN
+67264,Q19,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q20,A,A,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q21,B,B,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q22,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q23,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q24,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q25,D,C,False,Calculation,The student likely forgot to divide the total distance traveled by the echo by 2 to get the distance to the cliff.,Medium,UNKNOWN
+67264,Q26,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q27,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q28,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q29,A,C,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q30,C,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q31,A,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q32,A,A,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q33,D,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q34,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q35,B,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q36,B,C,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q37,D,D,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q38,C,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q39,B,B,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q40,B,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q41,A,B,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q42,B,B,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q43,C,C,True,None,Student selected the correct option.,High,UNKNOWN
+67264,Q44,C,D,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+67264,Q45,B,A,False,Guess,Student selected the wrong option. No explanation is provided to determine the logic.,Low,UNKNOWN
+324247,Q1,D,A,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q2,D,D,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q3,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q4,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q5,D,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q6,A,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q7,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q8,A,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q9,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q10,B,C,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q11,C,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q12,D,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q13,C,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q14,C,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q15,C,A,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q16,C,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q17,A,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q18,B,C,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q19,B,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q20,B,A,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q21,B,B,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q22,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q23,D,C,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q24,D,D,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q25,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q26,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q27,C,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q28,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q29,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q30,C,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q31,A,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q32,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q33,C,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q34,A,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q35,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q36,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q37,D,D,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q38,B,B,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q39,A,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q40,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q41,C,B,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q42,B,B,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q43,C,C,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+324247,Q44,B,D,False,Guess,"The student's answer does not match the correct answer, and no solution is provided to identify any error in reasoning. Thus it was a guess.",Low,UNKNOWN
+324247,Q45,A,A,True,None,The student's answer matches the correct answer.,High,UNKNOWN
+269500,Q1,D,A,False,Guess,"The student selected option D, but the correct answer is A. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q2,D,D,True,None,"The student selected option D, which is the correct answer.",High,UNKNOWN
+269500,Q3,A,C,False,Guess,"The student selected option A, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q4,A,A,True,None,"The student selected option A, which is the correct answer.",High,UNKNOWN
+269500,Q5,B,B,True,None,"The student selected option B, which is the correct answer.",High,UNKNOWN
+269500,Q6,D,D,True,None,"The student selected option D, which is the correct answer.",High,UNKNOWN
+269500,Q7,A,A,True,None,"The student selected option A, which is the correct answer.",High,UNKNOWN
+269500,Q8,D,D,True,None,"The student selected option D, which is the correct answer.",High,UNKNOWN
+269500,Q9,D,C,False,Guess,"The student selected option D, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q10,C,C,True,None,"The student selected option C, which is the correct answer.",High,UNKNOWN
+269500,Q11,B,D,False,Guess,"The student selected option B, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q12,D,B,False,Guess,"The student selected option D, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q13,A,D,False,Guess,"The student selected option A, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q14,A,B,False,Guess,"The student selected option A, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q15,A,A,True,None,"The student selected option A, which is the correct answer.",High,UNKNOWN
+269500,Q16,A,B,False,Guess,"The student selected option A, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q17,C,D,False,Guess,"The student selected option C, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q18,A,C,False,Guess,"The student selected option A, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q19,A,D,False,Guess,"The student selected option A, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q20,D,A,False,Guess,"The student selected option D, but the correct answer is A. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q21,B,B,True,None,"The student selected option B, which is the correct answer.",High,UNKNOWN
+269500,Q22,C,C,True,None,"The student selected option C, which is the correct answer.",High,UNKNOWN
+269500,Q23,D,C,False,Guess,"The student selected option D, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q24,D,D,True,None,"The student selected option D, which is the correct answer.",High,UNKNOWN
+269500,Q25,D,C,False,Guess,"The student selected option D, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q26,C,C,True,None,"The student selected option C, which is the correct answer.",High,UNKNOWN
+269500,Q27,B,D,False,Guess,"The student selected option B, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q28,A,C,False,Guess,"The student selected option A, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q29,A,C,False,Guess,"The student selected option A, but the correct answer is C. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q30,D,B,False,Guess,"The student selected option D, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q31,A,B,False,Guess,"The student selected option A, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q32,A,A,True,None,"The student selected option A, which is the correct answer.",High,UNKNOWN
+269500,Q33,B,B,True,None,"The student selected option B, which is the correct answer.",High,UNKNOWN
+269500,Q34,D,D,True,None,"The student selected option D, which is the correct answer.",High,UNKNOWN
+269500,Q35,B,A,False,Guess,"The student selected option B, but the correct answer is A. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q36,C,C,True,None,"The student selected option C, which is the correct answer.",High,UNKNOWN
+269500,Q37,B,D,False,Guess,"The student selected option B, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q38,C,B,False,Guess,"The student selected option C, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q39,B,B,True,None,"The student selected option B, which is the correct answer.",High,UNKNOWN
+269500,Q40,B,A,False,Guess,"The student selected option B, but the correct answer is A. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q41,D,B,False,Guess,"The student selected option D, but the correct answer is B. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q42,B,B,True,None,"The student selected option B, which is the correct answer.",High,UNKNOWN
+269500,Q43,C,C,True,None,"The student selected option C, which is the correct answer.",High,UNKNOWN
+269500,Q44,A,D,False,Guess,"The student selected option A, but the correct answer is D. No explanation is available, so we assume it's a guess.",Low,UNKNOWN
+269500,Q45,A,A,True,None,"The student selected option A, which is the correct answer.",High,UNKNOWN
+270300,Q1,C,A,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q2,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q3,D,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q4,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q5,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q6,C,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q7,D,A,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q8,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q9,D,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q10,B,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q11,C,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q12,C,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q13,C,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q14,D,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q15,C,A,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q16,C,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q17,A,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q18,A,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q19,B,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q20,D,A,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q21,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q22,D,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q23,B,C,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q24,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q25,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q26,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q27,B,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q28,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q29,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q30,A,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q31,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q32,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q33,A,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q34,C,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q35,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q36,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q37,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q38,C,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q39,D,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q40,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q41,D,B,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q42,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q43,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+270300,Q44,C,D,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+270300,Q45,B,A,False,Guess,"The student selected the wrong option. No explanation is provided, so it's marked as a guess.",Low,UNKNOWN
+260800,Q1,D,A,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q2,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q3,A,C,False,Guess,The student selected the wrong option. No explanation is available to determine mistake type beyond a guess.,Low,UNKNOWN
+260800,Q4,B,A,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q5,D,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q6,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q7,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q8,C,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q9,D,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q10,A,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q11,B,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q12,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q13,C,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q14,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q15,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q16,A,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q17,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q18,B,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q19,A,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q20,C,A,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q21,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q22,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q23,A,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q24,C,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q25,D,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q26,B,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q27,A,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q28,A,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q29,B,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q30,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q31,C,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q32,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q33,A,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q34,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q35,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q36,D,C,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q37,B,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q38,C,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q39,C,B,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q40,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q41,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q42,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q43,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+260800,Q44,A,D,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260800,Q45,B,A,False,Guess,"The student selected the wrong option. Without an explanation, it appears to be a guess.",Low,UNKNOWN
+260400,Q1,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+260400,Q2,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+260400,Q3,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+260400,Q4,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+260400,Q5,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+260400,Q6,A,D,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q7,B,A,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q8,C,D,False,Guess,Student selected the incorrect option C.,Low,UNKNOWN
+260400,Q9,B,C,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q10,A,C,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q11,B,D,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q12,D,B,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q13,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+260400,Q14,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+260400,Q15,B,A,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q16,A,B,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q17,A,D,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q18,D,C,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q19,D,D,True,None,Student selected the correct option D.,High,UNKNOWN
+260400,Q21,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+260400,Q22,D,C,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q23,A,C,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q24,C,D,False,Guess,Student selected the incorrect option C.,Low,UNKNOWN
+260400,Q25,B,C,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q26,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+260400,Q27,B,D,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q28,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+260400,Q29,B,C,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q30,C,B,False,Guess,Student selected the incorrect option C.,Low,UNKNOWN
+260400,Q31,D,B,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q32,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
+260400,Q33,D,B,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q34,A,D,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q35,D,A,False,Guess,Student selected the incorrect option D.,Low,UNKNOWN
+260400,Q36,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+260400,Q37,C,D,False,Guess,Student selected the incorrect option C.,Low,UNKNOWN
+260400,Q38,A,B,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q39,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+260400,Q40,C,A,False,Guess,Student selected the incorrect option C.,Low,UNKNOWN
+260400,Q41,A,B,False,Guess,Student selected the incorrect option A.,Low,UNKNOWN
+260400,Q42,B,B,True,None,Student selected the correct option B.,High,UNKNOWN
+260400,Q43,C,C,True,None,Student selected the correct option C.,High,UNKNOWN
+260400,Q44,B,D,False,Guess,Student selected the incorrect option B.,Low,UNKNOWN
+260400,Q45,A,A,True,None,Student selected the correct option A.,High,UNKNOWN
