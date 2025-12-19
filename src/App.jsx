@@ -241,13 +241,16 @@ function App() {
                         </select>
                     </div>
 
-                    {/* Fix It Zone - Static & Persistent at Top of Panel */}
-                    <div className="fix-it-zone">
-                        <div className="fix-it-header">
+                    {/* Fix It Zone - Static on Desktop, Collapsed Toggle on Mobile */}
+                    <div className={`fix-it-zone ${isFixItOpen ? 'is-open' : 'is-collapsed'}`}>
+                        <div className="fix-it-header" onClick={() => setIsFixItOpen(!isFixItOpen)}>
                             <span style={{ display: 'flex', alignItems: 'center', gap: '12px', fontWeight: '700' }}>
                                 <span style={{ background: '#ef4444', height: '8px', width: '8px', borderRadius: '50%' }}></span>
                                 Fix It Zone
                             </span>
+                            <div className="mobile-only">
+                                {isFixItOpen ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
+                            </div>
                         </div>
                         <div className="fix-it-content">
                             {selectedStudent ? (
@@ -270,10 +273,10 @@ function App() {
 
                     <div className="student-accuracy-strip">
                         <span>Performance Snapshot</span>
-                        <span style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                            <span style={{ color: 'var(--text-muted)', fontSize: '0.85rem', fontWeight: '500' }}>Accuracy:</span>
-                            <span style={{ fontSize: '1.2rem', color: 'var(--primary-blue)' }}>{selectedStudent?.accuracy_percentage ? `${selectedStudent.accuracy_percentage}%` : '—'}</span>
-                        </span>
+                        <div className="accuracy-box">
+                            <span className="accuracy-label-small">Accuracy:</span>
+                            <span className="accuracy-percent">{selectedStudent?.accuracy_percentage ? `${selectedStudent.accuracy_percentage}%` : '—'}</span>
+                        </div>
                     </div>
 
                     <div className="zone-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px' }}>
