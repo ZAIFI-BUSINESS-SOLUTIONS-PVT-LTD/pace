@@ -134,6 +134,9 @@ function App() {
                 <div className="header-left">
                     <img src="/Assets/logo2.png" alt="Pace Academy" className="logo-pace" />
                 </div>
+                <div className="header-center desk-only">
+                    <h1 className="header-title">InzightEd Dashboard</h1>
+                </div>
                 <div className="header-right">
                     <img src="/Assets/logo1.svg" alt="InzightEd" className="logo-inzighted" />
                 </div>
@@ -229,7 +232,6 @@ function App() {
                             value={selectedStudentId}
                             onChange={(e) => {
                                 setSelectedStudentId(e.target.value);
-                                setIsFixItOpen(false); // Mobile UX: Collapse by default
                             }}
                         >
                             <option value="">Select Student</option>
@@ -237,6 +239,33 @@ function App() {
                                 <option key={student.student_id} value={student.student_id}>Student ID: {student.student_id}</option>
                             ))}
                         </select>
+                    </div>
+
+                    {/* Fix It Zone - Static & Persistent at Top of Panel */}
+                    <div className="fix-it-zone">
+                        <div className="fix-it-header">
+                            <span style={{ display: 'flex', alignItems: 'center', gap: '12px', fontWeight: '700' }}>
+                                <span style={{ background: '#ef4444', height: '8px', width: '8px', borderRadius: '50%' }}></span>
+                                Fix It Zone
+                            </span>
+                        </div>
+                        <div className="fix-it-content">
+                            {selectedStudent ? (
+                                <>
+                                    <h4 style={{ borderLeft: '4px solid #ef4444', paddingLeft: '12px' }}>{selectedStudent.dominant_mistake_pattern}</h4>
+                                    <div className="fix-it-text">
+                                        <p>{selectedStudent.llm_summary}</p>
+                                        <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '24px' }}>
+                                            <div style={{ background: 'var(--text-dark)', color: 'white', borderRadius: '50%', padding: '6px', cursor: 'pointer', transition: 'transform 0.2s' }} onMouseEnter={e => e.currentTarget.style.transform = 'translateX(4px)'} onMouseLeave={e => e.currentTarget.style.transform = 'translateX(0)'}>
+                                                <ArrowRight size={20} />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </>
+                            ) : (
+                                <p style={{ color: 'var(--text-muted)', fontStyle: 'italic' }}>Select a student to view detailed mistake patterns and recommendations.</p>
+                            )}
+                        </div>
                     </div>
 
                     <div className="student-accuracy-strip">
@@ -279,36 +308,6 @@ function App() {
                                 </ul>
                             </div>
                         </div>
-                    </div>
-
-                    {/* Fix It Zone - Expandable */}
-                    <div className="fix-it-zone">
-                        <div className="fix-it-header" onClick={() => setIsFixItOpen(!isFixItOpen)}>
-                            <span style={{ display: 'flex', alignItems: 'center', gap: '12px', fontWeight: '700' }}>
-                                <span style={{ background: '#ef4444', height: '8px', width: '8px', borderRadius: '50%' }}></span>
-                                Fix It Zone
-                            </span>
-                            {isFixItOpen ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
-                        </div>
-                        {isFixItOpen && (
-                            <div className="fix-it-content">
-                                {selectedStudent ? (
-                                    <>
-                                        <h4 style={{ borderLeft: '4px solid #ef4444', paddingLeft: '12px' }}>{selectedStudent.dominant_mistake_pattern}</h4>
-                                        <div className="fix-it-text">
-                                            <p>{selectedStudent.llm_summary}</p>
-                                            <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '24px' }}>
-                                                <div style={{ background: 'var(--text-dark)', color: 'white', borderRadius: '50%', padding: '6px', cursor: 'pointer', transition: 'transform 0.2s' }} onMouseEnter={e => e.currentTarget.style.transform = 'translateX(4px)'} onMouseLeave={e => e.currentTarget.style.transform = 'translateX(0)'}>
-                                                    <ArrowRight size={20} />
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </>
-                                ) : (
-                                    <p style={{ color: 'var(--text-muted)', fontStyle: 'italic' }}>Select a student to view detailed mistake patterns and recommendations.</p>
-                                )}
-                            </div>
-                        )}
                     </div>
                 </section>
             </main>
