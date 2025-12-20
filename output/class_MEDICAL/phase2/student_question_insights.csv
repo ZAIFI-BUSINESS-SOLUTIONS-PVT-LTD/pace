@@ -1,0 +1,151 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+274600,Q1,A,C,False,Guess,"The student selected the wrong option. Without an explanation, it's hard to ascertain the mistake. Assuming a guess.",Low,UNKNOWN
+274600,Q2,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q3,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q4,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q5,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q6,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q7,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q8,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q9,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q10,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q11,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q12,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q13,A,B,False,Guess,The student selected the wrong option. Assuming a guess given no explanation.,Low,UNKNOWN
+274600,Q14,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q15,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q16,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q17,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q18,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q19,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q20,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q21,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q22,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q23,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q24,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q25,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q26,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q27,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q28,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q29,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q30,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q31,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q32,C,B,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q33,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q34,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q35,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q36,C,B,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q37,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q38,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q39,A,D,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q40,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q41,C,D,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q42,D,B,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q43,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q44,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q45,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q46,D,C,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q47,D,A,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+274600,Q48,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q49,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+274600,Q50,A,D,False,Guess,"The student selected the wrong option. Assuming a guess, no work shown.",Low,UNKNOWN
+253411,Q1,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q2,A,B,False,Guess,"Student selected option A, but the correct option is B.",Medium,UNKNOWN
+253411,Q3,D,D,True,None,"Student selected the correct option, D.",Medium,UNKNOWN
+253411,Q4,C,B,False,Guess,"Student selected option C, but the correct option is B.",Medium,UNKNOWN
+253411,Q5,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q6,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q7,D,D,True,None,"Student selected the correct option, D.",Medium,UNKNOWN
+253411,Q8,A,D,False,Guess,"Student selected option A, but the correct option is D.",Medium,UNKNOWN
+253411,Q9,C,D,False,Guess,"Student selected option C, but the correct option is D.",Medium,UNKNOWN
+253411,Q10,C,D,False,Guess,"Student selected option C, but the correct option is D.",Medium,UNKNOWN
+253411,Q11,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q12,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q13,C,B,False,Guess,"Student selected option C, but the correct option is B.",Medium,UNKNOWN
+253411,Q14,D,C,False,Guess,"Student selected option D, but the correct option is C.",Medium,UNKNOWN
+253411,Q15,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q16,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q17,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q18,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q19,B,D,False,Guess,"Student selected option B, but the correct option is D.",Medium,UNKNOWN
+253411,Q20,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q21,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q22,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q23,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q24,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q25,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q26,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q27,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q28,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q29,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q30,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q31,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q32,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q33,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q34,C,B,False,Guess,"Student selected option C, but the correct option is B.",Medium,UNKNOWN
+253411,Q35,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q36,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q37,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q38,D,C,False,Guess,"Student selected option D, but the correct option is C.",Medium,UNKNOWN
+253411,Q39,A,D,False,Guess,"Student selected option A, but the correct option is D.",Medium,UNKNOWN
+253411,Q40,D,C,False,Guess,"Student selected option D, but the correct option is C.",Medium,UNKNOWN
+253411,Q41,C,D,False,Guess,"Student selected option C, but the correct option is D.",Medium,UNKNOWN
+253411,Q42,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q43,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q44,B,B,True,None,"Student selected the correct option, B.",Medium,UNKNOWN
+253411,Q45,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q46,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q47,A,A,True,None,"Student selected the correct option, A.",Medium,UNKNOWN
+253411,Q48,D,D,True,None,"Student selected the correct option, D.",Medium,UNKNOWN
+253411,Q49,C,C,True,None,"Student selected the correct option, C.",Medium,UNKNOWN
+253411,Q50,A,D,False,Guess,"Student selected option A, but the correct option is D.",Medium,UNKNOWN
+269000,Q1,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q2,A,B,False,Guess,The student selected the incorrect option A instead of B.,Low,UNKNOWN
+269000,Q3,A,D,False,Guess,The student selected the incorrect option A instead of D.,Low,UNKNOWN
+269000,Q4,A,B,False,Guess,The student selected the incorrect option A instead of B.,Low,UNKNOWN
+269000,Q5,C,B,False,Guess,The student selected the incorrect option C instead of B.,Low,UNKNOWN
+269000,Q6,C,A,False,Guess,The student selected the incorrect option C instead of A.,Low,UNKNOWN
+269000,Q7,D,D,True,None,The student selected the correct option D.,Medium,UNKNOWN
+269000,Q8,B,D,False,Guess,The student selected the incorrect option B instead of D.,Low,UNKNOWN
+269000,Q9,B,D,False,Guess,The student selected the incorrect option B instead of D.,Low,UNKNOWN
+269000,Q10,D,D,True,None,The student selected the correct option D.,Medium,UNKNOWN
+269000,Q11,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q12,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q13,A,B,False,Guess,The student selected the incorrect option A instead of B.,Low,UNKNOWN
+269000,Q14,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q15,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q16,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q17,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q18,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q19,A,D,False,Guess,The student selected the incorrect option A instead of D.,Low,UNKNOWN
+269000,Q20,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q21,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q22,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q23,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q24,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q25,A,C,False,Guess,The student selected the incorrect option A instead of C.,Low,UNKNOWN
+269000,Q26,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q27,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q28,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q29,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q30,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q31,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q32,D,B,False,Guess,The student selected the incorrect option D instead of B.,Low,UNKNOWN
+269000,Q33,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q34,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q35,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q36,C,B,False,Guess,The student selected the incorrect option C instead of B.,Low,UNKNOWN
+269000,Q37,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q38,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q39,D,D,True,None,The student selected the correct option D.,Medium,UNKNOWN
+269000,Q40,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q41,B,D,False,Guess,The student selected the incorrect option B instead of D.,Low,UNKNOWN
+269000,Q42,C,B,False,Guess,The student selected the incorrect option C instead of B.,Low,UNKNOWN
+269000,Q43,A,A,True,None,The student selected the correct option A.,Medium,UNKNOWN
+269000,Q44,B,B,True,None,The student selected the correct option B.,Medium,UNKNOWN
+269000,Q45,A,C,False,Guess,The student selected the incorrect option A instead of C.,Low,UNKNOWN
+269000,Q46,D,C,False,Guess,The student selected the incorrect option D instead of C.,Low,UNKNOWN
+269000,Q47,C,A,False,Guess,The student selected the incorrect option C instead of A.,Low,UNKNOWN
+269000,Q48,D,D,True,None,The student selected the correct option D.,Medium,UNKNOWN
+269000,Q49,C,C,True,None,The student selected the correct option C.,Medium,UNKNOWN
+269000,Q50,A,D,False,Guess,The student selected the incorrect option A instead of D.,Low,UNKNOWN

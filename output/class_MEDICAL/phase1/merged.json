@@ -1,0 +1,702 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "A body mass 2 kg collides with a wall with a speed of 100 ms\u20131 and rebounds with the same speed. If \ntime of contact was 1\n50  second then the force exerted on the wall is",
+        "options": [
+            "(1) 4 N",
+            "(2) 8 N",
+            "(3) \n4\n2 10 N\n\uf0b4",
+            "(4) zero"
+        ],
+        "question_id": "Q1",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Two bodies of masses 3 kg and 4 kg are tied to the end of massless string. The string passes over a \nfrictionless pulley. If g = 10 ms\u20132, the tension in the string is",
+        "options": [
+            "(1) 120\n7  N",
+            "(2) 240\n7\nN",
+            "(3) 280\n7\nN",
+            "(4) 320\n7 N"
+        ],
+        "question_id": "Q2",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 3,
+        "question_text": "Force versus time graph for the motion of a body is shown in figure. Then the change in linear \nmomentum between t = 0 and t = 8s is",
+        "options": [
+            "(1) 4 Ns",
+            "(2) 8 Ns",
+            "(3) 12 Ns",
+            "(4) Zero"
+        ],
+        "question_id": "Q3",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 4,
+        "question_text": "A constant force acts on a body of mass m at rest. The velocity \uf06eacquired in transversing a specific \ndistance depends on m as",
+        "options": [
+            "(1) \n1\nm\n\uf06e\uf0b5",
+            "(2) \n1\nm\n\uf06e\uf0b5",
+            "(3) \nm\n\uf06e\uf0b5",
+            "(4) \n0\nm\n\uf06e\uf0b5"
+        ],
+        "question_id": "Q4",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 5,
+        "question_text": "What force will change the velocity of a body of mass 2kg from 20 ms\u20131 to 30\n1\nms\uf02din two seconds?",
+        "options": [
+            "(1) 5 N",
+            "(2) 10 N",
+            "(3) 20 N",
+            "(4) None of these"
+        ],
+        "question_id": "Q5",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 6,
+        "question_text": "Two bullets P and Q masses 10g and 20g are moving in the same direction towards a target with \nvelocities of 20m/s and 10 m/s respectively. Which one of the bullets will pierce a greater distance \nthrough the target?    (assume average resistive force is constant)",
+        "options": [
+            "(1) P",
+            "(2) Q",
+            "(3) both will cover the same distance",
+            "(4)   nothing can be decided"
+        ],
+        "question_id": "Q6",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 7,
+        "question_text": "The number of joules contained in 1 kWh is",
+        "options": [
+            "(1) \n2\n36 10\n\uf0b4",
+            "(2) \n3\n36 10\n\uf0b4",
+            "(3) \n4\n36 10\n\uf0b4",
+            "(4) \n6\n3.6 10\n\uf0b4"
+        ],
+        "question_id": "Q7",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 8,
+        "question_text": "When the momentum of body increases by 10%, its K.E. increases by  \n(assume mass remain constant)",
+        "options": [
+            "(1) 20%",
+            "(2) 40%",
+            "(3) 44%",
+            "(4) none of these"
+        ],
+        "question_id": "Q8",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 9,
+        "question_text": "When the momentum of a body decreases by 10%, its K.E. decreases by \n(assume mass remain constant)",
+        "options": [
+            "(1) 20%",
+            "(2) 40%",
+            "(3) 36%",
+            "(4) none of these"
+        ],
+        "question_id": "Q9",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 10,
+        "question_text": "In which of the following cases will the work done be maximum? The body is moved through a \ndistance S on the ground",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "question_id": "Q10",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 11,
+        "question_text": "Which of the following correctly depicts reflections in case of plane mirrors inclined at 40o ?",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "question_id": "Q11",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 12,
+        "question_text": "A ray, emerging from a point on the object, passing through the centre of curvature C strikes the mirror \nnormally i.e. at \no90 . Then the angle of incidence is equal to",
+        "options": [
+            "(1) \no0",
+            "(2) \no45",
+            "(3) \no90",
+            "(4) \no180"
+        ],
+        "question_id": "Q12",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 13,
+        "question_text": "When a ray of light strikes a plane mirror at an angle of  \no15  with the mirror, what will be the angle \nthrough which the ray gets deviated?",
+        "options": [
+            "(1) \no15",
+            "(2) \no30",
+            "(3) \no75",
+            "(4) None of these"
+        ],
+        "question_id": "Q13",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 14,
+        "question_text": "Which of the following correctly depicts the reflection of a ray of light on a spherical mirror?",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "question_id": "Q14",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 15,
+        "question_text": "Which of the following shows the bending of light from denser (D) medium into a rarer (R) medium?",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "question_id": "Q15",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 16,
+        "question_text": "The atomic number of element X is 19. Which statement is correct about X?",
+        "options": [
+            "(1) Period 3, Group 1, valency 1",
+            "(2) Period 4, Group 1, valency 1",
+            "(3) Period 4, Group 2, valency 2",
+            "(4)   Period 3, Group 2, valency 2"
+        ],
+        "question_id": "Q16",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 17,
+        "question_text": "Which pair of elements is most likely to form an ionic compound of type MCl2?",
+        "options": [
+            "(1) Na and Cl",
+            "(2) Mg and Cl",
+            "(3) Al and Cl",
+            "(4)  S and Cl"
+        ],
+        "question_id": "Q17",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 18,
+        "question_text": "Elements P (2,8,6) and Q (2,8,2) react to form a compound. What is the simplest formula?",
+        "options": [
+            "(1) PQ",
+            "(2) P2Q2",
+            "(3) P2Q",
+            "(4)  PQ2"
+        ],
+        "question_id": "Q18",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 19,
+        "question_text": "Which set correctly shows decreasing atomic radius within a period?",
+        "options": [
+            "(1) Na > Mg > Al > Si",
+            "(2) Si > Al > Mg > Na",
+            "(3) Na < Mg < Al < Si",
+            "(4)  Si < Al < Mg < Na"
+        ],
+        "question_id": "Q19",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 20,
+        "question_text": "Which element will have maximum metallic character in the third period?",
+        "options": [
+            "(1) Na",
+            "(2) Mg",
+            "(3) Al",
+            "(4)  Si"
+        ],
+        "question_id": "Q20",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 21,
+        "question_text": "The atomic numbers of four elements are: 8, 10, 16, 18. Which pair are noble gases and hence \nchemically least reactive?",
+        "options": [
+            "(1) 8 and 16",
+            "(2) 8 and 18",
+            "(3) 10 and 18",
+            "(4)  10 and 16"
+        ],
+        "question_id": "Q21",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 22,
+        "question_text": "Which statement about variation of valency across a period is correct?",
+        "options": [
+            "(1)  Valency remains constant",
+            "(2)  Valency increases from 1 to 8",
+            "(3)  Valency first increases from 1 to 4, then decreases to 0.",
+            "(4)  Valency randomly changes without pattern"
+        ],
+        "question_id": "Q22",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 23,
+        "question_text": "Which correctly represents a balanced combination reaction?",
+        "options": [
+            "(1) 2KClO3 \u2192 2KCl + 3O2",
+            "(2) CaO + CO2 \u2192 CaCO3",
+            "(3)  2H2O \u2192 2H2 + O2",
+            "(4)   Zn + CuSO4 \u2192 ZnSO4 + Cu"
+        ],
+        "question_id": "Q23",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 24,
+        "question_text": "In the reaction: Fe + CuSO4 \u2192 FeSO4 + Cu, which species acts as the reducing agent?",
+        "options": [
+            "(1) Fe",
+            "(2) CuSO4",
+            "(3) FeSO4",
+            "(4) Cu"
+        ],
+        "question_id": "Q24",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 25,
+        "question_text": "A white solid \"A\" on heating strongly gives a white solid \"B\" and a colourless gas \"C\" that turns \nlimewater milky. Which compound is \"A\"?",
+        "options": [
+            "(1) ZnCO3",
+            "(2) Pb(NO3)2",
+            "(3) CaCO3",
+            "(4) NaHCO3"
+        ],
+        "question_id": "Q25",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Which change definitely indicates a chemical reaction?",
+        "options": [
+            "(1) Evaporation of alcohol",
+            "(2)   Sublimation of iodine",
+            "(3) Formation of brown gas when heating lead nitrate",
+            "(4)  Melting of naphthalene"
+        ],
+        "question_id": "Q26",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Identify the correct pair of oxidised and reduced species in the reaction: 2Mg + O2 \u2192 2MgO",
+        "options": [
+            "(1) Mg oxidised, O2 reduced",
+            "(2) Mg reduced, O2 oxidised",
+            "(3) Mg and O2 both oxidised",
+            "(4) Mg and O2 both reduced"
+        ],
+        "question_id": "Q27",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 28,
+        "question_text": "On passing electricity through molten lead (II) bromide, grey metal forms at one electrode and \nreddish\u2011brown vapours at the other. This reaction is best classified as:",
+        "options": [
+            "(1) Combination",
+            "(2) Decomposition (electrolytic)",
+            "(3) Displacement",
+            "(4) Double displacement"
+        ],
+        "question_id": "Q28",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 29,
+        "question_text": "A metal X forms a green basic carbonate layer on long exposure to moist air. Which metal is X, and \nwhat type of reaction has occurred?",
+        "options": [
+            "(1) Iron; redox and corrosion",
+            "(2) Copper; redox and corrosion",
+            "(3) Aluminium; displacement",
+            "(4) Zinc; neutralisation"
+        ],
+        "question_id": "Q29",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 30,
+        "question_text": "Consider the skeletal equation: Al + Fe2O3 \u2192 Al2O3 + Fe. What are the correct coefficients to balance \nthe equation?",
+        "options": [
+            "(1) 1,1,1,1",
+            "(2) 2,1,1,2",
+            "(3) 2,1,2,1",
+            "(4) 2,3,1,3"
+        ],
+        "question_id": "Q30",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 31,
+        "question_text": "The process of digestion is completed by:",
+        "options": [
+            "(1) Intestinal juice",
+            "(2) trypsin",
+            "(3) bile juice",
+            "(4) pepsin"
+        ],
+        "question_id": "Q31",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 32,
+        "question_text": "Lipase acts on",
+        "options": [
+            "(1) Amino acids",
+            "(2) Fats",
+            "(3) Carbohydrates",
+            "(4) All of these"
+        ],
+        "question_id": "Q32",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 33,
+        "question_text": "In human males, the testes lie in the scrotum, because it helps in the",
+        "options": [
+            "(1) process of mating",
+            "(2) formation of sperms",
+            "(3) easy transfer of gametes",
+            "(4) secretion of estrogen"
+        ],
+        "question_id": "Q33",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 34,
+        "question_text": "Assertion (A): The main pulmonary artery pumps oxygenated blood from the right ventricle into the \nlungs.\n\nReason (R): Inside the lungs, the artery divides and divides several times to form capillaries around \nthe air sacs.",
+        "options": [
+            "(1) A is True, and R is false.",
+            "(2) A is False, and R is true.",
+            "(3) Both A and R are true.",
+            "(4) Both A and R are false."
+        ],
+        "question_id": "Q34",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 35,
+        "question_text": "Assertion: If both kidneys fail, urea from the blood is removed by dialysis. \n\nReason: Accumulation of urea in the human body is toxic.",
+        "options": [
+            "(1) A is True, and R is false.",
+            "(2) A is False, and R is true.",
+            "(3) Both A and R are true.",
+            "(4) Both A and R are false."
+        ],
+        "question_id": "Q35",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 36,
+        "question_text": "An exo-endocrine gland in the human body is",
+        "options": [
+            "(1) Pituitary gland",
+            "(2) Pancreas",
+            "(3) Salivary gland",
+            "(4) Adrenal gland"
+        ],
+        "question_id": "Q36",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 37,
+        "question_text": "Which of the following is the correct pathway of urine in the excretory system?",
+        "options": [
+            "(1) Kidney \u2192 ureter \u2192 bladder \u2192 urethra \u2192 outside the body",
+            "(2) Bladder \u2192 urethra \u2192 kidney \u2192 ureter \u2192 outside the body",
+            "(3) Kidney \u2192 bladder \u2192 urethra \u2192 ureter \u2192 outside the body",
+            "(4) Urethra \u2192 bladder \u2192 kidney \u2192 ureter \u2192 outside the body"
+        ],
+        "question_id": "Q37",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 38,
+        "question_text": "Which of the following is NOT a function of the nervous system?",
+        "options": [
+            "(1) Controlling movement",
+            "(2) Sensing and responding to the environment",
+            "(3) Regulating body temperature",
+            "(4) Controlling thoughts and emotions"
+        ],
+        "question_id": "Q38",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 39,
+        "question_text": "Which of the following diseases is transmitted sexually?",
+        "options": [
+            "(1) Kala Azar",
+            "(2) Jaundice",
+            "(3) Cholera",
+            "(4) Syphilis"
+        ],
+        "question_id": "Q39",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 40,
+        "question_text": "Which of the following does Darwin\u2019s theory not include?",
+        "options": [
+            "(1) Natural selection",
+            "(2) Survival of the fittest",
+            "(3) Evolution Through inheritance",
+            "(4) Struggle for the existence of life"
+        ],
+        "question_id": "Q40",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 41,
+        "question_text": "In aerobic respiration, the steps are: breakdown of glucose to pyruvate and its further conversion to carbon dioxide. Both processes respectively occur in:",
+        "options": [
+            "(1) Vacuole and Cytoplasm",
+            "(2) Chloroplast and Mitochondria",
+            "(3) Mitochondria and Cytoplasm",
+            "(4) Cytoplasm and Mitochondria"
+        ],
+        "question_id": "Q41",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 42,
+        "question_text": "In human alimentary canal, the digestive juice secreted by the gastric glands are:",
+        "options": [
+            "(1) Bile, Trypsin, Pepsin",
+            "(2) Hydrochloric acid, Pepsin, Mucus",
+            "(3) Lipase, Bile, Mucus",
+            "(4) Salivary amylase, Pepsin, Bile"
+        ],
+        "question_id": "Q42",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 43,
+        "question_text": "The basic filtration unit of the excretory system in human beings is:",
+        "options": [
+            "(1) Nephron",
+            "(2) Urethra",
+            "(3) Neuron",
+            "(4) Urinary bladder"
+        ],
+        "question_id": "Q43",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 44,
+        "question_text": "Which one of the following is not an excretory product in plants?",
+        "options": [
+            "(1) CO2",
+            "(2) Starch",
+            "(3) Resins and gums",
+            "(4) Dead cells"
+        ],
+        "question_id": "Q44",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 45,
+        "question_text": "Question consist of two statements - \nAssertion (A) and Reason (R). Answer these questions selecting the appropriate option (a), (b), \n(c) and (d) as given below:  \nAssertion (a): Xylem tissue moves water and minerals obtained from the soil by the roots. \nReason (R): Xylem tissue is found only in the roots of a plant.",
+        "options": [
+            "(1) Both A and R are true, and R is the correct explanation of A.",
+            "(2) Both A and R are true, but R is not the correct explanation of A.",
+            "(3) A is true, but R is false.",
+            "(4) A is false, but R is true."
+        ],
+        "question_id": "Q45",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 46,
+        "question_text": "Parasitic mode of nutrition is observed in",
+        "options": [
+            "(1) Bryophyllum",
+            "(2) Hibiscus",
+            "(3) Cuscuta",
+            "(4) Helianthus"
+        ],
+        "question_id": "Q46",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 47,
+        "question_text": "The essential element used in the synthesis of proteins is:",
+        "options": [
+            "(1) Nitrogen",
+            "(2) Phosphorus",
+            "(3) Iron",
+            "(4) Magnesium"
+        ],
+        "question_id": "Q47",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 48,
+        "question_text": "The opening and closing of stomata is regulated by:",
+        "options": [
+            "(1) \n2CO   concentration in stomata",
+            "(2)  Temperature in guard cells",
+            "(3)  \n2O   concentration in stomata",
+            "(4)  Amount of water in guard cells"
+        ],
+        "question_id": "Q48",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 49,
+        "question_text": "Secretion of less saliva in mouth will affect the conversion of",
+        "options": [
+            "(1) Proteins into amino acids",
+            "(2) Fats into fatty acids and glycerol",
+            "(3) Starch into simple sugars",
+            "(4) Sugars into alcohol"
+        ],
+        "question_id": "Q49",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 50,
+        "question_text": "The breakdown of glucose has taken the following pathway: \n(a)\n(b)\nGlu cose\nPyruvate\nEnergy\nLactic acid\nEnergy\n\uf0be\uf0be\uf0ae\n\uf02b\n\uf0be\uf0be\uf0ae\n\uf02b\n \nThe sites 'a' and 'b' respectively are:",
+        "options": [
+            "(1) Mitochondria and Oxygen deficient muscle cells",
+            "(2) Cytoplasm and Oxygen rich muscle cells",
+            "(3) Cytoplasm and Yeast cells",
+            "(4) Cytoplasm and Oxygen deficient muscle cells"
+        ],
+        "question_id": "Q50",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    }
+]

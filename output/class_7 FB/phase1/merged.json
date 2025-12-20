@@ -1,0 +1,632 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "In a certain code, TABLE is written as GZYOV, then CHAIR can be written as",
+        "options": [
+            "(a) XRZSI",
+            "(b) XZSRI",
+            "(c) XSRZI",
+            "(d) XSZRI"
+        ],
+        "question_id": "Q1",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Burman remembers that the cricket match is after 19th July but before 22nd July, while Sumit remembers that\nthe cricket match is before 25th July but after 20th July. On which date of July is the cricket match?",
+        "options": [
+            "(a) 20",
+            "(b) 21",
+            "(c) 22",
+            "(d) 19"
+        ],
+        "question_id": "Q2",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 3,
+        "question_text": "C and D start cycling from their fitness club. C rides 1 km West, then turns to his left and rides 5 km. In the\nmeanwhile D rides 3 km South, then turns West and rides 7 km, then turns to his left and rides 2 km.\nWhere is C with respect to D?",
+        "options": [
+            "(a) 8 km East",
+            "(b) 6 km West",
+            "(c) 6 km East",
+            "(d) 8 km West"
+        ],
+        "question_id": "Q3",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 4,
+        "question_text": "Arrange the following words as per order in the dictionary and then choose the one which comes last.",
+        "options": [
+            "(a) Qualify",
+            "(b) Quarter",
+            "(c) Quarrel",
+            "(d) Quaver"
+        ],
+        "question_id": "Q4",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 5,
+        "question_text": "A series is given with one term missing. Choose the correct alternative from the given ones that will complete\nthe series.\nTelephone, Radio, ? , Laptop",
+        "options": [
+            "(a) Telescope",
+            "(b) Bulb",
+            "(c) Pen",
+            "(d) Mobile"
+        ],
+        "question_id": "Q5",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 6,
+        "question_text": "Evaluate the expression:\n\n\uf028\n\uf029\uf028\n\uf029\n\uf028\n\uf0292123752\uf02d\uf0b8\uf02d\uf02b\uf0b4\uf02d",
+        "options": [
+            "(a) 17",
+            "(b) 23",
+            "(c) 28",
+            "(d) 3"
+        ],
+        "question_id": "Q6",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 7,
+        "question_text": "A point P is located on a number line such that it lies 8 units to the right of \u2013 4. From P, you move 5\nunits to the left to reach point Q. What is the coordinate of Q?",
+        "options": [
+            "(a) \u20131",
+            "(b) 4",
+            "(c) \u20137",
+            "(d) 3"
+        ],
+        "question_id": "Q7",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 8,
+        "question_text": "A water tank contains 40 liters of water at 8 a.m. Every hour, 7 liters are drained from it. How much\nwater is there in the tank at 11 a.m.?",
+        "options": [
+            "(a) 12 liters",
+            "(b) 19 liters",
+            "(c) 21 liters",
+            "(d) 26 liters"
+        ],
+        "question_id": "Q8",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 9,
+        "question_text": "A gardener mixes the following amounts of soil additives: \n\uf0b7 3/4 kg compost \n\uf0b7 1/12 kg peat moss \n\uf0b7 2/3 kg fertilizer \nWhat is the total weight of the mixture?",
+        "options": [
+            "(a) 5/2 6 kg",
+            "(b) 7/212 kg",
+            "(c) 3/2 4 kg",
+            "(d) 11/212 kg"
+        ],
+        "question_id": "Q9",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 10,
+        "question_text": "A company reports its annual revenue as \"Sixty-three crore, eighteen lakh, forty-two thousand, and nine\" in the Indian System of Numeration. In the International System of Numeration, how is this number correctly written in words?",
+        "options": [
+            "(a) Six hundred thirty-one million, eight hundred forty-two thousand, and nine.",
+            "(b) Six hundred thirty-one million, eighty-four thousand, and nine.",
+            "(c) Six hundred thirty-eight million, four hundred twenty thousand, and nine.",
+            "(d) Six hundred thirty-one million, eight hundred forty-two thousand, and ninety."
+        ],
+        "question_id": "Q10",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 11,
+        "question_text": "In a test consisting of 50 questions, a student earns 4 marks for every correct answer and loses 1 mark for every incorrect answer. Unattempted questions carry 0 marks. If the student answers 32 questions correctly and 10 questions incorrectly, what are his/her total marks?",
+        "options": [
+            "(a) 98",
+            "(b) 108",
+            "(c) 118",
+            "(d) 128"
+        ],
+        "question_id": "Q11",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 12,
+        "question_text": "First subtract (+14) from \u221218. Then multiply the result by \u22126, and finally add (-12). What is the final value?",
+        "options": [
+            "(a) 168",
+            "(b) 180",
+            "(c) 192",
+            "(d) 160"
+        ],
+        "question_id": "Q12",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 13,
+        "question_text": "On a number line, point A is at \u20139 and point B is at 15. How many integers lie strictly between A and B?",
+        "options": [
+            "(a) 23",
+            "(b) 24",
+            "(c) 25",
+            "(d) 26"
+        ],
+        "question_id": "Q13",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 14,
+        "question_text": "What is the sum of all integers strictly between \u2013850 and 849?",
+        "options": [
+            "(a) 850",
+            "(b) \u2013 850",
+            "(c) 849",
+            "(d) \u2013 849"
+        ],
+        "question_id": "Q14",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 15,
+        "question_text": "What is the value of the expression : \uf028 \uf029 3 5 4 2 6? \uf02d \uf02d\uf02d\uf02b \uf02b \uf0e9 \uf0f9 \uf0eb \uf0fb",
+        "options": [
+            "(a) 0",
+            "(b) 2",
+            "(c) \u20132",
+            "(d) 4"
+        ],
+        "question_id": "Q15",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 16,
+        "question_text": "A peregrine falcon is diving at a speed of 97.2 m/s. What is this approx. speed in km/h ?",
+        "options": [
+            "(a) 270 km/h",
+            "(b) 300 km/h",
+            "(c) 350 km/h",
+            "(d) 380 km/h"
+        ],
+        "question_id": "Q16",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 17,
+        "question_text": "A certain transistor gate length in a modern microprocessor is 45 nm (nanometers). Convert this measurement \nto meters.",
+        "options": [
+            "(a)\n8\n4.5 10 m\n\uf02d\n\uf0b4",
+            "(b) \n9\n4.5 10 m\n\uf02d\n\uf0b4",
+            "(c) \n10\n4.5 10\nm\n\uf02d\n\uf0b4",
+            "(d) \n12\n4.5 10\nm\n\uf02d\n\uf0b4"
+        ],
+        "question_id": "Q17",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 18,
+        "question_text": "The average orbital speed of the space shuttle was approximately \n3\n7.8 10\n\uf0b4\nm/s. Convert this speed into km/h \nand express the answer in standard scientific notation (with one digit before the decimal point).",
+        "options": [
+            "(a) \n4\n2.808 10\n\uf0b4\nkm/h",
+            "(b) \n3\n2.808 10\n\uf0b4\nkm/h",
+            "(c) \n3\n7.8 10\n\uf0b4\nkm/h",
+            "(d) \n7\n2.8 10\n\uf0b4\nkm/h"
+        ],
+        "question_id": "Q18",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 19,
+        "question_text": "Which of the following units is a derived SI unit?",
+        "options": [
+            "(a) Second (s)",
+            "(b) Ampere (A)",
+            "(c) Joule (J)",
+            "(d) Mole (mol)"
+        ],
+        "question_id": "Q19",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 20,
+        "question_text": "Given that the SI unit for Pressure is the Pascal (Pa), which defined as one Newton per square meter \n\uf028\n\uf029\n2\n1Pa\n1N / m\n\uf03d\n, and the SI unit for Force is 1 N = 1 kg \uf0d7m/s2.. \n\nWhich of the following correctly represents 1 Pa in terms of fundamental SI base units (kg, m, s)?",
+        "options": [
+            "(a) \n1\n2\nkg m\ns\n\uf02d\n\uf02d\n\uf0d7\n\uf0d7",
+            "(b) \n2\n2\nkg m\ns\n\uf02d\n\uf02d\n\uf0d7\n\uf0d7",
+            "(c) \n1\n1\nkg m\ns\n\uf02d\n\uf02d\n\uf0d7\n\uf0d7",
+            "(d) \n2\nkg m s\uf02d\n\uf0d7\n\uf0d7"
+        ],
+        "question_id": "Q20",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 21,
+        "question_text": "Which of the following options is a source of Artificial light?",
+        "options": [
+            "(a) Moon",
+            "(b) Flashlight",
+            "(c) Lightning",
+            "(d) Aurora (Northern/Southern lights)"
+        ],
+        "question_id": "Q21",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 22,
+        "question_text": "Butter (tracing) paper is ______which will let some light pass through it.",
+        "options": [
+            "(a) Translucent",
+            "(b) Transparent",
+            "(c) Opaque",
+            "(d) Light"
+        ],
+        "question_id": "Q22",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 23,
+        "question_text": "What is the term for the area of a shadow where the light source is only partially blocked by the object, \nresulting in a lighter shadow?",
+        "options": [
+            "(a) Umbra",
+            "(b) Antumbra",
+            "(c) Penumbra",
+            "(d) Total shadow"
+        ],
+        "question_id": "Q23",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 24,
+        "question_text": "Which image best represents the shadow cast by the Sun at 6:00 P.M?",
+        "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+        ],
+        "question_id": "Q24",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 25,
+        "question_text": "Which one of the mirror images of the following combination is correct when the mirror is place at \u2018PQ\u2019?",
+        "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+        ],
+        "question_id": "Q25",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Which of the following processes can be used to remove both temporary and permanent hardness?",
+        "options": [
+            "(a) Clark's method",
+            "(b) Addition of washing soda",
+            "(c) Boiling",
+            "(d) All the above"
+        ],
+        "question_id": "Q26",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Which of the following terms is not related to underground water?",
+        "options": [
+            "(a) Infiltration",
+            "(b) Aquifer",
+            "(c) Water table",
+            "(d) Potable water"
+        ],
+        "question_id": "Q27",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 28,
+        "question_text": "Which of the following water is suitable for drinking?",
+        "options": [
+            "(a) Soft water",
+            "(b) Demineralized water",
+            "(c) Potable water",
+            "(d) Distilled water"
+        ],
+        "question_id": "Q28",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 29,
+        "question_text": "When the water gets converted to ice, its volume",
+        "options": [
+            "(a) decreases",
+            "(b) increases",
+            "(c) remains the same",
+            "(d) initially decreases and then increases"
+        ],
+        "question_id": "Q29",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 30,
+        "question_text": "Which of the following salts is responsible for temporary and permanent hardness of water respectively?",
+        "options": [
+            "(a) \n\uf028\n\uf02932Mg HCO and 24Na SO",
+            "(b)\n\uf028\n\uf02932Ca HCO and 2MgCl",
+            "(c) 4MgSO and \n\uf028\n\uf02932Mg HCO",
+            "(d)2CaCl and 4CaSO"
+        ],
+        "question_id": "Q30",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 31,
+        "question_text": "Purity of oxalic acid can be determined by",
+        "options": [
+            "(a) determining the boiling point",
+            "(b) determining the melting point",
+            "(c) by dissolving it into water",
+            "(d) None of these"
+        ],
+        "question_id": "Q31",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 32,
+        "question_text": "Temperature at which pure ice melts is :",
+        "options": [
+            "(a) 0 oC",
+            "(b) 100 oC",
+            "(c) 273 oC",
+            "(d) \u20135 oC"
+        ],
+        "question_id": "Q32",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 33,
+        "question_text": "In fractional distillation of petroleum, the liquid with the highest boiling point, condenses in:",
+        "options": [
+            "(a) Top most tray",
+            "(b) Middle tray",
+            "(c) Lower tray",
+            "(d) Any tray"
+        ],
+        "question_id": "Q33",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 34,
+        "question_text": "A liquid with soluble impurities is purified by:",
+        "options": [
+            "(a) Filtration",
+            "(b) Sublimation",
+            "(c) Cooling",
+            "(d) Distillation"
+        ],
+        "question_id": "Q34",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 35,
+        "question_text": "A liquid with insoluble impurities is purified by:",
+        "options": [
+            "(a) Filtering",
+            "(b) Cooling",
+            "(c) Freezing",
+            "(d) Boiling"
+        ],
+        "question_id": "Q35",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 36,
+        "question_text": "Which plant part makes seeds?",
+        "options": [
+            "(a) leaves",
+            "(b) roots",
+            "(c) flower",
+            "(d) the birds"
+        ],
+        "question_id": "Q36",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 37,
+        "question_text": "Identify the structure:",
+        "options": [
+            "(a) Corolla",
+            "(b) Gynoecium",
+            "(c) Calyx",
+            "(d) Androecium"
+        ],
+        "question_id": "Q37",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 38,
+        "question_text": "This system grows above the soil and is made up of stem, buds, leaves, flowers and fruits.",
+        "options": [
+            "(a) Stem",
+            "(b) Shoot system",
+            "(c) Root system",
+            "(d) Branches"
+        ],
+        "question_id": "Q38",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 39,
+        "question_text": "In cactus leaf are modified into",
+        "options": [
+            "(a) Spines",
+            "(b) Tendrils",
+            "(c) Fleshy for storage",
+            "(d) climber"
+        ],
+        "question_id": "Q39",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 40,
+        "question_text": "Which plant has fibrous root?",
+        "options": [
+            "(a) Tulsi",
+            "(b) Mango",
+            "(c) Orange",
+            "(d) Rice"
+        ],
+        "question_id": "Q40",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 41,
+        "question_text": "From the given list select how many are abiotic in aquatic habitat.\ni.    Soil\nii. Fishes\niii. Whale\niv. Plants\nv.   Rocks\nvi. Water",
+        "options": [
+            "(a) 2",
+            "(b) 3",
+            "(c) 4",
+            "(d) 5"
+        ],
+        "question_id": "Q41",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 42,
+        "question_text": "Which of the following is not a terrestrial habitat ?",
+        "options": [
+            "(a) Forest",
+            "(b) Desert",
+            "(c) Grassland",
+            "(d) Pond"
+        ],
+        "question_id": "Q42",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 43,
+        "question_text": "What is an increase in the amount of living material and/or the formation of new structures?",
+        "options": [
+            "(a) Reproduction",
+            "(b) Development",
+            "(c) Homeostasis",
+            "(d) Growth"
+        ],
+        "question_id": "Q43",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 44,
+        "question_text": "A change in an organism\u2019s surroundings that causes it to react is called",
+        "options": [
+            "(a) development",
+            "(b) a stimulus",
+            "(c) a  response",
+            "(d) energy"
+        ],
+        "question_id": "Q44",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 45,
+        "question_text": "What is the habitat of camel ?",
+        "options": [
+            "(a) desert",
+            "(b) water",
+            "(c) none of the above",
+            "(d) forest"
+        ],
+        "question_id": "Q45",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    }
+]
