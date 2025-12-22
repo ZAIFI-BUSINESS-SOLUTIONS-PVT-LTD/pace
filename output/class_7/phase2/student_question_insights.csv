@@ -1,0 +1,180 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+276400,Q1,C,C,True,None,"The student selected the correct option 'C' which corresponds to 'Mohinder', the last name alphabetically.",High,UNKNOWN
+276400,Q2,B,B,True,None,"The student correctly identified the analogy: Cow gives Milk, Bees give Honey.",High,UNKNOWN
+276400,Q3,A,A,True,None,"The student correctly coded 'EDITOR' as 'VWRGLI' following the given A=Z, B=Y pattern.",High,UNKNOWN
+276400,Q4,A,C,False,Conceptual,"The student failed to correctly determine the new direction after the rotation. West should become South-East, but the student chose North-East.",Medium,UNKNOWN
+276400,Q5,C,C,True,None,Student correctly identified the code for FORT based on the codes for FROG and RANG.,High,UNKNOWN
+276400,Q6,C,C,True,None,The student correctly counted the 8 composite numbers between 1 and 15.,High,UNKNOWN
+276400,Q7,D,D,True,None,Student correctly identified that x + y + 1 will always be odd if x and y are even.,High,UNKNOWN
+276400,Q8,C,C,True,None,Student correctly calculated the ratio of the place values of 6 and 4 in the given number.,High,UNKNOWN
+276400,Q9,D,B,False,Calculation,The student made a calculation error in determining the values of A and B from the decimal expansion of 24.125. The correct sum is 110 but the student chose 1110.,Medium,UNKNOWN
+276400,Q10,A,A,True,None,The student correctly identified the true statements about integers.,High,UNKNOWN
+276400,Q11,A,B,False,Calculation,"Student failed to find the least number by substituting values to n(n+1)(n+3), n is a natural number.",Medium,UNKNOWN
+276400,Q12,D,D,True,None,The student correctly identified the general form of an odd number as 2P + 1.,High,UNKNOWN
+276400,Q13,C,C,True,None,The student correctly counted the number of times an even numeral appears when writing numbers from 291 to 300.,High,UNKNOWN
+276400,Q14,A,A,True,None,The student correctly found the difference between the largest and smallest four-digit numbers formed by the given digits.,High,UNKNOWN
+276400,Q15,B,B,True,None,The student correctly identified that subtraction is not commutative for whole numbers.,High,UNKNOWN
+276400,Q16,A,A,True,None,The student correctly converted km/s to km/h.,High,UNKNOWN
+276400,Q17,A,D,False,Calculation,"The student incorrectly converted 0.005 kg to milligrams.  The correct answer is 5000 mg, but the student selected an incorrect value with scientific notation.",Medium,UNKNOWN
+276400,Q18,A,B,False,Calculation,"The student incorrectly converted km/h to m/s. The calculation seems flawed, leading to a wrong exponent in the scientific notation.",Medium,UNKNOWN
+276400,Q19,B,B,True,None,The student correctly identified Candela as a base SI unit.,High,UNKNOWN
+276400,Q20,B,B,True,None,Student correctly expressed Volt in terms of fundamental SI units.,High,UNKNOWN
+276400,Q21,C,C,True,None,The student correctly identified Oil Lamp as an artificial light source.,High,UNKNOWN
+276400,Q22,D,D,True,None,The student correctly identified that light passes partially through translucent material.,High,UNKNOWN
+276400,Q23,A,B,False,Conceptual,The student confused umbra and penumbra. Umbra is the area of complete shadow.,Medium,UNKNOWN
+276400,Q24,D,C,False,Conceptual,The student didn't correctly visualize the change in the shadow's direction and length as the sun moved across the sky.,Medium,UNKNOWN
+276400,Q25,B,B,True,None,The student correctly identified the mirror image.,High,UNKNOWN
+276400,Q26,A,A,True,None,Student correctly identified the formula of water.,High,UNKNOWN
+276400,Q27,B,A,False,Conceptual,The student incorrectly identified water as an element instead of a compound.,Medium,UNKNOWN
+276400,Q28,D,D,True,None,"Student correctly identified water is colourless, odourless and transparent.",High,UNKNOWN
+276400,Q29,A,A,True,None,Student correctly identified how freezing and boiling point changes when impurities are dissolved.,High,UNKNOWN
+276400,Q30,B,A,False,Conceptual,Student incorrectly identified the temperature at which water has maximum density.,Medium,UNKNOWN
+276400,Q31,C,C,True,None,Student correctly identified the phase transition.,High,UNKNOWN
+276400,Q32,D,D,True,None,Student correctly defined atomicity.,High,UNKNOWN
+276400,Q33,C,C,True,None,Student correctly defined freezing point.,High,UNKNOWN
+276400,Q34,D,D,True,None,Student correctly identified the freezing point of water.,High,UNKNOWN
+276400,Q35,B,B,True,None,Student correctly defined density.,High,UNKNOWN
+276400,Q36,D,D,True,None,Student correctly identified flower as plant part which makes pollen and grows seeds.,High,UNKNOWN
+276400,Q37,A,A,True,None,Student correctly answered the question.,High,UNKNOWN
+276400,Q38,C,C,True,None,Student correctly identified the underground part of the plant.,High,UNKNOWN
+276400,Q39,A,A,True,None,Student correctly answered about the root system of Pea's leaf.,High,UNKNOWN
+276400,Q40,C,C,True,None,Student correctly identified stomata.,High,UNKNOWN
+276400,Q41,B,B,True,None,Student correctly answered about biotic components in aquatic habitat.,High,UNKNOWN
+276400,Q42,C,D,False,Conceptual,Student confused between development and reproduction.,Medium,UNKNOWN
+276400,Q43,A,A,True,None,Student correctly answered the question about habitat.,High,UNKNOWN
+276400,Q44,D,D,True,None,Student correctly identifies the plant action is an example of response.,High,UNKNOWN
+276400,Q45,C,C,True,None,Student correctly answered the question about living things use of energy.,High,UNKNOWN
+275200,Q1,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q2,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q3,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q4,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q5,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q6,A,C,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q7,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q8,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q9,D,B,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q10,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q11,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q12,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q13,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q14,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q15,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q16,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q17,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q18,C,B,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q19,A,B,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q20,A,B,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q21,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q22,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q23,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q24,B,C,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q25,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q26,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q27,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q28,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q29,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q30,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q31,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q32,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q33,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+275200,Q34,B,D,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q35,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q36,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q37,A,A,True,None,The student selected the correct option 'A'.,High,UNKNOWN
+275200,Q38,A,C,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q39,B,A,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q40,B,C,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q41,B,B,True,None,The student selected the correct option 'B'.,High,UNKNOWN
+275200,Q42,B,D,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q43,B,A,False,Guess,"The student selected the incorrect option. Since there is no explanation, it is marked as a guess.",Low,UNKNOWN
+275200,Q44,D,D,True,None,The student selected the correct option 'D'.,High,UNKNOWN
+275200,Q45,C,C,True,None,The student selected the correct option 'C'.,High,UNKNOWN
+285800,Q1,B,C,False,Guess,The student selected the incorrect option. No explanation is available to determine the reason.,Low,UNKNOWN
+285800,Q2,D,B,False,Guess,The student selected the incorrect option. No explanation is available to determine the reason.,Low,UNKNOWN
+285800,Q3,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q4,B,C,False,Guess,The student selected the incorrect option. No explanation is available to determine the reason.,Low,UNKNOWN
+285800,Q5,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q6,A,C,False,Guess,The student selected the incorrect option. No explanation is available to determine the reason.,Low,UNKNOWN
+285800,Q7,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q8,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q9,D,B,False,Calculation,The student selected the incorrect option. The value of A and B wasn't calculated correctly.,Low,UNKNOWN
+285800,Q10,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q11,C,B,False,Guess,The student selected the incorrect option. No explanation is available to determine the reason.,Low,UNKNOWN
+285800,Q12,A,D,False,Conceptual,The student does not understand how to express odd numbers in terms of integers.,Low,UNKNOWN
+285800,Q13,A,C,False,Calculation,The student miscalculated the number of even numerals within the specified range.,Low,UNKNOWN
+285800,Q14,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q15,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q16,B,A,False,Calculation,The student seems to have done a calculation error in converting km/s to km/h.,Low,UNKNOWN
+285800,Q17,B,D,False,Calculation,The student made a mistake in converting kilograms to milligrams. The conversion factor wasn't used properly.,Low,UNKNOWN
+285800,Q18,D,B,False,Calculation,The student seems to have done a calculation error in converting km/h to m/s.,Low,UNKNOWN
+285800,Q19,A,B,False,Conceptual,The student doesn't understand the difference between base and derived SI units.,Low,UNKNOWN
+285800,Q20,A,B,False,Conceptual,The student seems to have a problem understanding the fundamental SI base units.,Low,UNKNOWN
+285800,Q21,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q22,A,D,False,Conceptual,Student seems to have mixed transparent and translucent material properties.,Low,UNKNOWN
+285800,Q23,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q24,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q25,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q26,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q27,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q28,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q29,D,A,False,Conceptual,The student seems to misunderstand the effect of impurities on the freezing and boiling points of water.,Low,UNKNOWN
+285800,Q30,C,A,False,Conceptual,The student selected the incorrect option. The maximum density of water is at 4 degree C.,Low,UNKNOWN
+285800,Q31,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q32,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q33,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q34,B,D,False,Conceptual,The student seems to not fully comprehend what a freezing point is.,Low,UNKNOWN
+285800,Q35,C,B,False,Conceptual,The student doesn't understand the concept of density.,Low,UNKNOWN
+285800,Q36,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q37,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q38,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q39,B,A,False,Conceptual,The student does not understand the relation between the root system and leaf venation.,Low,UNKNOWN
+285800,Q40,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q41,A,B,False,Conceptual,Student doesn't seem to fully understand what are biotic factors.,Low,UNKNOWN
+285800,Q42,A,D,False,Conceptual,Student appears to misunderstand the term 'reproduction'.,Low,UNKNOWN
+285800,Q43,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+285800,Q44,B,D,False,Conceptual,The student seems to misunderstand the difference between stimulus and response.,Low,UNKNOWN
+285800,Q45,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+285900,Q1,C,C,True,None,"The student selected the correct option, C, which corresponds to 'Mohinder'.",High,UNKNOWN
+285900,Q2,B,B,True,None,The student correctly identified the analogy: Cow : Milk :: Bees : Honey.,High,UNKNOWN
+285900,Q3,C,A,False,Guess,"The student selected option C instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q4,D,C,False,Guess,"The student selected option D instead of the correct option C. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q5,C,C,True,None,The student correctly coded FORT as 9627 based on the given code for FROG and RANG.,High,UNKNOWN
+285900,Q6,A,C,False,Guess,"The student selected option A instead of the correct option C. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q7,C,D,False,Guess,"The student selected option C instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q8,B,C,False,Guess,"The student selected option B instead of the correct option C. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q9,B,B,True,None,The student correctly identified the sum of A and B as 110.,High,UNKNOWN
+285900,Q10,A,A,True,None,The student correctly selected the true statements as ii and iii.,High,UNKNOWN
+285900,Q11,D,B,False,Guess,"The student selected option D instead of the correct option B. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q12,C,D,False,Guess,"The student selected option C instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q13,B,C,False,Guess,"The student selected option B instead of the correct option C. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q14,D,A,False,Guess,"The student selected option D instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q15,B,B,True,None,The student correctly identified that a - b = b - a is not true for whole numbers.,High,UNKNOWN
+285900,Q16,C,A,False,Guess,"The student selected option C instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q17,C,D,False,Guess,"The student selected option C instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q18,D,B,False,Guess,"The student selected option D instead of the correct option B. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q19,B,B,True,None,The student correctly identified Candela as an SI base unit.,High,UNKNOWN
+285900,Q20,B,B,True,None,The student correctly identified the fundamental SI base units for Volt.,High,UNKNOWN
+285900,Q21,C,C,True,None,The student correctly identified oil lamp as not a natural light source.,High,UNKNOWN
+285900,Q22,D,D,True,None,The student correctly selected translucent.,High,UNKNOWN
+285900,Q23,B,B,True,None,The student correctly identified umbra as the area where light is completely blocked.,High,UNKNOWN
+285900,Q24,C,C,True,None,The student correctly determined the direction of shadow.,High,UNKNOWN
+285900,Q25,B,B,True,None,The student correctly picked the mirror image.,High,UNKNOWN
+285900,Q26,A,A,True,None,The student correctly stated water's molecular formula is H2O.,High,UNKNOWN
+285900,Q27,B,A,False,Guess,"The student selected option B instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q29,D,A,False,Guess,"The student selected option D instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q30,D,A,False,Guess,"The student selected option D instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q31,C,C,True,None,The student correctly identifies the phase change as condensation.,High,UNKNOWN
+285900,Q32,C,D,False,Guess,"The student selected option C instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q33,C,C,True,None,The student correctly selected freezing point.,High,UNKNOWN
+285900,Q34,B,D,False,Guess,"The student selected option B instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q35,B,B,True,None,The student correctly selected mass.,High,UNKNOWN
+285900,Q36,D,D,True,None,The student correctly selected Flower.,High,UNKNOWN
+285900,Q37,C,A,False,Guess,"The student selected option C instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q38,C,C,True,None,The student correctly selected Root system.,High,UNKNOWN
+285900,Q39,B,A,False,Guess,"The student selected option B instead of the correct option A. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q40,C,C,True,None,The student correctly selected stomata.,High,UNKNOWN
+285900,Q41,A,B,False,Guess,"The student selected option A instead of the correct option B. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q42,D,D,True,None,The student correctly selected reproduction.,High,UNKNOWN
+285900,Q43,A,A,True,None,The student correctly selected water.,High,UNKNOWN
+285900,Q44,B,D,False,Guess,"The student selected option B instead of the correct option D. Without explanation, this appears to be a guess.",Low,UNKNOWN
+285900,Q45,C,C,True,None,The student correctly identified what living things use energy for.,High,UNKNOWN

@@ -1,0 +1,378 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "What is the capital of France?",
+        "options": [],
+        "question_id": "Q1"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Which of the following is a prime number?\n(A) 4\n(B) 6\n(C) 7\n(D) 9",
+        "options": [
+            "(A) 4",
+            "(B) 6",
+            "(C) 7",
+            "(D) 9"
+        ],
+        "question_id": "Q2"
+    },
+    {
+        "question_number": 3,
+        "question_text": "How does photosynthesis work?",
+        "options": [],
+        "question_id": "Q3"
+    },
+    {
+        "question_number": 1,
+        "question_text": "What is the capital of France?",
+        "options": [],
+        "question_id": "Q1"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Which of the following is a prime number?\n(A) 4\n(B) 6\n(C) 7\n(D) 9",
+        "options": [
+            "(A) 4",
+            "(B) 6",
+            "(C) 7",
+            "(D) 9"
+        ],
+        "question_id": "Q2"
+    },
+    {
+        "question_number": 3,
+        "question_text": "Explain the theory of relativity.",
+        "options": [],
+        "question_id": "Q3"
+    },
+    {
+        "question_number": 1,
+        "question_text": "If \uf028\n\uf029k\ny\n\uf02b is a factor of each of the polynomials 2\n2\n15\ny\ny\n\uf02b\n\uf02d and 3y\na\n\uf02b, find the values of k\na\n\uf02b, where \u2018k\u2019 and \u2018a\u2019 are positive integers.",
+        "options": [
+            "(A) 45",
+            "(B) 22",
+            "(C) 30",
+            "(D) 130"
+        ],
+        "question_id": "Q1"
+    },
+    {
+        "question_number": 2,
+        "question_text": "If \u20135 is one of the root of the equation 2\n2\n15\nx\npx\n\uf02b\n\uf02d, and the roots of the equation \uf028\n\uf0292\np x\nx\nk\n\uf02b\n\uf02b are equal. Find the value of k.",
+        "options": [
+            "(A) 5\n4",
+            "(B) 7\n4",
+            "(C) \n5\n4\n\uf02d",
+            "(D) \n7\n4\n\uf02d"
+        ],
+        "question_id": "Q2"
+    },
+    {
+        "question_number": 3,
+        "question_text": "What should be added to the polynomial 3\n2\n3\n6\n15\nx\nx\nx\n\uf02d\n\uf02b\n\uf02d, so that it becomes completely divisible by x \u2013 3?",
+        "options": [
+            "(A) \u20133",
+            "(B) 3",
+            "(C) 0",
+            "(D) x \u2013 3"
+        ],
+        "question_id": "Q3"
+    },
+    {
+        "question_number": 4,
+        "question_text": "For what values of a and b the following pair of linear equations have infinite number of solutions:  \n \n2\n3\n7\nx\ny\n\uf02b\n\uf03d \n \n\uf028\n\uf029\n\uf028\n\uf029\n3\n2\na x\ny\nb x\ny\na\nb\n\uf02b\n\uf02d\n\uf02d\n\uf03d\n\uf02b\uf02d",
+        "options": [
+            "(A) a = 5, b = 1",
+            "(B) a = 1, b = 5",
+            "(C) a = 3, b = 2",
+            "(D) a = 2, b = 3"
+        ],
+        "question_id": "Q4"
+    },
+    {
+        "question_number": 5,
+        "question_text": "A and B are two points 150 km apart on a highway. Two cars start with different speeds from A and B at same time. If they move in same direction, they meet in 15 hours. If they move in opposite direction, they meet in one hour. Find their speeds",
+        "options": [
+            "(A) 80 km/h, 70 km/h",
+            "(B) 50 km/h, 60 km/h",
+            "(C) 40 km/h, 100 km/h",
+            "(D) 20 km/h, 80 km/h"
+        ],
+        "question_id": "Q5"
+    },
+    {
+        "question_number": 6,
+        "question_text": "The sum of the numerator and denominator of a fraction is 4 more than twice the numerator. If the numerator and denominator are increased by 3, they are in the ratio 2 : 3. Determine the fraction.",
+        "options": [
+            "(A) 9\n5",
+            "(B) 5\n6",
+            "(C) 9\n10",
+            "(D) 5\n9"
+        ],
+        "question_id": "Q6"
+    },
+    {
+        "question_number": 7,
+        "question_text": "Women and 12 men can complete a work in 10 days while 6 women and 8 men can complete the \nsame work in 14 days. Find the time taken by one women alone to finish the work.",
+        "options": [
+            "(A) 420 days",
+            "(B) 280 days",
+            "(C) 70 days",
+            "(D) 140 days"
+        ],
+        "question_id": "Q7"
+    },
+    {
+        "question_number": 8,
+        "question_text": "If \uf061 and \uf062 are zeroes of the polynomial 2 4 3 x x \uf02b \uf02b, find the polynomial whose zeroes are 1 \uf062 \uf02b\uf061 and 1 \uf061 \uf02b\uf062.",
+        "options": [
+            "(A) 2 3 16 16 x x \uf02b \uf02b",
+            "(B) 2 3 16 16 x x \uf02d \uf02b",
+            "(C) 2 8 8 3 3 x x \uf02d \uf02b",
+            "(D) 2 8 8 3 3 x \uf02b \uf02b"
+        ],
+        "question_id": "Q8"
+    },
+    {
+        "question_number": 9,
+        "question_text": "If 2  is a zero of 3 2 6 2 10 4 2 x x x \uf02b \uf02d \uf02d, find product of the other 2 roots.",
+        "options": [
+            "(A) 2 2 3",
+            "(B) 2 2 3 \uf02d",
+            "(C) 2 3",
+            "(D) 2 2"
+        ],
+        "question_id": "Q9"
+    },
+    {
+        "question_number": 10,
+        "question_text": "On selling a T.V. at 5% gain and a fridge at 10% gain, a shopkeeper gain \u20b9 2000. But if he sells the \nT.V. at 10% gain and fridge at 5% loss, he gains \u20b9 1500 on the transaction. Find the actual price of \nthe T.V.",
+        "options": [
+            "(A) 20,000",
+            "(B) 10,000",
+            "(C) 5,000",
+            "(D) 3500"
+        ],
+        "question_id": "Q10"
+    },
+    {
+        "question_number": 11,
+        "question_text": "If two roots of the polynomial 3 2 5 16 80 x x x \uf02d \uf02d \uf02b are equal in magnitude but opposite in sign, find \nthe third root.",
+        "options": [
+            "(A) 5",
+            "(B) 16",
+            "(C) \u201316",
+            "(D) 0"
+        ],
+        "question_id": "Q11"
+    },
+    {
+        "question_number": 12,
+        "question_text": "Which of the following is one of the factors of 4 2 1 x x \uf02b \uf02b?",
+        "options": [
+            "(A) 2 1 x \uf02b",
+            "(B) 1 x \uf02d",
+            "(C) 2 1 x x \uf02d\uf02b",
+            "(D) 3 1 x x \uf02b\uf02b"
+        ],
+        "question_id": "Q12"
+    },
+    {
+        "question_number": 13,
+        "question_text": "If the polynomial \n2\n3\n5\n12\nx\nx\n\uf02b\n\uf02b\n can be written as \n\uf028\n\uf029\n2\na\nx\nb\nc\n\uf0d7\n\uf02b\n\uf02b, find the value of c?",
+        "options": [
+            "(A) 12",
+            "(B) 25\n36",
+            "(C) 5\n6",
+            "(D) 119\n12"
+        ],
+        "question_id": "Q13"
+    },
+    {
+        "question_number": 14,
+        "question_text": "If the zeroes of the polynomial \n3\n2\n3\n1\n0\nx\nx\nx\n\uf02d\n\uf02b\uf02b\uf03d\n are a\nb\n\uf02d, a, a\nb\n\uf02b\n. Find the value of \n2b .",
+        "options": [
+            "(A) 0",
+            "(B) 1",
+            "(C) 2",
+            "(D) 3"
+        ],
+        "question_id": "Q14"
+    },
+    {
+        "question_number": 15,
+        "question_text": "Sunita has some \u20b9 50 and \u20b9 100 notes amounting to a total of \u20b9 15,500. If the total number of notes is 200, then find how many notes of \u20b9 50 and \u20b9 100 each, she has.",
+        "options": [
+            "(A) 50, 150",
+            "(B) 125, 75",
+            "(C) 90, 110",
+            "(D) 100, 100"
+        ],
+        "question_id": "Q15"
+    },
+    {
+        "question_number": 16,
+        "question_text": "If \uf061 and \uf062 are roots of the equation \n2\n2\n5\n0\nx\nx\nk\n\uf02b\n\uf02b\n\uf03d\n such that \n2\n2\n24\n\uf061\uf02b\uf062\uf02b\uf061\uf062\uf03d\n, find the value of k.",
+        "options": [
+            "(A) \n71\n2\n\uf02d",
+            "(B) 71\n2",
+            "(C) 24",
+            "(D) \u2013 24"
+        ],
+        "question_id": "Q16"
+    },
+    {
+        "question_number": 17,
+        "question_text": "If \nax\nby\nb\na\n\uf02d\n\uf03d\n\uf02d\n and \n0\nbx\nay\n\uf02d\n\uf03d\n, then the value of \n?\nx\ny\n\uf02d\n\uf03d",
+        "options": [
+            "(A) a\nb\n\uf02b",
+            "(B) \na\nb\n\uf02d",
+            "(C) \nb\na\n\uf02d",
+            "(D) \nab\n\uf02d"
+        ],
+        "question_id": "Q17"
+    },
+    {
+        "question_number": 18,
+        "question_text": "\u20b9 4900 is distributed among 150 children. If each girl gets \u20b9 50 and each boy gets \u20b9 25, then the number of boys is :",
+        "options": [
+            "(A) 100",
+            "(B) 102",
+            "(C) 104",
+            "(D) 105"
+        ],
+        "question_id": "Q18"
+    },
+    {
+        "question_number": 19,
+        "question_text": "A 2-digit number is 3 more than 4 times the sum of it\u2019s digits. If 18 is added to the number, the digit are reversed. Find the number.",
+        "options": [
+            "(A) 27",
+            "(B) 57",
+            "(C) 35",
+            "(D) 79"
+        ],
+        "question_id": "Q19"
+    },
+    {
+        "question_number": 20,
+        "question_text": "Find the all possible values of k for which the equation \n2\n3\n2\nx\nx\nk\n\uf02b\n\uf02b\n has real roots.",
+        "options": [
+            "(A) \n1\n3\nk \uf0b3",
+            "(B) \n1\n3\nk \uf0a3",
+            "(C) \n1\n3\nk \uf03e",
+            "(D) \n1\n3\nk \uf03c"
+        ],
+        "question_id": "Q20"
+    },
+    {
+        "question_number": 21,
+        "question_text": "Vijay has some bananas and he divided them into two lots A and B. He sold the first lot at the rate of \u20b9 2 for 3 bananas and the second lot at the rate of \u20b9 1 per banana and got a total of \u20b9 400. If he has sold the first lot at the rate of \u20b9 1 per banana and the second lot at the rate of \u20b9 4 for 5 bananas, his total collection would have been \u20b9 460. Find the total number of bananas he has.",
+        "options": [
+            "(A) 250",
+            "(B) 500",
+            "(C) 750",
+            "(D) 1000"
+        ],
+        "question_id": "Q21"
+    },
+    {
+        "question_number": 22,
+        "question_text": "The area of a rectangle gets reduced by a 9 square units, if its length is reduced by 5 units and the breadth is increased by 3 units. The area is increased by 67 square units if length is increased by 3 units and breadth is increased by 2 units. Find the perimeter of the rectangle.",
+        "options": [
+            "(A) 18 units",
+            "(B) 59 units",
+            "(C) 45 units",
+            "(D) 52 units"
+        ],
+        "question_id": "Q22"
+    },
+    {
+        "question_number": 23,
+        "question_text": "On dividing the polynomial \n3\n2\n5\n6\n4\nx\nx\nx\n\uf02d\n\uf02b\n\uf02d\n by a polynomial \n\uf028\uf029\ng x , quotient and remainder are \n\uf028\n\uf029\n3\nx\uf02d\n and \uf028\n\uf029\n3\n5\nx\n\uf02d\n\uf02b\n respectively. Find sum of roots of \uf028\uf029\ng x .",
+        "options": [
+            "(A) \u2013 3",
+            "(B) 3",
+            "(C) \u2013 2",
+            "(D) 2"
+        ],
+        "question_id": "Q23"
+    },
+    {
+        "question_number": 24,
+        "question_text": "If a root of the equation \n4\n3\n2\n6\n26\n138\n35\n0\nx\nx\nx\nx\n\uf02d\n\uf02d\n\uf02b\n\uf02d\n\uf03d\n is 2\n3\n\uf02b\n. Find the positive rational root of \nthe equation if it exists.",
+        "options": [
+            "(A) 5",
+            "(B) 7",
+            "(C) \u2013 6",
+            "(D) No positive rational root"
+        ],
+        "question_id": "Q24"
+    },
+    {
+        "question_number": 25,
+        "question_text": "One says, \u201cGive me a hundred, friend! I shall then become twice as rich as you\u201d. The other replies, \u201cIf you give me ten, I shall be six times as rich as you\u201d. Tell me what is the amount of their \n(respective) capital?",
+        "options": [
+            "(A) 50, 150",
+            "(B) 10, 100",
+            "(C) 40, 170",
+            "(D) 70, 350"
+        ],
+        "question_id": "Q25"
+    },
+    {
+        "question_number": 26,
+        "question_text": "81 : 27 :: 573 : ?",
+        "options": [
+            "(A) 67",
+            "(B) 181",
+            "(C) 191",
+            "(D) 243"
+        ],
+        "question_id": "Q26"
+    },
+    {
+        "question_number": 27,
+        "question_text": "How many squares in the picture?",
+        "options": [
+            "(A) 33",
+            "(B) 39",
+            "(C) 41",
+            "(D) 40"
+        ],
+        "question_id": "Q27"
+    },
+    {
+        "question_number": 28,
+        "question_text": "Statements: No women teacher can play. Some women teachers are athletes.\n\nConclusions:\n\nI. \nMale athletes can play.\n\nII. Some athletes can play.",
+        "options": [
+            "(A) Only conclusion I follows",
+            "(B) Only conclusion II follows",
+            "(C) Either I or II follows",
+            "(D) Neither I nor II follows"
+        ],
+        "question_id": "Q28"
+    },
+    {
+        "question_number": 29,
+        "question_text": "Here are some words translated from an artificial language.\n\ngorblflur means fan belt\n\npixngorbl means ceiling fan\n\narthtusl means tile roof\n\nWhich word could mean \u201cceiling tile\u201d?",
+        "options": [
+            "(A) gorbltusl",
+            "(B) flurgorbl",
+            "(C) arthflur",
+            "(D) pixnarth"
+        ],
+        "question_id": "Q29"
+    },
+    {
+        "question_number": 30,
+        "question_text": "X introduces Y saying, \u201cHe is the husband of the grand daughter of the father of my father.  \n\nHow is Y related to X, if X is a male?",
+        "options": [
+            "(A) Brother",
+            "(B) Uncle",
+            "(C) Son",
+            "(D) Brother in law"
+        ],
+        "question_id": "Q30"
+    }
+]

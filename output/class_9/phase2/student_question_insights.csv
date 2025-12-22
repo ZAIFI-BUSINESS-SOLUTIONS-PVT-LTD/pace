@@ -1,0 +1,360 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+279200,Q1,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q2,B,C,False,Guess,"The student selected option B, but the correct answer is C.",Low,UNKNOWN
+279200,Q3,B,D,False,Guess,"The student selected option B, but the correct answer is D.",Low,UNKNOWN
+279200,Q4,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q5,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+279200,Q6,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q7,B,C,False,Conceptual,"The student chose option B (Irrational), but the sum of two irrational numbers can be Real. ",Low,UNKNOWN
+279200,Q8,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q9,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q10,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+279200,Q11,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q12,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q13,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+279200,Q14,D,A,False,Guess,"The student selected option D, but the correct answer is A.",Low,UNKNOWN
+279200,Q15,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q16,B,A,False,Calculation,"The student selected option B, but the correct answer is A. Likely made an error in unit conversion or formula application.",Low,UNKNOWN
+279200,Q17,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q18,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q19,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q20,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q21,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q22,D,B,False,Conceptual,"Student chose E=hf, relating energy and frequency, instead of F=dp/dt, relating force and change in momentum.",Low,UNKNOWN
+279200,Q23,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q24,C,D,False,Conceptual,"The student chose option C, Electromagnetic waves, but the correct answer is D, Longitudinal waves. This indicates a misunderstanding of wave types.",Low,UNKNOWN
+279200,Q25,A,C,False,Calculation,"Student selected 0.2 s, but the correct answer is 5.0 s. Incorrect calculation of time taken for sound to travel the given distance.",Low,UNKNOWN
+279200,Q26,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q27,C,D,False,Conceptual,The student selected option C but the correct answer is D. Indicates confusion with Dalton's atomic theory.,Low,UNKNOWN
+279200,Q28,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+279200,Q29,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q30,B,C,False,Conceptual,The student chose stream of alpha particles instead of stream of electrons.,Low,UNKNOWN
+279200,Q31,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q32,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q33,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q34,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+279200,Q35,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q36,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q37,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q38,D,A,False,Conceptual,"The student chose option D, but the correct answer is A. This suggests confusion between different chloroplast structures.",Low,UNKNOWN
+279200,Q39,B,D,False,Conceptual,"The student selected option B, but the correct answer is D. This suggests lack of understanding of cell membrane composition.",Low,UNKNOWN
+279200,Q40,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q41,D,A,False,Conceptual,"The student selected Acidophilus instead of yeast, indicating a lack of knowledge about common scientific names.",Low,UNKNOWN
+279200,Q42,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+279200,Q43,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+279200,Q44,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+279200,Q45,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+981995,Q1,A,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q2,B,C,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q3,C,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q4,B,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q5,A,B,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q6,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q7,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q8,C,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q9,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q10,C,B,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q11,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q12,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q13,C,B,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q14,B,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q15,B,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q16,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q17,B,C,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q18,A,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q19,B,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q20,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q21,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q22,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q23,B,C,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q24,C,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q25,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q26,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q27,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q28,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q29,B,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q30,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q31,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q32,A,C,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q33,A,D,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q34,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q35,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q36,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q37,C,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q38,C,A,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q39,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q40,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q41,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q42,B,C,False,Guess,"The student selected an incorrect option without a clear pattern, indicating a guess.",Low,UNKNOWN
+981995,Q43,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q44,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+981995,Q45,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+270700,Q1,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q2,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q3,B,D,False,Guess,"The student selected B, but the correct answer is D. No explanation provided. ",Low,UNKNOWN
+270700,Q5,B,B,True,None,The student selected the correct option which is B.,High,UNKNOWN
+270700,Q6,A,A,True,None,The student selected the correct option which is A.,High,UNKNOWN
+270700,Q7,B,C,False,Guess,"The student selected B, but the correct answer is C. No explanation provided.",Low,UNKNOWN
+270700,Q8,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q9,A,A,True,None,The student selected the correct option which is A.,High,UNKNOWN
+270700,Q10,C,B,False,Guess,"The student selected C, but the correct answer is B. No explanation provided.",Low,UNKNOWN
+270700,Q11,A,A,True,None,The student selected the correct option which is A.,High,UNKNOWN
+270700,Q12,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q13,A,B,False,Guess,"The student selected A, but the correct answer is B. No explanation provided.",Low,UNKNOWN
+270700,Q14,D,A,False,Guess,"The student selected D, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q15,A,A,True,None,The student selected the correct option which is A.,High,UNKNOWN
+270700,Q16,C,A,False,Guess,"The student selected C, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q17,A,C,False,Guess,"The student selected A, but the correct answer is C. No explanation provided.",Low,UNKNOWN
+270700,Q18,B,D,False,Guess,"The student selected B, but the correct answer is D. No explanation provided.",Low,UNKNOWN
+270700,Q19,A,A,True,None,The student selected the correct option which is A.,High,UNKNOWN
+270700,Q20,C,D,False,Guess,"The student selected C, but the correct answer is D. No explanation provided.",Low,UNKNOWN
+270700,Q21,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q22,B,B,True,None,The student selected the correct option which is B.,High,UNKNOWN
+270700,Q23,B,C,False,Guess,"The student selected B, but the correct answer is C. No explanation provided.",Low,UNKNOWN
+270700,Q24,A,D,False,Guess,"The student selected A, but the correct answer is D. No explanation provided.",Low,UNKNOWN
+270700,Q25,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q26,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q27,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q28,B,B,True,None,The student selected the correct option which is B.,High,UNKNOWN
+270700,Q29,C,A,False,Guess,"The student selected C, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q30,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q31,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q32,A,C,False,Guess,"The student selected A, but the correct answer is C. No explanation provided.",Low,UNKNOWN
+270700,Q33,A,D,False,Guess,"The student selected A, but the correct answer is D. No explanation provided.",Low,UNKNOWN
+270700,Q34,B,B,True,None,The student selected the correct option which is B.,High,UNKNOWN
+270700,Q35,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q36,B,C,False,Guess,"The student selected B, but the correct answer is C. No explanation provided.",Low,UNKNOWN
+270700,Q37,C,A,False,Guess,"The student selected C, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q38,D,A,False,Guess,"The student selected D, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q39,B,D,False,Guess,"The student selected B, but the correct answer is D. No explanation provided.",Low,UNKNOWN
+270700,Q40,D,A,False,Guess,"The student selected D, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q41,D,A,False,Guess,"The student selected D, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q42,C,C,True,None,The student selected the correct option which is C.,High,UNKNOWN
+270700,Q43,C,A,False,Guess,"The student selected C, but the correct answer is A. No explanation provided.",Low,UNKNOWN
+270700,Q44,D,D,True,None,The student selected the correct option which is D.,High,UNKNOWN
+270700,Q45,B,B,True,None,The student selected the correct option which is B.,High,UNKNOWN
+260300,Q1,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+260300,Q2,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q3,B,D,False,Guess,"The student selected option B, while the correct option is D. No explanation available.",Low,UNKNOWN
+260300,Q4,C,D,False,Guess,"The student selected option C, while the correct option is D. No explanation available.",Low,UNKNOWN
+260300,Q5,A,B,False,Guess,"The student selected option A, while the correct option is B. No explanation available.",Low,UNKNOWN
+260300,Q6,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q7,B,C,False,Conceptual,"The student incorrectly thought the sum of two irrational numbers is always irrational, while the correct answer is that it is always real.",Low,UNKNOWN
+260300,Q8,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+260300,Q9,D,A,False,Guess,"The student selected option D, while the correct option is A. No explanation available.",Low,UNKNOWN
+260300,Q10,C,B,False,Guess,"The student selected option C, while the correct option is B. No explanation available.",Low,UNKNOWN
+260300,Q11,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q12,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q13,C,B,False,Guess,"The student selected option C, while the correct option is B. No explanation available.",Low,UNKNOWN
+260300,Q14,C,A,False,Guess,"The student selected option C, while the correct option is A. No explanation available.",Low,UNKNOWN
+260300,Q15,B,A,False,Guess,"The student selected option B, while the correct option is A. No explanation available.",Low,UNKNOWN
+260300,Q16,C,A,False,Guess,"The student selected option C, while the correct option is A. No explanation available.",Low,UNKNOWN
+260300,Q17,A,C,False,Guess,"The student selected option A, while the correct option is C. No explanation available.",Low,UNKNOWN
+260300,Q18,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+260300,Q19,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q20,C,D,False,Conceptual,"The student thinks Pressure is a Base Quantity and a Scalar, while it's a Derived Quantity and a Scalar.",Low,UNKNOWN
+260300,Q21,C,D,False,Conceptual,"The student has misconception about the relationship between Pressure, Force and Area.",Low,UNKNOWN
+260300,Q22,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+260300,Q23,B,C,False,Conceptual,"The student selected option B, indicating misunderstanding of wave equation.",Low,UNKNOWN
+260300,Q24,B,D,False,Conceptual,The student chose light waves instead of longitudinal waves.,Low,UNKNOWN
+260300,Q25,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q26,D,C,False,Conceptual,The student needs to review Dalton's Atomic Theory postulates.,Low,UNKNOWN
+260300,Q27,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+260300,Q28,C,B,False,Conceptual,The student needs to recall the fundamental concepts of Dalton's Atomic Theory.,Low,UNKNOWN
+260300,Q29,C,A,False,Conceptual,The student has difficulty distinguishing between properties and mass.,Low,UNKNOWN
+260300,Q30,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q31,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q32,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q33,A,D,False,Conceptual,The student incorrectly chose A. Nylon is stronger than cotton.,Low,UNKNOWN
+260300,Q34,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+260300,Q35,C,D,False,Conceptual,The student selected Cellulose instead of Esters.,Low,UNKNOWN
+260300,Q36,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q37,B,A,False,Conceptual,"The student selected Cell wall instead of Cell membrane, showing confusion regarding cell structure.",Low,UNKNOWN
+260300,Q38,C,A,False,Conceptual,"The student selected Stroma instead of Grana, needs to review chloroplast structure.",Low,UNKNOWN
+260300,Q39,B,D,False,Conceptual,The student selected Phospholipids instead of Proline. Needs a review of cell membrane composition.,Low,UNKNOWN
+260300,Q40,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q41,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q42,C,C,True,None,The student selected the correct option C.,High,UNKNOWN
+260300,Q43,A,A,True,None,The student selected the correct option A.,High,UNKNOWN
+260300,Q44,D,D,True,None,The student selected the correct option D.,High,UNKNOWN
+260300,Q45,B,B,True,None,The student selected the correct option B.,High,UNKNOWN
+287100,Q1,A,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q2,A,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q3,C,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q4,B,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q5,D,B,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q6,C,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q7,B,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q8,B,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q9,B,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q10,D,B,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q11,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q12,B,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q13,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q14,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q15,B,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q16,C,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q17,B,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q18,B,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q19,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q20,A,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q21,C,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q22,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q23,A,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q24,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q25,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q26,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q27,A,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q28,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q29,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q30,A,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q31,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q32,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q33,A,D,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q34,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q35,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q36,C,C,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q37,D,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q38,C,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q39,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q40,A,A,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q41,C,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q42,A,C,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q43,B,A,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+287100,Q44,D,D,True,None,The student selected the correct option.,High,UNKNOWN
+287100,Q45,C,B,False,Guess,"The student selected an incorrect option.  Without an explanation available, the error type is likely a guess.",Low,UNKNOWN
+269800,Q1,D,D,True,None,Student selected the correct option 'D'.,High,UNKNOWN
+269800,Q2,B,C,False,Guess,Student selected option 'B' instead of correct option 'C'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q3,B,D,False,Guess,Student selected option 'B' instead of correct option 'D'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q4,B,D,False,Guess,Student selected option 'B' instead of correct option 'D'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q5,A,B,False,Guess,Student selected option 'A' instead of correct option 'B'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q6,B,A,False,Guess,Student selected option 'B' instead of correct option 'A'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q7,D,C,False,Conceptual,Student selected option 'D' instead of correct option 'C'. Student may have misunderstood the properties of irrational numbers.,Low,UNKNOWN
+269800,Q8,B,D,False,Guess,Student selected option 'B' instead of correct option 'D'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q9,A,A,True,None,Student selected the correct option 'A'.,High,UNKNOWN
+269800,Q10,A,B,False,Guess,Student selected option 'A' instead of correct option 'B'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q11,A,A,True,None,Student selected the correct option 'A'.,High,UNKNOWN
+269800,Q12,B,C,False,Guess,Student selected option 'B' instead of correct option 'C'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q13,D,B,False,Guess,Student selected option 'D' instead of correct option 'B'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q14,A,A,True,None,Student selected the correct option 'A'.,High,UNKNOWN
+269800,Q15,B,A,False,Guess,Student selected option 'B' instead of correct option 'A'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q16,D,A,False,Guess,Student selected option 'D' instead of correct option 'A'. No solution explanation is available to discern the mistake.,Low,UNKNOWN
+269800,Q17,B,C,False,Conceptual,Student selected option 'B' instead of correct option 'C'. Student may have misunderstood metric prefixes.,Low,UNKNOWN
+269800,Q18,A,D,False,Conceptual,Student selected option 'A' instead of correct option 'D'. Student may not understand Newton's first law.,Low,UNKNOWN
+269800,Q19,D,A,False,Conceptual,Student selected option 'D' instead of correct option 'A'. Student likely confused the relationship between force and acceleration.,Low,UNKNOWN
+269800,Q20,D,D,True,None,Student selected the correct option 'D'.,High,UNKNOWN
+269800,Q21,A,D,False,Conceptual,Student selected option 'A' instead of correct option 'D'. Student likely doesn't understand the inverse relationship between pressure and area.,Low,UNKNOWN
+269800,Q22,B,B,True,None,Student selected the correct option 'B'.,High,UNKNOWN
+269800,Q23,B,C,False,Conceptual,Student selected option 'B' instead of correct option 'C'. Student likely did not understand the wave equation.,Low,UNKNOWN
+269800,Q24,B,D,False,Conceptual,Student selected option 'B' instead of correct option 'D'. Student likely confused types of waves.,Low,UNKNOWN
+269800,Q25,C,C,True,None,Student selected the correct option 'C'.,High,UNKNOWN
+269800,Q26,C,C,True,None,Student selected the correct option 'C'.,High,UNKNOWN
+269800,Q27,A,D,False,Conceptual,Student selected option 'A' instead of correct option 'D'.  Student seems to misunderstand modern atomic theory.,Low,UNKNOWN
+269800,Q28,B,B,True,None,Student selected the correct option 'B'.,High,UNKNOWN
+269800,Q29,B,A,False,Conceptual,Student selected option 'B' instead of correct option 'A'. Student may not understand the properties of atoms.,Low,UNKNOWN
+269800,Q30,D,C,False,Conceptual,Student selected option 'D' instead of correct option 'C'. Student has misunderstanding about cathode rays.,Low,UNKNOWN
+269800,Q31,D,C,False,Conceptual,Student selected option 'D' instead of correct option 'C'. Student does not know the composition of silk fibers.,Low,UNKNOWN
+269800,Q32,C,C,True,None,Student selected the correct option 'C'.,High,UNKNOWN
+269800,Q33,D,D,True,None,Student selected the correct option 'D'.,High,UNKNOWN
+269800,Q34,D,B,False,Conceptual,Student selected option 'D' instead of correct option 'B'. Student doesn't know that PET is a form of polyester.,Low,UNKNOWN
+269800,Q35,C,D,False,Conceptual,Student selected option 'C' instead of correct option 'D'. Student has misunderstood the origin of the smell of fruits.,Low,UNKNOWN
+269800,Q36,C,C,True,None,Student selected the correct option 'C'.,High,UNKNOWN
+269800,Q37,D,A,False,Conceptual,Student selected option 'D' instead of correct option 'A'. Student does not understand the basic cell components shared by E.coli and spirogyra.,Low,UNKNOWN
+269800,Q38,C,A,False,Conceptual,Student selected option 'C' instead of correct option 'A'. Student seems to be confused about chloroplast structure.,Low,UNKNOWN
+269800,Q39,B,D,False,Conceptual,Student selected option 'B' instead of correct option 'D'. Student seems to have a knowledge gap of the components of cell membrane.,Low,UNKNOWN
+269800,Q40,A,A,True,None,Student selected the correct option 'A'.,High,UNKNOWN
+269800,Q41,D,A,False,Conceptual,Student selected option 'D' instead of correct option 'A'. Student is unfamiliar with the scientific name of Yeast.,Low,UNKNOWN
+269800,Q42,C,C,True,None,Student selected the correct option 'C'.,High,UNKNOWN
+269800,Q43,A,A,True,None,Student selected the correct option 'A'.,High,UNKNOWN
+269800,Q44,D,D,True,None,Student selected the correct option 'D'.,High,UNKNOWN
+269800,Q45,B,B,True,None,Student selected the correct option 'B'.,High,UNKNOWN
+992973,Q1,D,D,True,None,The student correctly identified the relationship between 9 and 27 and applied it to the correct answer 81:729. 9*3 = 27 and 81*9 =729,High,UNKNOWN
+992973,Q2,D,C,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q3,B,D,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q4,D,D,True,None,The student correctly identified the pattern and selected the correct option 'I'.,High,UNKNOWN
+992973,Q5,C,B,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q6,A,A,True,None,Student correctly converted repeating decimal to fraction,High,UNKNOWN
+992973,Q7,B,C,False,Conceptual,The student incorrectly thought sum of two irrational number is always irrational. The correct answer is that the sum can be real (rational or irrational),Low,UNKNOWN
+992973,Q8,D,D,True,None,The student has correctly expressed the decimal as a fraction.,High,UNKNOWN
+992973,Q9,A,A,True,None,The student has correctly identified the least positive fraction.,High,UNKNOWN
+992973,Q10,A,B,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q11,A,A,True,None,The student has correctly simplified the expression.,High,UNKNOWN
+992973,Q12,C,C,True,None,Student correctly solved for x.,High,UNKNOWN
+992973,Q13,D,B,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q14,B,A,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q15,C,A,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q16,C,A,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q17,C,C,True,None,Student correctly identified the longest duration of time.,High,UNKNOWN
+992973,Q18,B,D,False,Conceptual,Newton's first law of motion states that an object in motion stays in motion with the same speed and in the same direction unless acted upon by a force.,Low,UNKNOWN
+992973,Q19,C,A,False,Guess,"Student selected the wrong option. No explanation is provided, so difficult to assess reason.",Low,UNKNOWN
+992973,Q20,B,D,False,Conceptual,The student incorrectly identified the characteristics of Pressure. Pressure is a derived quantity and a scalar quantity.,Low,UNKNOWN
+992973,Q21,D,D,True,None,"Student correctly identified the relationship between Area, Force and Pressure.",High,UNKNOWN
+992973,Q22,A,B,False,Conceptual,Student needs to revise formula relating thrust force and rocket's change in motion.,Low,UNKNOWN
+992973,Q23,B,C,False,Conceptual,"Student should revise the relationship between wave's speed, frequency and wavelength",Low,UNKNOWN
+992973,Q24,C,D,False,Conceptual,"Compressions and rarefactions are characteristics of longitudinal waves, not electromagnetic waves.",Low,UNKNOWN
+992973,Q25,C,C,True,None,Student correctly calculated the time it takes for sound to travel 1650m.,High,UNKNOWN
+992973,Q26,A,C,False,Conceptual,Student needs to revise Dalton's Atomic Theory and its postulates relating to laws of conservation of mass.,Low,UNKNOWN
+992973,Q27,C,D,False,Conceptual,Student selected the wrong option. Needs revision of Dalton's atomic theory,Low,UNKNOWN
+992973,Q28,B,B,True,None,Student accurately recalls Dalton's Atomic Theory regarding indivisible atoms.,High,UNKNOWN
+992973,Q29,A,A,True,None,Student accurately recalls properties of atoms of the same element,High,UNKNOWN
+992973,Q30,B,C,False,Conceptual,Student needs to revise about Cathode rays.,Low,UNKNOWN
+992973,Q31,C,C,True,None,The student correctly identified the composition of silk fibres.,High,UNKNOWN
+992973,Q32,D,C,False,Conceptual,The student needs to revise the properties of nylon.,Low,UNKNOWN
+992973,Q33,D,D,True,None,The student correctly identified the false statement.,High,UNKNOWN
+992973,Q34,A,B,False,Conceptual,The student needs to learn what PET stands for.,Low,UNKNOWN
+992973,Q35,B,D,False,Conceptual,The student needs to revise the chemical responsible for the smell of fruits.,Low,UNKNOWN
+992973,Q36,C,C,True,None,Student correctly identified the parts of the cell.,High,UNKNOWN
+992973,Q37,B,A,False,Conceptual,The student needs to revise differences between E.coli and Spirogyra,Low,UNKNOWN
+992973,Q38,C,A,False,Conceptual,The student needs to learn about the structure of chloroplasts,Low,UNKNOWN
+992973,Q39,A,D,False,Conceptual,The student needs to revise the composition of cell membranes.,Low,UNKNOWN
+992973,Q40,B,A,False,Conceptual,Student is confused between nerve and muscle cells.,Low,UNKNOWN
+992973,Q41,D,A,False,Conceptual,The student needs to learn scientific names of microorganisms.,Low,UNKNOWN
+992973,Q42,B,C,False,Conceptual,The student needs to revise who discovered fermentation.,Low,UNKNOWN
+992973,Q43,B,A,False,Conceptual,Student needs to revise the process of conversion of lactose into lactic acid.,Low,UNKNOWN
+992973,Q44,D,D,True,None,Student correctly identified the habitat for micro-organisms.,High,UNKNOWN
+992973,Q45,B,B,True,None,Student correctly identified gas.,High,UNKNOWN
+284400,Q1,D,D,True,None,The student correctly identified the relationship between 9 and 27 as being the same as 81 and 729 (x: x*x*x).,High,UNKNOWN
+284400,Q2,B,C,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q3,B,D,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q4,C,D,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q5,B,B,True,None,The student correctly solved the system of equations to find the fares for cities B and C.,High,UNKNOWN
+284400,Q6,C,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q7,B,C,False,Conceptual,"The student incorrectly stated the sum of two irrational numbers. The sum can be rational, irrational, or real depending on the numbers.",Low,UNKNOWN
+284400,Q8,B,D,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q9,C,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q10,B,B,True,None,Student correctly set up the equation (2.5x)/(3y) = 10/19 and solved for x/y.,High,UNKNOWN
+284400,Q11,B,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q12,A,C,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q13,B,B,True,None,Student correctly solved the problem.,High,UNKNOWN
+284400,Q14,A,A,True,None,Student correctly solved the problem.,High,UNKNOWN
+284400,Q15,C,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q16,D,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q17,C,C,True,None,Student correctly identified the longest duration of time by converting all measurements into a single unit.,High,UNKNOWN
+284400,Q18,A,D,False,Conceptual,"The student does not understand Newton's first law of motion, which explains that an object in motion will stay in motion unless acted on by an external force.",Low,UNKNOWN
+284400,Q19,A,A,True,None,The student correctly applied Newton's Second law (F=ma) and used ratios to find the answer.,High,UNKNOWN
+284400,Q20,C,D,False,Conceptual,The student incorrectly identified pressure as a base quantity instead of a derived quantity. Scalar is also incorrect since pressure does not have direction.,Low,UNKNOWN
+284400,Q21,D,D,True,None,The student correctly understands that decreasing the surface area while maintaining force will increase pressure.,High,UNKNOWN
+284400,Q22,D,B,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q23,B,C,False,Conceptual,"The student does not understand the equation v=f*lambda, and hence they do not understand that an increase in speed (v) is proportional to an increase in wavelength, since the frequency is constant.",Low,UNKNOWN
+284400,Q24,C,D,False,Conceptual,The student incorrectly chose electromagnetic waves. The correct answer is longitudinal waves.,Low,UNKNOWN
+284400,Q25,B,C,False,Calculation,Student likely attempted the problem but made a calculation error. 1650/330 = 5.,Low,UNKNOWN
+284400,Q26,D,C,False,Conceptual,The student does not understand the postulates of Dalton's Atomic Theory.,Low,UNKNOWN
+284400,Q27,C,D,False,Conceptual,The student does not understand Dalton's Atomic Theory and its modern version.,Low,UNKNOWN
+284400,Q28,B,B,True,None,The student correctly remembers Dalton's Atomic Theory.,High,UNKNOWN
+284400,Q29,A,A,True,None,The student correctly answered the conceptual question.,High,UNKNOWN
+284400,Q30,A,C,False,Conceptual,The student incorrectly identifies cathode rays as electromagnetic waves instead of streams of electrons.,Low,UNKNOWN
+284400,Q31,D,C,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q32,C,C,True,None,The student correctly identifies the properties of nylon.,High,UNKNOWN
+284400,Q33,D,D,True,None,The student correctly identifies the statement that is NOT TRUE about polymers.,High,UNKNOWN
+284400,Q34,B,B,True,None,The student correctly remembers that PET is a form of polyester.,High,UNKNOWN
+284400,Q35,A,D,False,Conceptual,"The student selected the wrong option, showing confusion about the source of smell from fruit.",Low,UNKNOWN
+284400,Q36,C,C,True,None,Student correctly identified the diagram,High,UNKNOWN
+284400,Q37,D,A,False,Guess,"The student selected the wrong option. Without explanation, it is difficult to determine the error.",Low,UNKNOWN
+284400,Q38,B,A,False,Conceptual,The student is confused with the names of the structures in Chloroplasts.,Low,UNKNOWN
+284400,Q39,C,D,False,Conceptual,"The student chose the wrong option, showing a confusion about the composition of a cell membrane.",Low,UNKNOWN
+284400,Q40,A,A,True,None,The student correctly remembers that nerve cell is the longest cell in the human body.,High,UNKNOWN
+284400,Q41,B,A,False,Conceptual,The student does not remember that Saccharomyces cerevisiae is another name for Yeast.,Low,UNKNOWN
+284400,Q42,A,C,False,Conceptual,Student incorrectly believes that fermentation was discovered by Fleming.,Low,UNKNOWN
+284400,Q43,B,A,False,Conceptual,The student incorrectly identifies the respiration type for converting lactose into lactic acid.,Low,UNKNOWN
+284400,Q44,D,D,True,None,Student correctly understood habitat of micro-organisms.,High,UNKNOWN
+284400,Q45,C,B,False,Conceptual,Student incorrectly thinks that carbon monoxide makes bread fluffy instead of carbon dioxide.,Low,UNKNOWN

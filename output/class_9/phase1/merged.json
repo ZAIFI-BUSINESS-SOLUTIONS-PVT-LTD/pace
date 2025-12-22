@@ -1,0 +1,632 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "Select the pair in which the numbers are similarly related as in the given pair.\n\n9 : 27 : : ___ : ___",
+        "options": [
+            "(a) 5 : 125",
+            "(b) 8 : 64",
+            "(c) 15 : 135",
+            "(d) 81 : 729"
+        ],
+        "question_id": "Q1",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 2,
+        "question_text": "In a certain code language, '3a, 2b, 7c' means 'Truth is Eternal';\n'7c, 9a, 8b, 3a' means 'Enmity is not Eternal' and\n'9a, 4d, 2b, 8b' means 'Truth does not perish'.\nWhich of the following means 'enmity' in that language ?",
+        "options": [
+            "(a) 3a",
+            "(b) 7c",
+            "(c) 8b",
+            "(d) 9a"
+        ],
+        "question_id": "Q2",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 3,
+        "question_text": "(i) In a family of six persons A, B, C, D, E and F, there are two married couples.\n(ii) D is grandmother of A and mother of B.\n(iii) C is wife of B and mother of F.\n(iv) F is the grand daughter of E.\nWho among the following is one of the couples ?",
+        "options": [
+            "(a) CD",
+            "(b) DE",
+            "(c) EB",
+            "(d) none of these"
+        ],
+        "question_id": "Q3",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 4,
+        "question_text": "What letter will come in place of question mark?\n\nL  J   H\n\nJ   P  D\n\nP  ?   E",
+        "options": [
+            "(a) K",
+            "(b) L",
+            "(c) P",
+            "(d) I"
+        ],
+        "question_id": "Q4",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 5,
+        "question_text": "Two bus tickets from city A to B and three tickets from city A to C cost Rs. 77 but three tickets from city\nA to B and two tickets from city A to C cost Rs. 73. What are the fares for cities B and C from A ?",
+        "options": [
+            "(a) Rs.4, Rs. 23",
+            "(b) Rs. 13, Rs. 17",
+            "(c) Rs. 15, Rs. 14",
+            "(d) Rs. 17, Rs. 13"
+        ],
+        "question_id": "Q5",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 6,
+        "question_text": "Write 0.135135 \u2026. In the form of p\nq .",
+        "options": [
+            "(a) 5\n37",
+            "(b) 17\n37",
+            "(c) 19\n7",
+            "(d) 19\n111"
+        ],
+        "question_id": "Q6",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 7,
+        "question_text": "The sum of two irrational number is always",
+        "options": [
+            "(a) Rational",
+            "(b) Irrational",
+            "(c) Real",
+            "(d) Integer"
+        ],
+        "question_id": "Q7",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 8,
+        "question_text": "Express 0.45235 as a fraction.",
+        "options": [
+            "(a) 1419\n99900",
+            "(b) 14190\n9990",
+            "(c) 1491\n9990",
+            "(d) 4519\n9990"
+        ],
+        "question_id": "Q8",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 9,
+        "question_text": "What is the least positive fraction that must be added 1\n1\n1\n1\n1\n1\n3\n2\n9\n\uf0b8\n\uf0b8\nto make the result an integer?",
+        "options": [
+            "(a) 1\n5",
+            "(b) 3\n5",
+            "(c)  2\n5",
+            "(d) more than one of the above"
+        ],
+        "question_id": "Q9",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 10,
+        "question_text": "If the numerator of a fraction is increased by 150% and the denominator of a fraction is increased by \n200%, the fraction becomes 10\n19 . Find the fraction.",
+        "options": [
+            "(a) 20\n29",
+            "(b) 12\n19",
+            "(c) 15\n29",
+            "(d) 13\n19"
+        ],
+        "question_id": "Q10",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 11,
+        "question_text": "0.0064\n2.25\n2.89\n\uf02b\n\uf02b\nis equal to:",
+        "options": [
+            "(a) 3.28",
+            "(b) 23",
+            "(c) 1",
+            "(d) 2"
+        ],
+        "question_id": "Q11",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 12,
+        "question_text": "If \n4x 2\n3\n729\n\uf02d\uf03d\n, then find the value of x.",
+        "options": [
+            "(a) 4",
+            "(b) 3",
+            "(c) 2",
+            "(d) 5"
+        ],
+        "question_id": "Q12",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 13,
+        "question_text": "In the quesitons, two equations I and II are given. You have to solve both the equations to establish \nthe correct relation between x and y and choose the correct option.\n\nI. \n\uf028\n\uf029\n2\n2\n2\n3x\n35\n4 x\n25\n2x\n21x\n20\n\uf02b\n\uf02d\n\uf02b\n\uf03d\n\uf02b\n\uf02b\n\n\nII.\n\uf028\n\uf029\n2\n3\ny\n90 4\n4\n676 y\n\uf02b\n\uf0b4\n\uf03d\n\uf02d",
+        "options": [
+            "(a) x > y",
+            "(b) x < y",
+            "(c) x = y or the relationship cannot be established",
+            "(d) x\ny\n\uf0b3"
+        ],
+        "question_id": "Q13",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 14,
+        "question_text": "If \n1\nx\n3\nx\n\uf02d\n\uf03d\n, the value of \n3\n3\n1\nx\nx\n\uf02d\nis",
+        "options": [
+            "(a) 36",
+            "(b) 63",
+            "(c) 99",
+            "(d) none of these"
+        ],
+        "question_id": "Q14",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 15,
+        "question_text": "If p + q + r = 5; \n3\n3\n3\np\nq\nr\n30\n\uf02b\n\uf02b\n\uf03d\nand \n2\n2\n2\np\nq\nr\n15\n\uf02b\n\uf02b\n\uf03d\n, then find 3pqr?",
+        "options": [
+            "(a) \u2013 20",
+            "(b) 20",
+            "(c) 25",
+            "(d) \u2013 25"
+        ],
+        "question_id": "Q15",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 16,
+        "question_text": "A solid cubical block has a total surface area of 600 cm2 and is made of a material with a density of  \n8 g/cm3.\nIf the block is placed on a flat, horizontal table, what is the pressure it exerts on the table due to its \nweight? (Assume g = 10 m/s2).",
+        "options": [
+            "(a) 800 Pa",
+            "(b)  8 kPa",
+            "(c) 80 kPa",
+            "(d) 800 kPa"
+        ],
+        "question_id": "Q16",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 17,
+        "question_text": "Which of the following expressions represents the longest duration of time?",
+        "options": [
+            "(a) 100 millisecond",
+            "(b) 107 nanosecond",
+            "(c) 10\u20135 megasecond",
+            "(d) 105 microsecond"
+        ],
+        "question_id": "Q17",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 18,
+        "question_text": "A space probe is coasting through deep space for from any major gravitational influence. It is \nmoving at a constant velocity of 10,000 m/s towards a distance star. What is the magnitude of the net \nforce acting on the probe?",
+        "options": [
+            "(a) 10,000 N",
+            "(b) Grater than zero, but less than 10,000",
+            "(c) Less than zero",
+            "(d) Zero"
+        ],
+        "question_id": "Q18",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 19,
+        "question_text": "Two different objects, X and Y have the same mass. Object X is pushed with a constant force FX and \naccelerates at 2 m/s2. Object Y is pushed with a constant force FY and accelerates at 6 m/s2.\nWhat is the relationship between the magnitude of FX and FY?",
+        "options": [
+            "(a)\nY\nX\nF\n3F\n\uf03d",
+            "(b)\nY\nX\nF\n1/ 3F\n\uf03d",
+            "(c)\nY\nX\nF\n2F\n\uf03d",
+            "(d)\nY\nX\nF\n4F\n\uf03d"
+        ],
+        "question_id": "Q19",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 20,
+        "question_text": "Which statement accurately describes the characteristics of Pressure?",
+        "options": [
+            "(a) It is a Base Quantity and a Vector.",
+            "(b) It is a Derived Quantity and a Vector.",
+            "(c) It is a Base Quantity and a Scalar.",
+            "(d) It is a Derived Quantity and a Scalar."
+        ],
+        "question_id": "Q20",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 21,
+        "question_text": "\u201cThe tip of a common nail is made sharp. \u201cWhich statement below correctly describes the relationship between the variables involved when hammering the nail into a piece of wood?",
+        "options": [
+            "(a) The Area (A) of contact is increased to maximize the Force (F).",
+            "(b) The Force (F) applied is increased to maximize the Pressure (P).",
+            "(c) The Pressure (P) is reduced by increasing the Area (A).",
+            "(d) The Area (A) of the tip is reduced to greatly increases the Pressure (P) for a given Force (F)."
+        ],
+        "question_id": "Q21",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 22,
+        "question_text": "\u201cA massive rocket accelerates skyward despite its enormous weight. \u201cWhich formula best explains the relationship between the thrust force and the rocket\u2019s Change in motion?",
+        "options": [
+            "(a) \n2\nE\nmc\n\uf03d",
+            "(b) F\npt\n\uf03d\uf044\uf02f\uf044",
+            "(c) F\nkx\n\uf03d\uf02d",
+            "(d) E\nhf\n\uf03d"
+        ],
+        "question_id": "Q22",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 23,
+        "question_text": "A wave\u2019s speed (v) increases as it moves from one medium to another, but its frequency (f) remains constant. Based on the wave equation \nf\n\uf06e\uf03d\n\uf06c, what must happen to the wave\u2019s wavelength \uf028\uf029\n\uf06c?",
+        "options": [
+            "(a) It decreases",
+            "(b) it remains unchanged",
+            "(c) its increases",
+            "(d) it becomes zero"
+        ],
+        "question_id": "Q23",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 24,
+        "question_text": "Compressions and rarefactions are regions of high and low density, respectively, that characterize the propagation of which type of wave?",
+        "options": [
+            "(a) Water waves",
+            "(b) Light waves",
+            "(c) Electromagnetic waves",
+            "(d) Longitudinal waves"
+        ],
+        "question_id": "Q24",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 25,
+        "question_text": "A distress flare is launched 1650 m away from an observer. Given the speed of sound in air is 330 m\n\uf0d7s\u2013l, how long after seeing the flash will the observer hear the sound? (Assume the time for light to travel is negligible.)",
+        "options": [
+            "(a) 0.2 s",
+            "(b) 3.0 s",
+            "(c) 5.0 s",
+            "(d) 550 s"
+        ],
+        "question_id": "Q25",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Which postulates of Dalton Atomic Theory gives laws of conservation of mass?",
+        "options": [
+            "(a) Atom of same elements are similar",
+            "(b) Atoms of different elements are different",
+            "(c) Atom can neither be created nor be destroyed",
+            "(d) Atom combine in fixed ratio to form compound."
+        ],
+        "question_id": "Q26",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Which of the following points of Dalton atomic theory is true according to modern atomic theory'?",
+        "options": [
+            "(a) Matter consists of small indivisible particles called atoms",
+            "(b) Atoms of same element are alike in all respects",
+            "(c) Atoms combine in small whole numbers to form compound atoms (molecules)",
+            "(d) Atom is the smallest unit of matter, which takes part in a chemical reaction"
+        ],
+        "question_id": "Q27",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 28,
+        "question_text": "According to Dalton's Atomic Theory, matter consists of indivisible ______.",
+        "options": [
+            "(a) Molecules",
+            "(b) Atoms",
+            "(c) Ions",
+            "(d) Mixtures"
+        ],
+        "question_id": "Q28",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 29,
+        "question_text": "All atoms of a given element have identical ________ including identical _______.",
+        "options": [
+            "(a) Properties, mass",
+            "(b) Weight, volume",
+            "(c) Volume, properties",
+            "(d) Temperature, pressure"
+        ],
+        "question_id": "Q29",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 30,
+        "question_text": "Cathode rays are:",
+        "options": [
+            "(a) Electromagnetic waves",
+            "(b) Stream of \uf061\uf02dparticles",
+            "(c) Stream of electrons",
+            "(d) Radiations"
+        ],
+        "question_id": "Q30",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 31,
+        "question_text": "Silk fibres are made up of",
+        "options": [
+            "(a) vitamin",
+            "(b) carbohydrates",
+            "(c) protein",
+            "(d) none of the above"
+        ],
+        "question_id": "Q31",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 32,
+        "question_text": "Nylon is useful because of following properties:",
+        "options": [
+            "(a) soft, strong and light",
+            "(b) transparent, light and easy to wash",
+            "(c) strong, elastic and light",
+            "(d) hard, inexpensive and strong"
+        ],
+        "question_id": "Q32",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 33,
+        "question_text": "Which of the following statements is NOT TRUE?",
+        "options": [
+            "(a) Polymer occur in nature",
+            "(b) Cellulose is made up of glucose units",
+            "(c) Nylon is used to make parachute",
+            "(d) Cotton thread is stronger than nylon thread"
+        ],
+        "question_id": "Q33",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 34,
+        "question_text": "PET is a familiar form of",
+        "options": [
+            "(a) Plastic",
+            "(b) Polyester",
+            "(c) Acrylic",
+            "(d) Rayon"
+        ],
+        "question_id": "Q34",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 35,
+        "question_text": "Fruits have their characteristic smell because of a chemical known as:",
+        "options": [
+            "(a) Yeast",
+            "(b) Aedes",
+            "(c) Cellulose",
+            "(d) Esters"
+        ],
+        "question_id": "Q35",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 36,
+        "question_text": "Identify the correct parts labelled as C, D, E, F",
+        "options": [
+            "(a) Plasma membrane Endoplasmic reticulum Vacuole Cell wall",
+            "(b) Cell membrane Nucleus Cytoplasm Cell wall",
+            "(c) Mitochondria Vacuole Cell wall Cell membrane",
+            "(d) Chloroplast Cell wall Nucleus Mitochondria"
+        ],
+        "question_id": "Q36",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 37,
+        "question_text": "Which of the following is not different between E.coli and Spirogyra?",
+        "options": [
+            "(a) Cell membrane",
+            "(b) Cell wall",
+            "(c) Chromosomal organization",
+            "(d) Ribosomes"
+        ],
+        "question_id": "Q37",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 38,
+        "question_text": "Structures created by stacking of organized flattened membranous sacs in the chloroplasts are ____.",
+        "options": [
+            "(a) Grana",
+            "(b) Cristae",
+            "(c) Stroma",
+            "(d) Stroma lamellae"
+        ],
+        "question_id": "Q38",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 39,
+        "question_text": "_______ is not present in the cell membrane.",
+        "options": [
+            "(a) Carbohydrates",
+            "(b) Phospholipids",
+            "(c) Protein",
+            "(d) Proline"
+        ],
+        "question_id": "Q39",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 40,
+        "question_text": "The longest cell is _____ in the human body.",
+        "options": [
+            "(a) Nerve cell",
+            "(b) Muscle cell",
+            "(c) Liver cell",
+            "(d) Kidney cell"
+        ],
+        "question_id": "Q40",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 41,
+        "question_text": "Saccharomyces cerevisiae is another name for ?",
+        "options": [
+            "(a) Yeast",
+            "(b) Lactobacillus",
+            "(c) Rhizopus",
+            "(d) Acidophilus"
+        ],
+        "question_id": "Q41",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 42,
+        "question_text": "The process of fermentation as discovered by _______.",
+        "options": [
+            "(a) Fleming",
+            "(b) Robert Brown",
+            "(c) Louis Pasteur",
+            "(d) All"
+        ],
+        "question_id": "Q42",
+        "correct_option": "C",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 43,
+        "question_text": "The lactose in milk is converted into lactic acid by _____ respiration",
+        "options": [
+            "(a) Anaerobic",
+            "(b) aerobic",
+            "(c) both a and b",
+            "(d) photo"
+        ],
+        "question_id": "Q43",
+        "correct_option": "A",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 44,
+        "question_text": "The habitat for micro-organisms can be ______.",
+        "options": [
+            "(a) Air",
+            "(b) water",
+            "(c) soil",
+            "(d) All"
+        ],
+        "question_id": "Q44",
+        "correct_option": "D",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    },
+    {
+        "question_number": 45,
+        "question_text": "Breads, cakes and pastry become soft and fluffy due to which gas ?",
+        "options": [
+            "(a) N2O",
+            "(b) CO2",
+            "(c) CO",
+            "(d) NO"
+        ],
+        "question_id": "Q45",
+        "correct_option": "B",
+        "solution_text": "Answer key provided. No explanation available.",
+        "key_concept": "UNKNOWN"
+    }
+]

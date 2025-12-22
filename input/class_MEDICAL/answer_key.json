@@ -9,19 +9,19 @@
     },
     {
         "question_id": 3,
-        "correct_option": "D"
+        "correct_option": "A"
     },
     {
         "question_id": 4,
-        "correct_option": "B"
+        "correct_option": "C"
     },
     {
         "question_id": 5,
-        "correct_option": "B"
+        "correct_option": "C"
     },
     {
         "question_id": 6,
-        "correct_option": "A"
+        "correct_option": "D"
     },
     {
         "question_id": 7,
@@ -33,7 +33,7 @@
     },
     {
         "question_id": 9,
-        "correct_option": "D"
+        "correct_option": "B"
     },
     {
         "question_id": 10,
@@ -41,19 +41,19 @@
     },
     {
         "question_id": 11,
-        "correct_option": "A"
-    },
-    {
-        "question_id": 12,
-        "correct_option": "A"
-    },
-    {
-        "question_id": 13,
         "correct_option": "B"
     },
     {
-        "question_id": 14,
+        "question_id": 12,
         "correct_option": "C"
+    },
+    {
+        "question_id": 13,
+        "correct_option": "D"
+    },
+    {
+        "question_id": 14,
+        "correct_option": "B"
     },
     {
         "question_id": 15,
@@ -61,27 +61,27 @@
     },
     {
         "question_id": 16,
-        "correct_option": "B"
+        "correct_option": "A"
     },
     {
         "question_id": 17,
-        "correct_option": "B"
+        "correct_option": "A"
     },
     {
         "question_id": 18,
-        "correct_option": "A"
-    },
-    {
-        "question_id": 19,
         "correct_option": "D"
     },
     {
+        "question_id": 19,
+        "correct_option": "B"
+    },
+    {
         "question_id": 20,
-        "correct_option": "A"
+        "correct_option": "C"
     },
     {
         "question_id": 21,
-        "correct_option": "C"
+        "correct_option": "D"
     },
     {
         "question_id": 22,
@@ -93,23 +93,23 @@
     },
     {
         "question_id": 24,
-        "correct_option": "A"
+        "correct_option": "C"
     },
     {
         "question_id": 25,
-        "correct_option": "C"
+        "correct_option": "B"
     },
     {
         "question_id": 26,
-        "correct_option": "C"
-    },
-    {
-        "question_id": 27,
         "correct_option": "A"
     },
     {
-        "question_id": 28,
+        "question_id": 27,
         "correct_option": "B"
+    },
+    {
+        "question_id": 28,
+        "correct_option": "A"
     },
     {
         "question_id": 29,
@@ -121,7 +121,7 @@
     },
     {
         "question_id": 31,
-        "correct_option": "A"
+        "correct_option": "B"
     },
     {
         "question_id": 32,
@@ -129,23 +129,23 @@
     },
     {
         "question_id": 33,
-        "correct_option": "B"
+        "correct_option": "D"
     },
     {
         "question_id": 34,
-        "correct_option": "B"
+        "correct_option": "A"
     },
     {
         "question_id": 35,
-        "correct_option": "C"
-    },
-    {
-        "question_id": 36,
         "correct_option": "B"
     },
     {
+        "question_id": 36,
+        "correct_option": "D"
+    },
+    {
         "question_id": 37,
-        "correct_option": "A"
+        "correct_option": "D"
     },
     {
         "question_id": 38,
@@ -153,19 +153,19 @@
     },
     {
         "question_id": 39,
-        "correct_option": "D"
-    },
-    {
-        "question_id": 40,
         "correct_option": "C"
     },
     {
+        "question_id": 40,
+        "correct_option": "A"
+    },
+    {
         "question_id": 41,
-        "correct_option": "D"
+        "correct_option": "C"
     },
     {
         "question_id": 42,
-        "correct_option": "B"
+        "correct_option": "C"
     },
     {
         "question_id": 43,
@@ -173,11 +173,11 @@
     },
     {
         "question_id": 44,
-        "correct_option": "B"
+        "correct_option": "D"
     },
     {
         "question_id": 45,
-        "correct_option": "C"
+        "correct_option": "A"
     },
     {
         "question_id": 46,
@@ -189,7 +189,7 @@
     },
     {
         "question_id": 48,
-        "correct_option": "D"
+        "correct_option": "C"
     },
     {
         "question_id": 49,
@@ -197,6 +197,6 @@
     },
     {
         "question_id": 50,
-        "correct_option": "D"
+        "correct_option": "B"
     }
 ]
