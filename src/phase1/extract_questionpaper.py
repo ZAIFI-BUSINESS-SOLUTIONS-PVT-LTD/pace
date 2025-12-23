@@ -56,8 +56,10 @@ def process():
 
     logger.info(f"Extracted {len(final_questions)} questions.")
     
+    output_data = {"questions": final_questions}
+    
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(final_questions, f, indent=4)
+        json.dump(output_data, f, indent=4)
     
     logger.info(f"Saved to {output_path}")
 

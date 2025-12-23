@@ -10,8 +10,8 @@
         ],
         "question_id": "Q1",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 2,
@@ -24,8 +24,8 @@
         ],
         "question_id": "Q2",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 3,
@@ -38,8 +38,8 @@
         ],
         "question_id": "Q3",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 4,
@@ -52,8 +52,8 @@
         ],
         "question_id": "Q4",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 5,
@@ -66,8 +66,8 @@
         ],
         "question_id": "Q5",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 6,
@@ -80,8 +80,8 @@
         ],
         "question_id": "Q6",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 7,
@@ -94,8 +94,8 @@
         ],
         "question_id": "Q7",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 8,
@@ -108,12 +108,12 @@
         ],
         "question_id": "Q8",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 9,
-        "question_text": "If 24.125 = \n1\n2\n5\n24\nA\nB\nC\n+\n+\n+\nthen sum of A and B is",
+        "question_text": "If 24.125 =\n1\n2\n5\n24\nA\nB\nC\n+\n+\n+\nthen sum of A and B is",
         "options": [
             "(a) 100",
             "(b) 110",
@@ -122,12 +122,12 @@
         ],
         "question_id": "Q9",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 10,
-        "question_text": "Which of the following are true?\n(i) Zero is the smallest integer.\n(ii) \u201311 is smaller than \u2013 8.\n(iii) 1 is the smallest positive integer.\n(iv) \u20131 is the smallest negative integer.\n(v) Sum of two negative integers is a positive integer.",
+        "question_text": "Which of the following are true?\n\n(i)  Zero is the smallest integer.\n(ii)  \u201311 is smaller than \u2013 8.\n(iii) 1 is the smallest positive integer.\n(iv) \u20131 is the smallest negative integer.\n(v) Sum of two negative integers is a positive integer.",
         "options": [
             "(a) ii and iii",
             "(b) ii, iii and iv",
@@ -136,8 +136,8 @@
         ],
         "question_id": "Q10",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 11,
@@ -150,8 +150,8 @@
         ],
         "question_id": "Q11",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 12,
@@ -164,8 +164,8 @@
         ],
         "question_id": "Q12",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 13,
@@ -178,12 +178,12 @@
         ],
         "question_id": "Q13",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 14,
-        "question_text": "Find the difference between the largest and smallest four digit numbers formed by the digits 0, 1, 4 and 7 without repeating the digits, using all of them at a time.",
+        "question_text": "Find the difference between the largest and smallest four digit numbers formed by the digits 0, 1, 4\nand 7 without repeating the digits, using all of them at a time.",
         "options": [
             "(a) 6363",
             "(b) 7410",
@@ -192,8 +192,8 @@
         ],
         "question_id": "Q14",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 15,
@@ -206,12 +206,12 @@
         ],
         "question_id": "Q15",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 16,
-        "question_text": "The Earth\u2019s orbital speed around the Sun is approximately 29.8 km/s. Express this incredible speed in km/h.",
+        "question_text": "The Earth\u2019s orbital speed around the Sun is approximately 29.8 km/s. Express this incredible speed\nin km/h.",
         "options": [
             "(a) 107, 280 km/h",
             "(b) 178, 800 km/h",
@@ -220,36 +220,36 @@
         ],
         "question_id": "Q16",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 17,
-        "question_text": "A pharmaceutical company is testing a compound and requires a precise sample mass of 0.005 kg (kilograms). Convert this mass to milligrams (mg).",
+        "question_text": "A pharmaceutical company is testing a compound and requires a precise sample mass of 0.005 kg\n(kilograms). Convert this mass to milligrams (mg).",
         "options": [
-            "(a) \n3\n5 10\uf02d\n\uf0b4\nmg",
+            "(a)\n3\n5 10\uf02d\n\uf0b4\nmg",
             "(b) 5 mg",
             "(c) 50 mg",
             "(d) 5000 mg"
         ],
         "question_id": "Q17",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 18,
-        "question_text": "A futuristic jet is recorded traveling at a speed of \n4\n1.5 10\n\uf0b4\nkm/h. Convert this speed into m/s and express the answer in standard scientific notation (with one digit before the decimal point).",
+        "question_text": "A futuristic jet is recorded traveling at a speed of\n4\n1.5 10\n\uf0b4\nkm/h. Convert this speed into m/s and\nexpress the answer in standard scientific notation (with one digit before the decimal point).",
         "options": [
-            "(a) \n6\n4.167 10\n\uf0b4\nm/s",
-            "(b) \n3\n4.167 10\n\uf0b4\nm/s",
-            "(c) \n7\n1.5 10\n\uf0b4\nm/s",
-            "(d) \n2\n4.167 10\n\uf0b4\nm/s"
+            "(a)\n6\n4.167 10\n\uf0b4\nm/s",
+            "(b)\n3\n4.167 10\n\uf0b4\nm/s",
+            "(c)\n7\n1.5 10\n\uf0b4\nm/s",
+            "(d)\n2\n4.167 10\n\uf0b4\nm/s"
         ],
         "question_id": "Q18",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 19,
@@ -262,12 +262,12 @@
         ],
         "question_id": "Q19",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 20,
-        "question_text": "Given that the SI unit for energy is the Joule (J) and the SI unit for charge is the Coulomb (C = A\uf0d7s). The \nSI unit for Electric Potential (Voltage) is the Volt (V), defined as one Joule per Coulomb (1 V = 1 J/C).\nWhich of the following correctly represents 1 V in terms of fundamental SI base units (kg, m, s, A)?\n(Recall \n2\n2\n1 J\n1kg m\ns\uf02d\n\uf03d\n\uf0d7\n\uf0d7\n)",
+        "question_text": "Given that the SI unit for energy is the Joule (J) and the SI unit for charge is the Coulomb (C = A\uf0d7s). The \nSI unit for Electric Potential (Voltage) is the Volt (V), defined as one Joule per Coulomb (1 V = 1 J/C).\n\nWhich of the following correctly represents 1 V in terms of fundamental SI base units (kg, m, s, A)?\n(Recall \n2\n2\n1 J\n1kg m\ns\uf02d\n\uf03d\n\uf0d7\n\uf0d7\n)",
         "options": [
             "(a)\n2\n2\n1\nkg m\ns\nA\n\uf02d\n\uf02d\n\uf0d7\n\uf0d7\n\uf0d7",
             "(b) \n2\n3\n1\nkg m\ns\nA\n\uf02d\n\uf02d\n\uf0d7\n\uf0d7\n\uf0d7",
@@ -276,8 +276,8 @@
         ],
         "question_id": "Q20",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 21,
@@ -290,8 +290,8 @@
         ],
         "question_id": "Q21",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 22,
@@ -304,8 +304,8 @@
         ],
         "question_id": "Q22",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 23,
@@ -318,8 +318,8 @@
         ],
         "question_id": "Q23",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 24,
@@ -332,8 +332,8 @@
         ],
         "question_id": "Q24",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 25,
@@ -341,22 +341,22 @@
         "options": [],
         "question_id": "Q25",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 26,
         "question_text": "The molecular formula of water",
         "options": [
             "(a)\n2\nH O",
-            "(b) \n2\n2\nH O",
+            "(b)\n2\n2\nH O",
             "(c) HO",
-            "(d) \n3\nH O"
+            "(d)\n3\nH O"
         ],
         "question_id": "Q26",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 27,
@@ -369,8 +369,8 @@
         ],
         "question_id": "Q27",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 28,
@@ -383,12 +383,12 @@
         ],
         "question_id": "Q28",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 29,
-        "question_text": "The freezing point and boiling point of water ______ and ______ respectively due to dissolved impurities",
+        "question_text": "The freezing point and boiling point of water ______ and ______ respectively due to dissolved \nimpurities",
         "options": [
             "(a) decreases, increases",
             "(b) increases, decreases",
@@ -397,22 +397,22 @@
         ],
         "question_id": "Q29",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 30,
         "question_text": "The maximum density of water is at",
         "options": [
-            "(a)\no4 C",
-            "(b) \no0 C",
-            "(c) \no1 C",
-            "(d) \no2 C"
+            "(a)\no\n4 C",
+            "(b)\no\n0 C",
+            "(c)\no1 C",
+            "(d)\no\n2 C"
         ],
         "question_id": "Q30",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 31,
@@ -425,8 +425,8 @@
         ],
         "question_id": "Q31",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 32,
@@ -439,8 +439,8 @@
         ],
         "question_id": "Q32",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 33,
@@ -453,8 +453,8 @@
         ],
         "question_id": "Q33",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 34,
@@ -467,8 +467,8 @@
         ],
         "question_id": "Q34",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 35,
@@ -481,8 +481,8 @@
         ],
         "question_id": "Q35",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 36,
@@ -495,8 +495,8 @@
         ],
         "question_id": "Q36",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 37,
@@ -509,8 +509,8 @@
         ],
         "question_id": "Q37",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 38,
@@ -523,8 +523,8 @@
         ],
         "question_id": "Q38",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 39,
@@ -537,8 +537,8 @@
         ],
         "question_id": "Q39",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 40,
@@ -551,8 +551,8 @@
         ],
         "question_id": "Q40",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 41,
@@ -565,8 +565,8 @@
         ],
         "question_id": "Q41",
         "correct_option": "B",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 42,
@@ -579,8 +579,8 @@
         ],
         "question_id": "Q42",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 43,
@@ -593,8 +593,8 @@
         ],
         "question_id": "Q43",
         "correct_option": "A",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 44,
@@ -607,8 +607,8 @@
         ],
         "question_id": "Q44",
         "correct_option": "D",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     },
     {
         "question_number": 45,
@@ -621,7 +621,7 @@
         ],
         "question_id": "Q45",
         "correct_option": "C",
-        "solution_text": "Answer key provided. No explanation available.",
-        "key_concept": "UNKNOWN"
+        "solution_text": "",
+        "key_concept": ""
     }
 ]

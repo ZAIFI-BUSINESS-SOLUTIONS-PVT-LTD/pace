@@ -147,96 +147,120 @@ def process():
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, "solution.json")
     
-    # Check for Answer Key (CSV or XLSX or JSON) or Solutions (CSV or PDF)
-    candidates = ["AnswerKey.csv", "Solutions.csv", "AnswerKey.xlsx", "Solutions.xlsx", "answer_key.json"]
-    answer_key_path = None
-    for c in candidates:
-        p = os.path.join(class_dir, c)
-        if os.path.exists(p):
-            answer_key_path = p
-            break
-            
-    final_solutions = []
+    # STRICT RULE: correctness comes ONLY from answer_key.json
+    answer_key_path = os.path.join(class_dir, "answer_key.json")
     
-    if answer_key_path:
-        logger.info(f"INFO: Solution detected as ANSWER_KEY_ONLY ({os.path.basename(answer_key_path)})")
-        if answer_key_path.endswith('.csv'):
-            final_solutions = load_answer_key_csv(answer_key_path)
-        elif answer_key_path.endswith('.json'):
-            final_solutions = load_answer_key_json(answer_key_path)
-        else:
-            final_solutions = load_answer_key_excel(answer_key_path)
-    else:
-        # Fallback to PDF
-        pdf_path = os.path.join(class_dir, "Solutions.pdf")
-        if not os.path.exists(pdf_path):
-             logger.warning(f"No Solutions.pdf or AnswerKey.csv found in {class_dir}")
-             return
+    if not os.path.exists(answer_key_path):
+        logger.error(f"CRITICAL: answer_key.json missing in {class_dir}. This is required for correctness.")
+        # We must fail fast per Step 5
+        raise FileNotFoundError(f"answer_key.json missing in {class_dir}")
+        
+    # Load Basic Solutions (Correct Options)
+    base_solutions = load_answer_key_json(answer_key_path)
+    if not base_solutions:
+        raise ValueError(f"answer_key.json in {class_dir} yielded no data or was empty.")
 
-        logger.info(f"Processing Solutions PDF: {pdf_path}")
-        all_solutions = []
+    # Create a map for enrichment
+    # Key: question_number (int) -> item dict
+    sol_map = {item["question_number"]: item for item in base_solutions}
+
+    # Conditional PDF Handling (Step 2)
+    pdf_path = os.path.join(class_dir, "Solutions.pdf")
+    if os.path.exists(pdf_path):
+        logger.info(f"Solutions.pdf found. Parsing for explanations...")
         
-        # Detection flag logic
-        is_answer_key_only_run = False
-        
+        pdf_explanations = []
         for page_num, text in load_pdf_pages(pdf_path):
-            logger.info(f"Processing Page {page_num}...")
+            logger.info(f"Processing Solutions PDF Page {page_num}...")
             try:
                 data = call_gemini_json(PHASE_1_EXTRACT_SOLUTION_PROMPT, text)
-                
                 batch = []
                 if isinstance(data, list):
                     batch = data
                 elif isinstance(data, dict):
                      batch = data.get("solutions", [data]) if "solutions" in data else [data]
                 
-                # Check detection rule per batch/page
-                # "If Gemini output contains Only question_number ... Classify as ANSWER_KEY_ONLY"
-                # We check content of 'solution_text'.
-                # The updated prompt asks Gemini to set the placeholder string if no explanation.
-                # We can also enforce it.
-                
-                for s in batch:
-                    sol_text = s.get("solution_text", "")
-                    if not sol_text or sol_text.strip() == "" or "Answer key provided" in sol_text:
-                        s["solution_text"] = "Answer key provided. No explanation available."
-                        s["key_concept"] = "UNKNOWN"
-                        is_answer_key_only_run = True # Flagged
-                    
-                    all_solutions.append(s)
-                    
+                pdf_explanations.extend(batch)
             except Exception as e:
-                logger.error(f"Failed to extract from page {page_num}: {e}")
-                # Don't stop, continue to next page
-                continue
-
-        if is_answer_key_only_run:
-            logger.info("INFO: Solution detected as ANSWER_KEY_ONLY (PDF)")
-        else:
-            logger.info("INFO: Solution detected as DETAILED_SOLUTION")
+                logger.error(f"Failed to extract from PDF page {page_num}: {e}")
+                continue # specific to PDF parsing, we continue
+        
+        # Merge explanations into base_solutions
+        # We match by question_number (or question_id if parsed)
+        for exp in pdf_explanations:
+            # Try to get number
+            q_num = exp.get("question_number")
+            # If prompt returns question_id string, parse it
+            if not q_num and exp.get("question_id"):
+                 # Parse "Q1" -> 1
+                 try:
+                     q_num = int(str(exp.get("question_id")).upper().replace("Q", ""))
+                 except: 
+                     pass
             
-        final_solutions = all_solutions
+            if q_num and q_num in sol_map:
+                # Update ONLY explanation fields
+                current = sol_map[q_num]
+                # Only update if we have meaningful text
+                new_sol = exp.get("solution_text")
+                new_key = exp.get("key_concept")
+                
+                if new_sol and "Answer key provided" not in new_sol:
+                    current["solution_text"] = new_sol
+                if new_key and new_key != "UNKNOWN":
+                    current["key_concept"] = new_key
+    else:
+        logger.info("Solutions.pdf not found. Skipping explanation enrichment.")
+        # Fields are already set to default/empty in load_answer_key_json or we ensure they are empty here
+        # load_answer_key_json sets: solution_text="Answer key provided...", key_concept="UNKNOWN"
+        # Requirement says: "Leave explanation fields as null or empty"
+        # Let's clean them up if they are the placeholder
+        for item in base_solutions:
+            item["solution_text"] = "" 
+            item["key_concept"] = ""
 
-    # Post-process to add question_id (Common for both paths)
+    # Final List Preparation
+    final_solutions = list(sol_map.values())
+    
+    # Post-process to add question_id and Validate
     processed_final = []
+    seen_ids = set()
+    
     for s in final_solutions:
         try:
             q_num = s.get("question_number")
-            if q_num:
-                s["question_id"] = f"Q{q_num}"
-                processed_final.append(s)
-            else:
-                 # Try to parse if strictly 'question_id' key exists? 
-                 # CSV loader output uses 'question_number'.
-                 logger.warning(f"Skipping solution without number: {s}")
+            if not q_num:
+                logger.warning(f"Skipping solution without number: {s}")
+                continue
+                
+            q_id = f"Q{q_num}"
+            
+            # Step 5: Duplicate check
+            if q_id in seen_ids:
+                logger.error(f"CRITICAL: Duplicate question_id detected: {q_id}")
+                raise ValueError(f"Duplicate question_id {q_id} in solutions")
+            seen_ids.add(q_id)
+            
+            s["question_id"] = q_id
+            
+            # Step 5: check correct_option
+            if not s.get("correct_option"):
+                logger.error(f"CRITICAL: Missing correct_option for {q_id}")
+                raise ValueError(f"Missing correct_option for {q_id}")
+                
+            processed_final.append(s)
+
         except Exception as e:
             logger.error(f"Error processing item: {s} - {e}")
             raise
 
     logger.info(f"Extracted {len(processed_final)} solutions.")
     
+    # Step 3: Wrap in root object
+    output_data = {"solutions": processed_final}
+    
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(processed_final, f, indent=4)
+        json.dump(output_data, f, indent=4)
     
     logger.info(f"Saved to {output_path}")
 

@@ -45,36 +45,74 @@ Ensure the JSON is valid.
 # =============================================================================
 
 PHASE_2_ANALYSIS_PROMPT = """
-You are an expert educational analyst.
-Analyze the student's performance based on the provided data packet.
-The packet contains questions, the correct answer, the student's answer, and the solution.
+You are an educational performance analyst.
 
-Your task is to generate a JSON report strictly following this schema:
+You are given a structured packet of question-level data for ONE student.
+This data is ground truth and must be treated as factual.
+
+Your task is NOT to motivate, praise, or generalize.
+Your task is to DIAGNOSE observable performance patterns.
+
+You must base every conclusion ONLY on:
+- correct_option vs selected_option
+- difficulty_tag
+- key_concept
+- solution_text (if available)
+
+DO NOT invent student intent.
+DO NOT use generic educational phrases.
+DO NOT repeat the same wording across students.
+
+--- OUTPUT FORMAT (STRICT JSON ONLY) ---
+
 {
   "student_id": "string",
+
   "per_question": [
     {
       "question_id": "Q1",
-      "is_correct": true,
+      "is_correct": true | false,
+
       "mistake_type": "Conceptual | Calculation | Guess | Careless | None",
-      "correctness_reason": "string (max 2 lines explaining why rights or wrong)",
+
+      "correctness_reason":
+        "One specific, factual sentence explaining WHY this answer is correct or incorrect.
+         Reference the concept or step involved. No advice. No generic wording.",
+
       "confidence_signal": "Low | Medium | High"
     }
   ],
+
   "summary": {
-    "strongest_concepts": ["concept1", "concept2", "concept3"],
-    "weakest_concepts": ["concept1", "concept2", "concept3"],
-    "dominant_mistake_pattern": "brief description",
-    "overall_summary": "brief summary string"
+    "strongest_concepts": [
+      "Concepts where the student answered MOST questions correctly across difficulties"
+    ],
+
+    "weakest_concepts": [
+      "Concepts where the student answered MOST questions incorrectly OR inconsistently"
+    ],
+
+    "dominant_mistake_pattern":
+      "Describe the most frequent observable error pattern
+       (example: formula misuse, wrong sign, misreading conditions, elimination-based guessing).",
+
+    "overall_summary":
+      "2–3 sentences describing WHAT the student gets wrong or right MOST OFTEN,
+       with contrast if visible (example: theory vs numericals, easy vs hard).
+       Avoid motivational language. Avoid generic phrasing."
   }
 }
 
-Constraints:
-1. "mistake_type" must be 'None' if the answer is correct.
-2. If the student answers matching 'correct_option', is_correct is true.
-3. Analyze the 'solution_text' vs student answer to infer mistake type.
-4. Output valid JSON only.
-5. If 'solution_text' is 'Answer key provided. No explanation available.', judge correctness strictly via 'correct_option'. Use 'Mistake Type' as 'Guess' or 'Careless' unless error is obvious. No assumptions about student thinking.
+--- CONSTRAINTS (MANDATORY) ---
+
+1. If is_correct = true, mistake_type MUST be 'None'.
+2. If solution_text is missing or is an answer key only, DO NOT infer reasoning.
+3. Avoid phrases like:
+   - 'needs more practice'
+   - 'good understanding'
+   - 'struggles with application'
+4. If data is insufficient to infer a pattern, SAY SO explicitly.
+5. Your output must be specific enough that two students never sound identical.
 """
 
 # =============================================================================
@@ -82,47 +120,77 @@ Constraints:
 # =============================================================================
 
 PHASE_3_SYSTEM_INSTRUCTION = """
-You are an academic insight synthesis engine.
-You analyze aggregated student insights to produce class-level teaching guidance.
-You do not analyze individuals.
-You do not invent data.
-You focus on recurring patterns across many students.
+You are a teaching insight synthesizer.
+
+You do NOT act as a subject expert.
+You do NOT invent patterns.
+You do NOT generalize unless evidence is strong.
+
+Your job is to translate aggregated student diagnostics
+into teacher-usable observations.
+
+If insights are shallow, say so clearly.
+If patterns are weak, do NOT exaggerate them.
+
 """
 
 PHASE_3_USER_PROMPT_TEMPLATE = """
-You are given a CSV containing student-level insight summaries for a single class.
+You are given a CSV containing student-level diagnostic summaries
+for ONE class.
 
-Each row represents one student and contains:
+Each row contains:
 - strongest_concepts
 - weakest_concepts
 - dominant_mistake_pattern
-- llm_summary
+- overall_summary
 
-Your task is to synthesize CLASS-LEVEL insights.
+Your task is to identify CLASS-LEVEL instructional signals.
 
-Rules:
-- Ignore individual outliers.
-- Focus only on patterns that appear repeatedly across students.
-- Do NOT mention students or counts.
-- Be specific, actionable, and teacher-oriented.
-- Do NOT restate the input.
-- Do NOT use generic advice.
+--- VERY IMPORTANT ---
 
-Output EXACTLY:
-1. Three Focus Zones
-2. Three Action Plans
+This is NOT a motivational summary.
+This is NOT a generic performance report.
+This is NOT an exam review note.
 
-Definitions:
-- Focus Zone = what the class as a whole is struggling with (concepts, application gaps, mistake patterns).
-- Action Plan = what teachers should change or do differently to address these struggles.
+If the input data does NOT support deep conclusions,
+you must state limited but honest insights rather than fabricate depth.
 
-Format your output exactly as:
+--- RULES ---
 
-Focus Zone 1: <one concise, specific sentence>
-Focus Zone 2: <one concise, specific sentence>
-Focus Zone 3: <one concise, specific sentence>
+1. Focus ONLY on patterns that appear repeatedly.
+2. Ignore isolated or one-off student issues.
+3. Do NOT use vague phrases such as:
+   - "students struggle with concepts"
+   - "application-based questions"
+   - "needs reinforcement"
+4. Do NOT sound like an education blog.
+5. Use concrete instructional language.
 
-Action Plan 1: <one concise, instructional sentence>
-Action Plan 2: <one concise, instructional sentence>
-Action Plan 3: <one concise, instructional sentence>
+--- OUTPUT (EXACT FORMAT, NO EXTRA TEXT) ---
+
+Focus Zone 1:
+One specific learning or reasoning gap observed repeatedly at class level.
+
+Focus Zone 2:
+Another distinct, non-overlapping gap.
+
+Focus Zone 3:
+A third gap, OR explicitly state a limitation if depth is insufficient.
+
+Action Plan 1:
+One clear instructional change a teacher should make in class
+(targeted, practical, observable).
+
+Action Plan 2:
+Another instructional change that addresses a DIFFERENT focus zone.
+
+Action Plan 3:
+A third action OR a monitoring recommendation if signals are weak.
+
+--- HONESTY CLAUSE ---
+
+If the data supports only surface-level insights,
+do NOT inflate depth.
+Clarity and honesty are preferred over sophistication.
+
 """

@@ -23,12 +23,17 @@ def verify_file(path):
         raise ValueError(f"Verification Failed: File is empty - {path}")
     logger.info(f"Verified exists: {path}")
 
-def verify_json_schema(path, required_keys):
+def verify_json_schema(path, required_keys, root_list_key=None):
     with open(path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
+    if root_list_key:
+        if not isinstance(data, dict) or root_list_key not in data:
+            raise ValueError(f"Verification Failed: Root object with key '{root_list_key}' required in {path}")
+        data = data[root_list_key]
+
     if not isinstance(data, list):
-        raise ValueError(f"Verification Failed: Root must be a list in {path}")
+        raise ValueError(f"Verification Failed: Data must be a list in {path}")
         
     if not data:
         logger.warning(f"Warning: JSON is empty list in {path}")
@@ -42,9 +47,24 @@ def verify_json_schema(path, required_keys):
     # Check consistency of question_id
     ids = [item.get("question_id") for item in data]
     if len(set(ids)) != len(ids):
-        logger.warning(f"Warning: Duplicate question_ids found in {path}")
+        # We upgraded this to critical failure in extract_solution, so let's enforce it here too
+        raise ValueError(f"Duplicate question_ids found in {path}")
     
     logger.info(f"Verified schema for {path}")
+
+def check_csv_sanity(path):
+    # Step 6: Exists, Header, 1 Row
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"CSV Missing: {path}")
+    
+    # Simple line check to avoid heavy pandas usage just for sanity
+    with open(path, 'r', encoding='utf-8') as f:
+        lines = [l.strip() for l in f if l.strip()]
+        
+    if len(lines) < 2: # Header + 1 Row
+        raise ValueError(f"CSV Incomplete (needs header + 1 row): {path}")
+        
+    logger.info(f"Verified CSV sanity: {path}")
 
 def main():
     try:
@@ -90,14 +110,23 @@ def main():
             sol_path = os.path.join(Config.OUTPUT_DIR, current_class, "phase1", "solution.json")
             merged_path = os.path.join(Config.OUTPUT_DIR, current_class, "phase1", "merged.json")
             
+            qa_csv = os.path.join(Config.OUTPUT_DIR, current_class, "phase1", "student_question_analysis.csv")
+            ss_csv = os.path.join(Config.OUTPUT_DIR, current_class, "phase1", "student_summary.csv")
+            qs_csv = os.path.join(Config.OUTPUT_DIR, current_class, "phase1", "question_summary.csv")
+
             try:
                 verify_file(qp_path)
                 verify_file(sol_path)
                 verify_file(merged_path)
                 
-                verify_json_schema(qp_path, ["question_id", "question_text", "options"])
-                verify_json_schema(sol_path, ["question_id", "correct_option", "solution_text", "key_concept"])
-                verify_json_schema(merged_path, ["question_id", "question_text", "options", "correct_option", "solution_text", "key_concept"])
+                verify_json_schema(qp_path, ["question_id", "question_text", "options"], root_list_key="questions")
+                verify_json_schema(sol_path, ["question_id", "correct_option"], root_list_key="solutions")
+                verify_json_schema(merged_path, ["question_id", "question_text", "options", "correct_option", "solution_text", "key_concept"]) # No root key
+                
+                # Check CSVs
+                check_csv_sanity(qa_csv)
+                check_csv_sanity(ss_csv)
+                check_csv_sanity(qs_csv)
                 
                 logger.info(f"=== SUCCESS: {current_class} Completed and Verified ===")
             except Exception as e:

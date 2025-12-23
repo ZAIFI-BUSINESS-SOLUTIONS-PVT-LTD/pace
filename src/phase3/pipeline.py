@@ -49,28 +49,34 @@ def run():
     
     for class_id in classes:
         logger.info(f"--- Processing Class: {class_id} ---")
+        
+        # Enforce Single-Class Execution Scope
+        # We process strictly this class_id. 
+        # No logic here should ever reference another class.
+        
         try:
             # 1. Read Data
             csv_content = aggregator.load_class_data(class_id)
             
             # 2. Synthesize
+            # Enforce Single LLM Call: simple call, no retry loop.
             insights = synthesizer.synthesize_class(class_id, csv_content)
             
             # Validate results (implicit in synthesizer parsing, but double check)
             if insights:
+                # 3. Add to results
                 results.append(insights)
                 logger.info(f"Successfully synthesized insights for {class_id}")
             
         except Exception as e:
             logger.error(f"Failed to process {class_id}: {e}")
-            # strict mode: failure in one class might not stop others, but USER said "Deviation is considered failure".
-            # "Fail Phase 3 if ... student_insight_summary.csv is missing" -> aggregator handles this.
-            # "Fail Phase 3 if ... Gemini output deviates" -> synthesizer handles this.
-            # We should probably continue to other classes but mark this run as partial? 
-            # Or stop? The prompt says "Fail Phase 3 if ...". Strict execution.
-            # I will stop execution to be strict.
-            sys.exit(1)
+            # strict mode: Abort Phase 3 *for that class*. 
+            # We continue to next class if available, but this class is dropped.
+            continue # Abort this class
             
+    # Check Result Cardinality - "Exactly one row per class" (in terms of Logic)
+    # logic handled in writer
+    
     if results:
         # 3. Write Output
         writer.save_manifest(results)

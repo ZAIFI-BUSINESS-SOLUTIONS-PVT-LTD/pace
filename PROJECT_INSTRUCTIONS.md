@@ -1,138 +1,84 @@
 # Pace Analytics: Execution & Architecture Guidelines
 
-**Status**: SYSTEM FUNCTIONALLY COMPLETE (Phases 0, 1, 2, 3 Implemented)
-**Last Updated**: 2025-12-20
+**Status**: MVP‑FROZEN (Phases 0‑3 implemented)
+**Last Updated**: 2025‑12‑22
 
----
+## Current Status (MVP)
 
-## 1. Project Philosophy & strictly Enforced Boundaries
+### Phase 0 – Case 0 (Ingestion & Normalization)
+- **Objective**: Convert raw client uploads into a canonical `ResponseSheet.csv`.
+- **Implemented**: Sheet extraction, online/offline transformers, validation, graceful skipping of classes missing `QuestionPaper.pdf`.
+- **Accepted deviations**: No automatic download of missing PDFs, no retry logic, no longitudinal merging.
 
-This project generates educational insights from raw student data. It operates on a strict **Phase-Based Architecture**.
+### Phase 1 – Case 1 (Ground‑Truth Extraction)
+- **Objective**: Produce `questionpaper.json`, `solution.json`, `merged.json` and mechanical CSV analytics.
+- **Implemented**: Gemini parsing of `QuestionPaper.pdf` and optional `Solutions.pdf`, deterministic merge, fail‑fast validation, mechanical student analytics (no LLM reasoning).
+- **Accepted deviations**: When `Solutions.pdf` is absent, placeholder text is used; ground‑truth files are never altered after creation.
 
-### Core Invariants
-1.  **Phase Immutability**: Later phases **never** modify the outputs of earlier phases. Phase 1 is ground truth. Phase 2 is reasoning. Phase 3 is synthesis.
-2.  **Truth vs. Reasoning**:
-    *   **Phase 0 & 1** establishes **TRUTH** (What was asked? What is the answer? What did the student click?). This is mechanical and deterministic.
-    *   **Phase 2 & 3** generates **REASONING** (Why did they mistake this? What should the teacher do?). This is probabilistic (LLM-based).
-3.  **One-Way Data Flow**: Data flows `Phase 0 -> Phase 1 -> Phase 2 -> Phase 3`. No loops.
+### Phase 2 – Case 2 (Student‑Level Reasoning)
+- **Objective**: Create per‑student packets, invoke one LLM call per student, output `student_question_insights.csv` and `student_insight_summary.csv`.
+- **Implemented**: Packetisation, single Gemini call per student, output validation, flagging of problematic rows (still written).
+- **Accepted deviations**: No automatic retry of failed LLM calls, no batch processing, no multi‑turn reasoning.
 
----
+### Phase 3 – Case 3 (Class‑Level Synthesis)
+- **Objective**: One Gemini call per class to produce three focus zones and three action plans in `class_level_focus_and_action.csv`.
+- **Implemented**: Strict single‑call, teacher‑level framing, verb‑check on action plans, privacy‑preserving output.
+- **Accepted deviations**: No multi‑class aggregation, fixed number of focus zones/action plans, no UI rendering.
 
-## 2. Prompt Management Strategy
+## Key Engineering Decisions & Guardrails
 
-Prompts in this system are **configuration**, not code.
+- **Phase 0** – Classes missing `QuestionPaper.pdf` are skipped; processing continues for remaining classes.
+- **Phase 1** – `correct_option` is sourced **only** from `answer_key.json`; `Solutions.pdf` enriches `solution_text` and `key_concept` but never alters correctness. No LLM reasoning is performed.
+- **Phase 2** – Ground‑truth files (`merged.json`, `ResponseSheet.csv`) are immutable; each student receives exactly one Gemini call; LLM output is validated against the schema and repaired if necessary; failures are logged and the row is flagged, not aborting the whole phase.
+- **Phase 3** – Exactly one Gemini call per class; output must contain exactly three focus zones and three action plans; any verb that does not start with an imperative is rewritten; student‑level language is stripped to keep the output teacher‑centric.
 
-*   **Centralization**: All LLM prompts must reside in `src/prompts.py`.
-*   **Usage**: Execution code must import prompts (e.g., `from src.prompts import PHASE_2_ANALYSIS_PROMPT`).
-*   **Prohibition**: **NEVER** inline prompt text inside logic files (`.py`).
-*   **Stability**: Changing a prompt requires a configuration update, not a logic refactor.
+## Pipeline Overview (As‑Is)
 
----
+```
+Case 0 → Case 1 → Case 2 → Case 3
+```
 
-## 3. Phase Details
+- **Case 0** (Phase 0): Reads raw Excel/PDFs from `client_uploads/`, writes canonical `ResponseSheet.csv` to `input/<class>/`.
+- **Case 1** (Phase 1): Parses PDFs, merges question and solution data, produces `merged.json` and three CSV analytics files under `output/<class>/phase1/`.
+- **Case 2** (Phase 2): Builds per‑student packets, calls Gemini once per student, writes `student_question_insights.csv` and `student_insight_summary.csv` under `output/<class>/phase2/`.
+- **Case 3** (Phase 3): Consumes Phase 2 summaries, calls Gemini once per class, writes `class_level_focus_and_action.csv` at the root of `output/`.
 
-### Phase 0: Case 0 (Ingestion & Normalization)
-**Objective**: Standardize messy client inputs into a strict schema.
-**Input**: Raw Excel/PDFs in `client_uploads/`.
-**Output**: `normalized_inputs/<class_id>/ResponseSheet.csv`.
+## What the Pipeline Guarantees (MVP)
 
-**The ResponseSheet Contract (Non-Negotiable)**:
-*   The `ResponseSheet.csv` generated here is the **Final Authoritative Record** of student actions.
-*   **Schema**:
-    *   **Index**: `question_id` (Q1, Q2, ...).
-    *   **Columns**: `student_id` (Student IDs).
-    *   **Values**: `A`, `B`, `C`, `D`, or `empty` (unattempted).
-*   **Downstream Rules**: No future phase generally alters this data. Interpretations of "guessing" occur in Phase 2, but the raw click is fixed here.
+- **Truth immutability** – Outputs of earlier phases are never mutated.
+- **Deterministic mechanical analytics** – Phase 0 and Phase 1 CSVs are produced without LLM randomness.
+- **Graceful handling of missing data** – Classes without a `QuestionPaper.pdf` are skipped; missing `Solutions.pdf` yields placeholder text but does not halt the run.
+- **No silent corruption** – All validation failures are logged and cause the phase to abort, never producing partially corrupted artifacts.
+- **Teacher‑usable outputs** – Final CSVs contain only aggregated, teacher‑focused information.
 
-### Phase 1: Case 1 (Ground Truth Extraction)
-**Objective**: Extract Question Paper and Solutions into structured JSON.
-**Input**: `QuestionPaper.pdf`, `Solutions.pdf` / `AnswerKey.csv`.
-**Output**: `output/<class_id>/phase1/merged.json`.
-**Logic**:
-*   PDF parsing via Gemini (Vision/Text).
-*   Mechanical merge of Questions + Solutions.
-*   **Strict Verification**: 100% of questions must have a solution key.
+## What Is Intentionally Out of Scope (For Now)
 
-### Phase 2: Case 2 (Student-Level Reasoning)
-**Objective**: Analyze *individual* student performance.
-**Input**: `merged.json` (Case 1) + `ResponseSheet.csv` (Case 0).
-**Output**: 
-*   `output/<class_id>/phase2/student_question_insights.csv` (Micro-level).
-*   `output/<class_id>/phase2/student_insight_summary.csv` (Macro-level).
-**Logic**:
-*   **Packetization**: Create a "Packet" per student (Questions + Student Choice + Solution).
-*   **LLM Call**: **One call per student**.
-*   **Constraints**: The LLM analyzes *why* a mistake happened but cannot change *if* it happened.
+- Longitudinal or cross‑class analysis.
+- Automatic retry or back‑off logic for failed LLM calls.
+- Advanced validation beyond schema checks (e.g., semantic consistency).
+- Explainability tracing of LLM decisions.
+- UI or web‑frontend integration.
 
-### Phase 3: Case 3 (Class-Level Synthesis)
-**Objective**: Synthesize aggregate teacher guidance from student insights.
-**Input**: `output/<class_id>/phase2/student_insight_summary.csv`.
-**Output**: `output/class_level_focus_and_action.csv`.
+## System Freeze Note
 
-**Logic**:
-*   **One Call Per Class**: Gemini analyzes the entire class's Phase 2 summary in one pass.
-*   **Privacy**: System does NOT mention specific students.
-*   **Focus Zones**: Aggregates recurring misunderstandings (e.g., "70% failed Atomic Structure").
-*   **Action Plans**: Prescriptive teacher guidance (e.g., "Revise unit conversions using visual aids").
+The pipeline (Case 0 – Case 3) is **MVP‑frozen** as of **2025‑12‑22**. Scope of the freeze includes:
 
-**Final Output Schema (CSV)**:
-*   `class_id`
-*   `focus_zone_1`
-*   `focus_zone_2`
-*   `focus_zone_3`
-*   `action_plan_1`
-*   `action_plan_2`
-*   `action_plan_3`
+- No changes to phase boundaries or data contracts.
+- No addition of new LLM calls or modification of existing call patterns.
+- No alteration of CSV schemas.
 
----
+Any change that would modify the behaviour described above requires a formal design review and a new version release.
 
-## 4. Execution Workflow
-
-To run the full pipeline:
-
-1.  **Setup**: Place files in `client_uploads/`.
-2.  **Phase 0**: `python case0.py` (Normalizes inputs).
-3.  **Phase 1**: `python case1.py` (Extracts ground truth).
-4.  **Phase 2**: `python case2.py` (Generates student insights).
-5.  **Phase 3**: `python case3.py` (Synthesizes class plans).
-
-*Note: Use `TARGET_CLASS` env var to run specific classes.*
-
----
-
-## 5. System Status
-
-| Phase | Status | Notes |
-| :--- | :--- | :--- |
-| **Phase 0** | **COMPLETE** | Ingestion operational. |
-| **Phase 1** | **COMPLETE** | Extraction & Merging operational. Prompt centralized. |
-| **Phase 2** | **COMPLETE** | Student Analysis operational. Prompt centralized. |
-| **Phase 3** | **COMPLETE** | Class Synthesis operational. Output verified. Prompt centralized. |
-
-
----
-
-## 6. Configuration Reference
-
-The system behavior is controlled via environment variables in `.env`:
+## Configuration Reference
 
 | Variable | Default | Description |
 | :--- | :--- | :--- |
 | `GEMINI_API_KEY` | **Required** | Google Gemini API Key. |
-| `TARGET_CLASS` | `class_medical` | Steps run ONLY for this class if set. Set to blank/None to run all. |
-| `MODEL_NAME` | `gemini-3.0-flash` | The specific Gemini model version to use. |
-| `RESPONSE_TYPE` | `BOTH` | `ONLINE` (read Response_Online.xlsx), `OFFLINE` (Offline.xlsx), or `BOTH`. |
+| `TARGET_CLASS` | `class_medical` | Runs only for this class if set; blank runs all. |
+| `MODEL_NAME` | `gemini-3.0-flash` | Gemini model version to use. |
+| `RESPONSE_TYPE` | `BOTH` | `ONLINE`, `OFFLINE`, or `BOTH`. |
 
----
-
-
----
-
-## 7. Directory Map & Data Flow
-
-Understanding the folder roles is critical for strict execution.
-
-### Project Folder Structure
+## Directory Map & Data Flow
 
 ```text
 pace_analytics/
@@ -169,31 +115,6 @@ pace_analytics/
             └── student_question_insights.csv
 ```
 
-### Key Directory Responsibilities
-
-*   **`client_uploads/`**: Use this for **Manual Data Entry**.
-    *   Create a folder matching the Class ID (e.g., `class_10`).
-    *   Place `QuestionPaper.pdf` inside it.
-    *   Ensure the class name matches a sheet in `responses/Response_Online.xlsx`.
-
-*   **`normalized_inputs/`** (Hidden): Use this for **Debugging Phase 0**.
-    *   Intermediate staging area where messy inputs are cleaned before promotion to `input/`.
-
-*   **`input/`**: Use this for **Phase 1 Execution**.
-    *   Phase 1 reads ONLY from here.
-    *   Contains the strict canonical files (`ResponseSheet.csv`, `QuestionPaper.pdf`).
-
-*   **`output/`**: Use this for **Consuming Results**.
-    *   Contains all generated JSONs and CSVs suitable for UI or reporting.
-    *   Phase 3 writes the final class-level summary at the root of this folder.
-
-
 ---
 
-## 8. Troubleshooting & Common Failures
-
-*   **"QuestionPaper.pdf not found"**: Phase 0 requires this exact filename in `client_uploads/<class_folder>/`.
-*   **"Verification Failed: File too small"**: Indicates extraction step failed or input was empty.
-*   **API Errors**: Check `GEMINI_API_KEY`. If quota exceeded, system logs error but may skip student.
-*   **Strict Naming**: Class folders in `client_uploads` must usually match the sheet names in the Response Excel for Phase 0 to link them.
-
+(End of updated PROJECT_INSTRUCTIONS.md)

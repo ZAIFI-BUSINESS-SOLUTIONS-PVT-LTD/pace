@@ -74,6 +74,14 @@ class Phase0Runner:
         
         # Directories
         class_raw_dir = os.path.join(self.client_uploads_dir, folder_name)
+        
+        # EARLY CHECK: QuestionPaper.pdf
+        # Strict rule: Class is skipped if PDF is missing.
+        qp_src = os.path.join(class_raw_dir, "QuestionPaper.pdf")
+        if not os.path.exists(qp_src):
+             # Ensure we don't proceed. Raise FNF which works with the loop's try/except
+             raise FileNotFoundError(f"QuestionPaper.pdf not found in {class_raw_dir}")
+
         class_norm_dir = os.path.join(Config.NORMALIZED_DIR, folder_name)
         class_phase1_dir = os.path.join(Config.INPUT_DIR, folder_name)
         
@@ -182,6 +190,21 @@ class Phase0Runner:
             shutil.copy2(qp_src, os.path.join(class_phase1_dir, "QuestionPaper.pdf"))
         else:
             raise FileNotFoundError(f"Missing QuestionPaper.pdf in {class_raw_dir}")
+
+        # Copy Solutions.pdf (Optional but recommended)
+        # We check for "Solution.pdf" or "Solutions.pdf" and normalize to "Solutions.pdf"
+        sol_candidates = ["Solutions.pdf", "Solution.pdf"]
+        found_sol = False
+        for cand in sol_candidates:
+            sol_src = os.path.join(class_raw_dir, cand)
+            if os.path.exists(sol_src):
+                shutil.copy2(sol_src, os.path.join(class_phase1_dir, "Solutions.pdf"))
+                logger.info(f"Copied {cand} to input as Solutions.pdf")
+                found_sol = True
+                break
+        
+        if not found_sol:
+            logger.info("No Solution PDF found (optional).")
 
         logger.info(f"Class/Sheet {sheet_name} processed successfully.")
 
