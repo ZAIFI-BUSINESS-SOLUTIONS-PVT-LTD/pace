@@ -1,151 +1,201 @@
 student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
-274600,Q1,A,UNKNOWN,False,Calculation,"Student selected option A. However, the solution shows the correct answer should be a different option based on the change in momentum and the time of contact.",Medium,Momentum and Impulse
-274600,Q2,B,UNKNOWN,False,Calculation,"Student selected option B. The solution shows how tension is calculated based on the masses and gravity, leading to a specific numerical result different than the student's answer.",Medium,Tension and Forces
-274600,Q3,D,UNKNOWN,False,Conceptual,"Student selected option D. The solution states that change in linear momentum equals the area under the force vs time graph. Therefore, a non-zero area would result in a non-zero change in momentum.",Medium,Impulse and Momentum
-274600,Q4,B,UNKNOWN,True,None,"The student selected option B, which matches the derived relationship between velocity and mass shown in the solution.",High,Kinematics and Newton's Second Law
-274600,Q5,B,UNKNOWN,True,None,"Student selected option B, which aligns with the force calculation derived using Newton's second law in the solution.",High,Newton's Laws
-274600,Q6,A,UNKNOWN,False,Conceptual,"Student selected option A. However, considering the kinetic energy and work-energy theorem, the solution demonstrates that bullet P will pierce a greater distance because it has a higher kinetic energy.",Medium,Work-Energy Theorem
-274600,Q7,D,UNKNOWN,True,None,"Student selected option D, which is the correct conversion from kWh to Joules as shown in the solution.",High,Energy Conversion
-274600,Q8,D,UNKNOWN,True,None,The student selected option D. The correct answer is 'None of these' as the K.E increases by 21%.,High,Kinetic Energy and Momentum
-274600,Q9,D,UNKNOWN,True,None,The student selected option D. The correct answer is 'None of these'.,High,Kinetic Energy and Momentum
-274600,Q10,D,D,True,None,"The student selected option D, which correctly identifies the case where work done is maximum based on the angle between force and displacement.",High,Work Done by a Force
-274600,Q11,A,UNKNOWN,False,Conceptual,"Student selected option A, but the solution lacks any information of the correct depiction.",Low,UNKNOWN
-274600,Q12,A,UNKNOWN,True,None,"Student selected option A, which correctly identifies the angle of incidence when a ray passes through the center of curvature.",High,Reflection of Light
-274600,Q13,A,UNKNOWN,False,Conceptual,"Student selected option A, but the solution does not show calculation or correct solution.",Low,Laws of Reflection
-274600,Q14,C,C,True,None,"Student selected option C, which correctly depicts the reflection of a ray of light on a spherical mirror.",High,Reflection in Mirrors
-274600,Q15,B,UNKNOWN,False,Conceptual,Student selected option B. The solution explains the concept of bending of light from denser to rarer medium.,Low,Refraction of Light
-274600,Q16,B,UNKNOWN,True,None,"Student selected option B, which accurately describes the element X based on its electronic configuration and position in the periodic table.",High,Electronic Configuration and Periodic Table
-274600,Q17,B,UNKNOWN,True,None,"Student selected option B, which correctly identifies Mg and Cl as likely to form an ionic compound of the type MCl2 based on their valencies.",High,Chemical Bonding
-274600,Q18,A,UNKNOWN,False,Conceptual,"Student selected option A. However, the solution describes the correct valencies and resulting chemical formula.",Medium,Valency and Chemical Formulas
-274600,Q19,D,UNKNOWN,True,None,"Student selected option D, which correctly shows the decreasing atomic radius within a period based on periodic trends.",High,Periodic Trends - Atomic Radius
-274600,Q20,A,UNKNOWN,True,None,"Student selected option A, which correctly identifies the element with maximum metallic character in the third period.",High,Periodic Trends - Metallic Character
-274600,Q21,C,UNKNOWN,True,None,"Student selected option C, which correctly identifies the pair of noble gases based on their atomic numbers.",High,Noble Gases and Reactivity
-274600,Q22,C,UNKNOWN,True,None,"Student selected option C, which correctly describes the variation of valency across a period.",High,Valency and Group Numbers
-274600,Q23,B,UNKNOWN,True,None,"Student selected option B, which is the correct representation of a balanced combination reaction.",High,Types of Chemical Reactions
-274600,Q24,A,UNKNOWN,True,None,"Student selected option A, which correctly identifies the reducing agent in the given reaction.",High,Redox Reactions
-274600,Q25,C,UNKNOWN,True,None,"Student selected option C, which correctly identifies the compound A based on the reaction and the properties of the gas produced.",High,Chemical Reactions
-274600,Q26,C,UNKNOWN,True,None,"Student selected option C, which correctly identifies the change that definitely indicates a chemical reaction.",High,Chemical Reactions
-274600,Q27,A,UNKNOWN,True,None,"Student selected option A, which correctly identifies the oxidized and reduced species in the reaction.",High,Oxidation-Reduction
-274600,Q28,B,UNKNOWN,True,None,"Student selected option B, which correctly classifies the reaction as electrolytic decomposition.",High,Electrolysis
-274600,Q29,B,UNKNOWN,True,None,"Student selected option B, which accurately identifies the metal and the type of reaction.",High,Corrosion
-274600,Q30,B,UNKNOWN,True,None,"Student selected option B, which shows the correct coefficients to balance the equation.",High,Balancing Chemical Equations
-274600,Q31,A,UNKNOWN,True,None,"Student selected option A, which correctly identifies intestinal juice as the agent that completes digestion.",High,Digestion
-274600,Q32,C,UNKNOWN,False,Conceptual,Student selected option C. Lipase acts on fats. ,High,Lipid Metabolism
-274600,Q33,B,UNKNOWN,True,None,"Student selected option B, which correctly relates the location of testes to sperm formation.",High,Reproduction
-274600,Q34,B,UNKNOWN,True,None,"Student selected option B, which is the correct about assertion and reason.",High,Circulatory System
-274600,Q35,C,UNKNOWN,True,None,"Student selected option C, which correctly relates kidney failure, dialysis, and urea toxicity.",High,Dialysis and Kidney Function
-274600,Q36,C,UNKNOWN,False,Conceptual,Student selected option C. Pancreas is an exo-endocrine gland.,High,Pancreas Function
-274600,Q37,A,UNKNOWN,True,None,"Student selected option A, which gives the correct sequence of urine flow.",High,Urinary System
-274600,Q38,C,UNKNOWN,False,Conceptual,Student selected option C. Regulating body temperature. ,High,Nervous System and Thermoregulation
-274600,Q39,A,UNKNOWN,False,Conceptual,"Student selected option A. However, Syphilis is a sexually transmitted disease.",High,Syphilis and STDs
-274600,Q40,C,UNKNOWN,False,Conceptual,"Student selected option C, which is wrong.",High,Darwin's Theory of Evolution
-274600,Q41,C,UNKNOWN,False,Conceptual,Student selected option C. Breakdown of glucose to pyruvate happen in cytoplasm.,High,Aerobic Respiration
-274600,Q42,D,UNKNOWN,False,Conceptual,Student selected option D. ,High,Digestive System
-274600,Q43,A,UNKNOWN,True,None,"Student selected option A, which correctly labels nephron as the basic unit for filtration.",High,Excretory System
-274600,Q44,B,UNKNOWN,True,None,"Student selected option B, which gives the correct answer.",High,Plant Physiology
-274600,Q45,C,UNKNOWN,True,None,"Student selected option C, which the correct option based on assertion and reason.",High,Plant Anatomy
-274600,Q46,D,UNKNOWN,False,Conceptual,Student selected option D. Cuscuta is a parasitic plant.,High,Plant Nutrition
-274600,Q47,D,UNKNOWN,False,Conceptual,Student selected option D. Nitrogen is an essential element for protein synthesis.,High,Plant Nutrition
-274600,Q48,D,UNKNOWN,True,None,"Student selected option D, which the correct answer for regulating opening and closing of stomata.",High,Plant Physiology
-274600,Q49,C,UNKNOWN,True,None,"Student selected option C, which correctly answers for saliva function.",High,Human Physiology
-274600,Q50,A,UNKNOWN,False,Conceptual,"Student selected option A, which is wrong based on the solution.",High,Cellular Respiration
-253411,Q1,C,UNKNOWN,True,None,The student selected the correct option based on the solution provided which involved calculating the change in momentum and force.,Medium,Momentum and Impulse
-253411,Q2,A,UNKNOWN,True,None,The student's selection matches the correct option derived by resolving the tension calculation for a system of two masses connected by a string over a pulley.,Medium,Tension and Forces
-253411,Q3,D,UNKNOWN,True,None,"The student correctly identified the answer, understanding the relationship between the area under the Force vs. Time graph and the change in linear momentum.",Medium,Impulse and Momentum
-253411,Q4,C,UNKNOWN,True,None,"The student's answer aligns with the correct answer obtained through kinematic equations and Newton's second law, establishing the relationship between velocity and mass.",Medium,Kinematics and Newton's Second Law
-253411,Q5,B,UNKNOWN,True,None,"The student selected the correct option by applying the formula F = ma, calculating the force required to change the velocity of the object.",High,Newton's Laws
-253411,Q6,A,UNKNOWN,True,None,The student's choice aligns with the correct answer by understanding and applying the Work-Energy Theorem.,Medium,Work-Energy Theorem
-253411,Q7,D,UNKNOWN,True,None,Student got the correct answer. 1 kWh is equivalent to 3.6 x 10^6 Joules.,High,Energy Conversion
-253411,Q8,A,UNKNOWN,True,None,"The student selected the correct option, reflecting an understanding of how kinetic energy changes with momentum. Calculation using formula is correct.",Medium,Kinetic Energy and Momentum
-253411,Q9,C,UNKNOWN,True,None,The student correctly identified the option based on understanding the relationship between kinetic energy and momentum. Using formula for calculation.,Medium,Kinetic Energy and Momentum
-253411,Q10,C,D,False,Conceptual,The student incorrectly answered the question. The work done depends on the cosine of the angle between force and displacement. The student may not have understood the cos relationship.,Medium,Work Done by a Force
-253411,Q11,A,UNKNOWN,True,None,Student's selection matches with the solution.,Medium,UNKNOWN
-253411,Q12,A,UNKNOWN,True,None,Student's choice matches with the solution.,Medium,Reflection of Light
-253411,Q13,C,UNKNOWN,True,None,Student's selection matches with the solution.,Medium,Laws of Reflection
-253411,Q14,D,C,False,Conceptual,The student incorrectly answered the question. The student seems to be confused about the properties of spherical mirrors.,Medium,Reflection in Mirrors
-253411,Q15,B,UNKNOWN,True,None,The student's choice matches with the solution.,Medium,Refraction of Light
-253411,Q16,B,UNKNOWN,True,None,Student understood electron configuration and its relation to the periodic table.,Medium,Electronic Configuration and Periodic Table
-253411,Q17,B,UNKNOWN,True,None,Student understands that Mg readily forms Mg2+ ions to create MCl2 type compounds.,Medium,Chemical Bonding
-253411,Q18,A,UNKNOWN,False,Conceptual,The student selected the wrong answer. Student seems to have messed up the valency concept.,Medium,Valency and Chemical Formulas
-253411,Q19,B,UNKNOWN,False,Conceptual,The student did not understand the concept. Memorization is weak.,Medium,Periodic Trends - Atomic Radius
-253411,Q20,A,UNKNOWN,True,None,"The student correctly applied the periodic trends, knowing that metallic character decreases from left to right.",Medium,Periodic Trends - Metallic Character
-253411,Q21,C,UNKNOWN,True,None,The student can identify the elements by atomic numbers.,Medium,Noble Gases and Reactivity
-253411,Q22,C,UNKNOWN,True,None,Student seems to be doing well in inorganic chem concepts.,Medium,Valency and Group Numbers
-253411,Q23,B,UNKNOWN,True,None,Student is able to differentiate between the reaction types.,Medium,Types of Chemical Reactions
-253411,Q24,A,UNKNOWN,True,None,Student can identify the reducing agent correctly.,Medium,Redox Reactions
-253411,Q25,C,UNKNOWN,True,None,Understood the reaction sequence.,Medium,Chemical Reactions
-253411,Q26,C,UNKNOWN,True,None,Good concept understanding.,Medium,Chemical Reactions
-253411,Q27,A,UNKNOWN,True,None,Student understood well oxidation reduction.,Medium,Oxidation-Reduction
-253411,Q28,B,UNKNOWN,True,None,The student can relate electricity with the decomposition.,Medium,Electrolysis
-253411,Q29,B,UNKNOWN,True,None,Student is able to relate green colour with copper.,Medium,Corrosion
-253411,Q30,B,UNKNOWN,True,None,The student is familiar with balancing.,Medium,Balancing Chemical Equations
-253411,Q31,A,UNKNOWN,True,None,Student correctly identified the role of intestinal juice.,Medium,Digestion
-253411,Q32,B,UNKNOWN,True,None,Understood the role of lipase.,Medium,Lipid Metabolism
-253411,Q33,B,UNKNOWN,True,None,Understands scrotum provides lower temperature.,Medium,Reproduction
-253411,Q34,C,UNKNOWN,False,Conceptual,The student seems to be weak on understanding of pulmonary artery.,Medium,Circulatory System
-253411,Q35,C,UNKNOWN,True,None,Both the given statements are true. Hence student got it correct.,Medium,Dialysis and Kidney Function
-253411,Q36,B,UNKNOWN,True,None,Student is familiar with exo-endocrine gland,Medium,Pancreas Function
-253411,Q37,A,UNKNOWN,True,None,The student correctly identifies the path of urine,Medium,Urinary System
-253411,Q38,D,UNKNOWN,True,None,Understood the function of nervous system,Medium,Nervous System and Thermoregulation
-253411,Q39,A,UNKNOWN,False,Conceptual,The student does not have much idea about STD.,Medium,Syphilis and STDs
-253411,Q40,D,UNKNOWN,True,None,The answer is on the inheritance.,Medium,Darwin's Theory of Evolution
-253411,Q41,C,UNKNOWN,True,None,Understood cytoplasm and mito,Medium,Aerobic Respiration
-253411,Q42,B,UNKNOWN,True,None,The student got the correct answer.,Medium,Digestive System
-253411,Q43,A,UNKNOWN,True,None,Good knowledge of nephron function.,Medium,Excretory System
-253411,Q44,B,UNKNOWN,True,None,The student seems to be well versed in plant physiology.,Medium,Plant Physiology
-253411,Q45,C,UNKNOWN,True,None,The student knows about the parts of plants.,Medium,Plant Anatomy
-253411,Q46,C,UNKNOWN,True,None,Understood parasitic mode.,Medium,Plant Nutrition
-253411,Q47,A,UNKNOWN,True,None,The student seems to be well aware of the role of nitrogen.,Medium,Plant Nutrition
-253411,Q48,D,UNKNOWN,True,None,The student knows role of water in opening and closing.,Medium,Plant Physiology
-253411,Q49,C,UNKNOWN,True,None,Understood the role of less saliva.,Medium,Human Physiology
-253411,Q50,A,UNKNOWN,False,Conceptual,Glycolysis happens in the cytoplasm.,Medium,Cellular Respiration
-269000,Q1,C,UNKNOWN,True,None,Student chose option C which matches the result obtained in the provided solution text. The calculations shown results matching student answer,High,Momentum and Impulse
-269000,Q2,A,UNKNOWN,True,None,Student chose option A which matches the result obtained in the provided solution text. Student answer matches the solution,High,Tension and Forces
-269000,Q3,A,UNKNOWN,True,None,Student chose option A which matches the result obtained in the provided solution text. The change in linear momentum is proportional to impulse is correct,High,Impulse and Momentum
-269000,Q4,A,UNKNOWN,True,None,Student chose option A which matches the result obtained in the provided solution text. Final velocity depends on inverse square root of mass,High,Kinematics and Newton's Second Law
-269000,Q5,C,UNKNOWN,True,None,Student chose option C which matches the result obtained in the provided solution text. Calculation of force is accurate,High,Newton's Laws
-269000,Q6,C,UNKNOWN,True,None,Student chose option C which matches the result obtained in the provided solution text. Initial kinetic energy (KE) ; d ∝ KE = (1/2)mv^2 is correct reasoning,High,Work-Energy Theorem
-269000,Q7,D,UNKNOWN,True,None,Student chose option D which matches the result obtained in the provided solution text. 1 kWh = 3.6 x 10^6 J,High,Energy Conversion
-269000,Q8,B,UNKNOWN,False,Calculation,"The student chose 40% as the answer, but the correct answer is 21%. The student might have incorrectly calculated the percentage increase.",Medium,Kinetic Energy and Momentum
-269000,Q9,B,UNKNOWN,False,Calculation,"The student chose 40% as the answer, but the correct answer needs calculation using :K' = (0.90p)^2 / 2m = (0.81)p^2 / 2m",Medium,Kinetic Energy and Momentum
-269000,Q10,D,D,True,None,"The student chose option D which is correct, matching the solution. Understanding of work done is shown",High,Work Done by a Force
-269000,Q11,A,UNKNOWN,False,Conceptual,Student chose A but the solution is not provided for this question.,Low,UNKNOWN
-269000,Q12,A,UNKNOWN,True,None,"Student chose A which is correct, Angle of incidence is zero at centre of curvature.",High,Reflection of Light
-269000,Q13,A,UNKNOWN,False,Conceptual,Student chose A but the solution is incomplete.,Low,Laws of Reflection
-269000,Q14,C,C,True,None,Student chose C which is correct. Reflection rules are understood.,High,Reflection in Mirrors
-269000,Q15,B,UNKNOWN,False,Conceptual,Student chose B but need to understand rules of refraction.,Low,Refraction of Light
-269000,Q16,B,UNKNOWN,True,None,Student chose B which is correct.,High,Electronic Configuration and Periodic Table
-269000,Q17,B,UNKNOWN,True,None,Student chose B which is correct.,High,Chemical Bonding
-269000,Q18,A,UNKNOWN,False,Conceptual,Student chose A. PQ valency and electronic configuration concept is not clear.,Low,Valency and Chemical Formulas
-269000,Q19,A,UNKNOWN,True,None,Student chose A. Na>Mg>Al>Si atomic radius decreasing,High,Periodic Trends - Atomic Radius
-269000,Q20,A,UNKNOWN,True,None,Student chose A. Metallic character,High,Periodic Trends - Metallic Character
-269000,Q21,C,UNKNOWN,True,None,Student chose C. Noble Gases understanding,High,Noble Gases and Reactivity
-269000,Q22,C,UNKNOWN,True,None,Student chose C. Valency across group understood.,High,Valency and Group Numbers
-269000,Q23,B,UNKNOWN,True,None,Student chose B. Correct combination identified,High,Types of Chemical Reactions
-269000,Q24,A,UNKNOWN,True,None,Student chose A. Reducing Agent Identified.,High,Redox Reactions
-269000,Q25,A,UNKNOWN,False,Conceptual,Student chose A. CaCO3 (limestone is correct,Low,Chemical Reactions
-269000,Q26,C,UNKNOWN,True,None,Student chose C which is correct. Correct chemical reactions understood.,High,Chemical Reactions
-269000,Q27,A,UNKNOWN,True,None,Student chose A. Oxidation-Reduction clear.,High,Oxidation-Reduction
-269000,Q28,B,UNKNOWN,True,None,Student chose B. Electrolysis understood.,High,Electrolysis
-269000,Q29,B,UNKNOWN,True,None,Student chose B. Metal identification understood.,High,Corrosion
-269000,Q30,B,UNKNOWN,True,None,Student chose B. Balanced equation understanding.,High,Balancing Chemical Equations
-269000,Q31,A,UNKNOWN,True,None,Intestinal Juice is the correct answer,High,Digestion
-269000,Q32,D,UNKNOWN,False,Conceptual,"Student chose All of these, but Lipase acts only on fats.",Low,Lipid Metabolism
-269000,Q33,B,UNKNOWN,True,None,Formation of Sperms,High,Reproduction
-269000,Q34,B,UNKNOWN,True,None,A is false R is true.,High,Circulatory System
-269000,Q35,C,UNKNOWN,True,None,Both A and R true.,High,Dialysis and Kidney Function
-269000,Q36,C,UNKNOWN,False,Conceptual,"The student chose Salivary gland, but Pancreas has both endocrine and exocrine function.",Low,Pancreas Function
-269000,Q37,A,UNKNOWN,True,None,Correct flow of urine.,High,Urinary System
-269000,Q38,C,UNKNOWN,False,Conceptual,Student selected Regulating body temperature but the broader homeostasis requires endocrine involvement,Medium,Nervous System and Thermoregulation
-269000,Q39,D,UNKNOWN,True,None,Correct STD identification.,High,Syphilis and STDs
-269000,Q40,C,UNKNOWN,True,None,Evolution through inheritance correct Darwin,High,Darwin's Theory of Evolution
-269000,Q41,B,UNKNOWN,False,Conceptual,"Glycolysis occors in cytoplasm, Mitochondria later",Low,Aerobic Respiration
-269000,Q42,C,UNKNOWN,False,Conceptual,"Student chose Lipase bile mucus, but acid + pepsing + mucus are the digestive juices",Low,Digestive System
-269000,Q43,A,UNKNOWN,True,None,Correct Nephron selected.,High,Excretory System
-269000,Q44,B,UNKNOWN,True,None,Correct selectino of non-excretory,High,Plant Physiology
-269000,Q45,A,UNKNOWN,False,Conceptual,"Student chose both A and R are true, but xylem is present in stem and roots.",Medium,Plant Anatomy
-269000,Q46,D,UNKNOWN,False,Conceptual,Student chose Helianthus but Cuscuta shows parastic behavior.,Low,Plant Nutrition
-269000,Q47,C,UNKNOWN,False,Conceptual,"Student Chose Iron, but proteins synethis require Nitrogen.",Low,Plant Nutrition
-269000,Q48,D,UNKNOWN,True,None,Amount of water in guard cell.,High,Plant Physiology
-269000,Q49,C,UNKNOWN,True,None,Starch into simple sugars,High,Human Physiology
-269000,Q50,A,UNKNOWN,False,Conceptual,Studen choese Mitochondria deficient muscle cells,Low,Cellular Respiration
+276200,Q1,D,C,False,Calculation,"The student selected the wrong answer, possibly from miscalculating the area under the force vs. time graph, which represents the net momentum gained.",Low,Physics
+276200,Q2,D,B,False,Conceptual,The student selected the wrong option; the total change in momentum is calculated as force multiplied by time (mgt).,Low,Physics
+276200,Q3,B,A,False,Conceptual,"The student's answer is incorrect because if tension equals weight, the net force is zero, implying uniform speed (zero acceleration).",Low,Physics
+276200,Q4,D,C,False,Conceptual,"The selected answer is incorrect, as the acceleration of the 5 kg mass is derived from the net force acting on the system, considering both masses.",Low,Physics
+276200,Q5,B,C,False,Calculation,The answer selected is incorrect because the average force is equal to the change in momentum divided by the time interval.,Low,Physics
+276200,Q6,C,D,False,Calculation,The student's answer is incorrect; kinetic energy gained is the difference between work done by the applied force and work done by friction.,Low,Work and Energy
+276200,Q7,A,D,False,Calculation,The student selected the incorrect option; the work required is the difference in potential energy at the two extensions.,Low,Elastic Potential Energy
+276200,Q8,B,D,False,Conceptual,The answer is incorrect; the power is calculated as the number of bullets fired per second multiplied by the kinetic energy of each bullet.,Low,Power and Kinetic Energy
+276200,Q9,A,B,False,Calculation,"The student selected the wrong option; work is the dot product of force and displacement vectors, and the z-component must be included.",Low,Work Done by a Force
+276200,Q10,D,D,True,None,The student correctly calculated the stopping distance by recognizing its proportionality to the square of the velocity.,Medium,"Work, Energy, and Friction"
+276200,Q11,B,B,True,None,The student correctly identified the relative speed of the image as twice the man's speed.,Medium,Relative Motion and Image Velocity
+276200,Q12,B,C,False,Conceptual,"The student's answer is incorrect because the object is at the center of curvature when the object and image sizes are the same, making the focal length half the radius of curvature.",Low,Mirrors and Image Formation
+276200,Q13,C,D,False,Calculation,"The student's answer is wrong, as the focal length must be derived using magnification formulas and object-image distance relationships for concave mirrors.",Low,Concave Mirrors and Magnification
+276200,Q14,B,B,True,None,The student correctly stated that the reflected ray deviates by 120 degrees when the angle between incident and reflected rays is 60 degrees.,Medium,UNKNOWN
+276200,Q15,A,B,False,Conceptual,"The student answer is incorrect, as the minimum mirror height needed is half the person's height.",Low,Optics
+276200,Q16,A,A,True,None,"The student correctly identified the element's group, period, and metallic nature based on its electronic configuration.",Medium,Periodic Properties
+276200,Q17,B,A,False,Conceptual,"The student's answer is incorrect; Boron, Silicon and Germanium are the only set containing only metalloids.",Low,Metalloids
+276200,Q18,A,D,False,Conceptual,The student selected the incorrect answer; Neon has the highest ionization energy in the second period because noble gases have stable configurations.,Low,Ionization Energy
+276200,Q19,B,B,True,None,The student correctly related the decrease in atomic radius and increase in ionization energy to the increasing effective nuclear charge.,Medium,Ionization Energy and Nuclear Charge
+276200,Q20,C,C,True,None,The student correctly identifies calcium as a metal that forms a basic oxide.,Medium,Metal and Non-metal Oxides
+276200,Q21,D,D,True,None,The student correctly identified that metallic character increases down the group for alkali metals.,Medium,Alkali Metals
+276200,Q22,A,C,False,Conceptual,"The student incorrectly stated valency increases down the group, while valency remains the same down the group.",Low,Valency
+276200,Q23,B,B,True,None,The student correctly balanced the equation for the reaction of aluminum with chlorine.,Medium,Chemical Reactions
+276200,Q24,C,C,True,None,The student correctly identified the double displacement reaction producing a gas (CO2).,Medium,Chemical Reactions
+276200,Q25,C,B,False,Conceptual,The student incorrectly answered this question; sodium carbonate reacts with HCl to produce carbon dioxide gas.,Low,Chemical Reactions
+276200,Q26,C,A,False,Conceptual,The student's selection is incorrect because the reaction requires heat to proceed (endothermic) and involves breaking down a compound (decomposition).,Low,Thermal Decomposition
+276200,Q27,A,B,False,Conceptual,"The answer chosen is wrong because HCl accepts electrons and is reduced, making it the oxidizing agent.",Low,Oxidation-Reduction Reactions
+276200,Q28,C,A,False,Conceptual,"The student incorrectly selected gas evolution, while the correct answer involves a color change and deposition of copper.",Low,Displacement Reaction
+276200,Q29,C,B,False,Conceptual,"The student selected the wrong answer, as the correct balanced equation accounts for the diprotic nature of sulfuric acid.",Low,Neutralization Reaction
+276200,Q30,A,B,False,Conceptual,The selected answer is incorrect. The balanced equation requires coefficients that ensure the conservation of oxygen atoms.,Low,Chemical Equilibrium
+276200,Q31,B,B,True,None,The student correctly identified the junction between two neurons as a synapse.,Medium,Synapse Function
+276200,Q32,A,B,False,Conceptual,The student incorrectly identified the living cell; Sieve tubes are the only living cells in the choices provided.,Low,Sieve Tubes Function
+276200,Q33,B,D,False,Conceptual,"The student incorrectly identified urethra, while nephrons are the filtration units of kidneys.",Low,Nephron Function
+276200,Q34,C,A,False,Conceptual,The student incorrectly answered this question. Blood leaving tissues is richer in carbon dioxide due to cellular respiration.,Low,Cellular Respiration and Gas Exchange
+276200,Q35,A,B,False,Conceptual,"The student incorrectly answered this question, mistaking the definition of heterodont.",Low,Heterodont Definition
+276200,Q36,A,D,False,Conceptual,"The student provided the incorrect answer, possibly due to an incorrect calculation of ATP molecules produced in anaerobic respiration.",Low,Anaerobic Respiration
+276200,Q37,D,D,True,None,The student correctly stated that HCl performs the mentioned functions in the stomach,Medium,Hydrochloric Acid Functions
+276200,Q38,C,C,True,None,The student correctly identified spore formation as the asexual reproduction method of Rhizopus.,Medium,Spore Formation
+276200,Q39,A,C,False,Conceptual,"The student selected the wrong answer, as tuber of potato is a modified stem.",Low,Potato Tuber
+276200,Q40,A,A,True,None,The student correctly stated that Pepsin requires hydrochloric acid to function.,Medium,Hydrochloric Acid and Pepsin
+276200,Q41,C,C,True,None,The student correctly identified photophosphorylation as the formation of ATP.,Medium,Photophosphorylation
+276200,Q42,C,C,True,None,The student correctly stated that the epiglottis closes the respiratory passage during ingestion.,Medium,Epiglottis
+276200,Q43,B,A,False,Conceptual,"The student incorrectly answered, as deficiency of calcium ions delays blood clotting.",Low,Blood Clotting
+276200,Q44,D,D,True,None,The student correctly identified ethylene as the hormone that triggers fruit ripening.,Medium,Plant Hormones
+276200,Q45,D,A,False,Conceptual,"The student incorrectly identified Chemotropism, while the correct answer is Phototropism.",Low,Phototropism
+276200,Q46,D,C,False,Conceptual,The student answered incorrectly; emasculation is the removal of stamens.,Low,Emasculation
+276200,Q47,A,A,True,None,The student correctly stated that menopause is when menstruation stops.,Medium,Menopause
+276200,Q48,A,C,False,Conceptual,"The student selected the wrong order; the correct sequence of sexual reproduction in plants is Pollination, Fertilization, Embryo, Seedling.",Low,Sexual Reproduction in Plants
+276200,Q49,D,C,False,Conceptual,"The student incorrectly identified Oesophagus, but the correct answer is larynx, which is not part of the alimentary canal.",Low,Larynx Function
+276200,Q50,B,B,True,None,The student correctly identified that aerobic respiration primarily occurs in the mitochondria.,Medium,Aerobic Respiration
+279000,Q1,A,C,False,Calculation,"The student selected option A, but the correct answer requires calculating the area under the force vs time graph, which equals 140 Ns.",Low,Physics
+279000,Q2,B,B,True,None,"The student correctly selected option B, which equates the total change in momentum to force multiplied by time (mgt).",High,Physics
+279000,Q3,A,A,True,None,"The student correctly selected option A, indicating that uniform speed results when tension equals the elevator's weight.",High,Physics
+279000,Q4,A,C,False,Calculation,"The student selected option A, but the correct answer involves applying Newton's second law to the system and solving for the acceleration, which yields 5g/9.",Low,Physics
+279000,Q5,C,C,True,None,"The student correctly selected option C, which calculates average force by dividing the change in momentum by the time interval.",High,Physics
+279000,Q6,D,D,True,None,"The student correctly selected option D, calculating kinetic energy gained as the difference between applied work and work done by friction.",High,Work and Energy
+279000,Q7,C,D,False,Calculation,"The student selected option C, but the work required is the difference in potential energy between stretching to 10 cm and 5 cm, which equals 18.75 Nm.",Low,Elastic Potential Energy
+279000,Q8,B,D,False,Conceptual,"The student selected option B, but the power is the product of number of bullets fired per second and kinetic energy of each bullet (nk).",Low,Power and Kinetic Energy
+279000,Q9,B,B,True,None,"The student correctly selected option B, which finds work done by taking the dot product of force and displacement vectors.",High,Work Done by a Force
+279000,Q10,B,D,False,Conceptual,"The student selected option B, but stopping distance is proportional to the square of the velocity, resulting in a stopping distance of 80m when speed doubles.",Low,"Work, Energy, and Friction"
+279000,Q11,B,B,True,None,The student correctly selected option B; relative speed of the image with respect to the man is twice the man's speed.,High,Relative Motion and Image Velocity
+279000,Q12,C,C,True,None,"The student correctly selected option C; for the same size image, the object is at the center of curvature, thus f = R/2 = 6 cm.",High,Mirrors and Image Formation
+279000,Q13,C,D,False,Calculation,"The student selected option C, but using the magnification formula and the given conditions, the focal length can be calculated as 36 cm.",Low,Concave Mirrors and Magnification
+279000,Q14,D,B,False,Conceptual,"The student selected option D, but the angle of deviation is supplementary to the angle between incident and reflected rays, which is 120 degrees.",Low,UNKNOWN
+279000,Q15,C,B,False,Conceptual,"The student selected option C, but the minimum mirror height required is half the person's height, thus 1m.",Low,Optics
+279000,Q16,A,A,True,None,"The student correctly identified the element as being in Group 13, Period 3, and metallic based on its electronic configuration.",High,Periodic Properties
+279000,Q17,A,A,True,None,"The student correctly identified B, Si, and Ge as the set containing only metalloids.",High,Metalloids
+279000,Q18,D,D,True,None,The student correctly stated that Neon (Ne) has the highest ionization energy in the second period.,High,Ionization Energy
+279000,Q19,B,B,True,None,The student correctly noted the trend that atomic radius decreases and ionization energy increases when moving left to right across a period.,High,Ionization Energy and Nuclear Charge
+279000,Q20,C,C,True,None,The student correctly identified Ca (Calcium) as forming a basic oxide.,High,Metal and Non-metal Oxides
+279000,Q21,D,D,True,None,The student correctly identified that the metallic character increases from top (A) to bottom (C) in a vertical column.,High,Alkali Metals
+279000,Q22,C,C,True,None,The student correctly answered that valency remains the same down the group.,High,Valency
+279000,Q23,B,B,True,None,The student correctly balanced the equation for the reaction of aluminum with chlorine.,High,Chemical Reactions
+279000,Q24,C,C,True,None,The student correctly identified the double displacement reaction producing a gas.,High,Chemical Reactions
+279000,Q25,B,B,True,None,The student correctly identified the compound X that turns limewater milky and the solid Y.,High,Chemical Reactions
+279000,Q26,B,A,False,Conceptual,"The student selected option B, but the correct answer is calcium carbonate decomposition because endothermic decomposition absorbs heat.",Low,Thermal Decomposition
+279000,Q27,D,B,False,Conceptual,"The student selected option D, but the oxidizing agent gains electrons, which is HCl in this reaction.",Low,Oxidation-Reduction Reactions
+279000,Q28,A,A,True,None,The student correctly identified the color change and deposit formation as confirmation of the reaction.,High,Displacement Reaction
+279000,Q29,B,B,True,None,The student correctly identified the balanced neutralization reaction.,High,Neutralization Reaction
+279000,Q30,B,B,True,None,The student correctly balanced the equation KClO3 -> KCl + O2.,High,Chemical Equilibrium
+279000,Q31,B,B,True,None,The student correctly identified the synapse.,High,Synapse Function
+279000,Q32,D,B,False,Conceptual,"The student selected option D, but Sieve tubes are living cells.",Low,Sieve Tubes Function
+279000,Q33,D,D,True,None,The student correctly identified nephrons as filtration units of kidneys.,High,Nephron Function
+279000,Q34,A,A,True,None,The student correctly identified carbon dioxide.,High,Cellular Respiration and Gas Exchange
+279000,Q35,A,B,False,Conceptual,"The student selected option A, but heterodont refers to having different types of teeth.",Low,Heterodont Definition
+279000,Q36,B,D,False,Conceptual,"The student selected option B, but anaerobic respiration yields only 2 ATP per glucose, hence 6 for three molecules.",Low,Anaerobic Respiration
+279000,Q37,D,D,True,None,"The student correctly selected option D, identifying all roles of HCl in the stomach.",High,Hydrochloric Acid Functions
+279000,Q38,C,C,True,None,The student correctly identified spore formation.,High,Spore Formation
+279000,Q39,D,C,False,Conceptual,"The student selected option D, but a tuber is a modified stem.",Low,Potato Tuber
+279000,Q40,A,A,True,None,The student correctly identified that pepsin function will be impaired.,High,Hydrochloric Acid and Pepsin
+279000,Q41,C,C,True,None,The student correctly identified ATP formation.,High,Photophosphorylation
+279000,Q42,C,C,True,None,The student correctly identified the epiglottis.,High,Epiglottis
+279000,Q43,D,A,False,Conceptual,"The student selected option D, but calcium ions are required for blood clotting.",Low,Blood Clotting
+279000,Q44,C,D,False,Conceptual,"The student selected option C, but Ethylene triggers fruit ripening.",Low,Plant Hormones
+279000,Q45,A,A,True,None,The student correctly identified phototropism.,High,Phototropism
+279000,Q46,C,C,True,None,The student correctly identified removal of stamens of flower.,High,Emasculation
+279000,Q47,A,A,True,None,The student correctly related it to when menstruation stops.,High,Menopause
+279000,Q48,C,C,True,None,"The student correctly identified Pollination, Fertilization, Embryo, Seedling.",High,Sexual Reproduction in Plants
+279000,Q49,B,C,False,Conceptual,"The student selected option B, but the larynx is not a part of the alimentary canal.",Low,Larynx Function
+279000,Q50,B,B,True,None,The student correctly identified the mitochondria.,High,Aerobic Respiration
+287200,Q1,A,C,False,Conceptual,The student incorrectly calculated the net momentum gained; the solution involves finding the area under the force vs time graph.,Low,Physics
+287200,Q2,B,B,True,None,"The student correctly identified the total change in momentum as force multiplied by time, which equals mgt.",High,Physics
+287200,Q3,A,A,True,None,"The student correctly concluded that if tension equals the weight, the elevator moves at a uniform speed, implying zero net force and acceleration.",High,Physics
+287200,Q4,C,C,True,None,The student correctly determined the acceleration of the 5 kg mass using free body diagrams and resulting equations.,High,Physics
+287200,Q5,C,C,True,None,The student correctly calculated the average force using the change in momentum divided by the total time.,High,Physics
+287200,Q6,D,D,True,None,The student correctly calculated kinetic energy gained by considering both the applied force and the frictional force over the distance.,High,Work and Energy
+287200,Q7,B,D,False,Calculation,The student incorrectly calculated the work required to stretch the spring; the correct solution subtracts the initial energy from the final energy after stretching.,Low,Elastic Potential Energy
+287200,Q8,D,D,True,None,The student correctly determined the power of the machine gun by multiplying the number of bullets per second by the kinetic energy of each bullet.,High,Power and Kinetic Energy
+287200,Q9,B,B,True,None,The student correctly calculated work done by the force using the dot product of the force and displacement vectors.,High,Work Done by a Force
+287200,Q10,B,D,False,Conceptual,The student incorrectly determined the stopping distance; the stopping distance is proportional to the square of the velocity.,Low,"Work, Energy, and Friction"
+287200,Q11,B,B,True,None,"The student correctly identified the relative speed of the image, which is twice the speed of the man.",High,Relative Motion and Image Velocity
+287200,Q12,C,C,True,None,The student correctly found the focal length by halving the radius of curvature since the image is the same size as the object.,High,Mirrors and Image Formation
+287200,Q13,D,D,True,None,The student correctly calculated the focal length of the mirror using the magnification formula and the object-image distance relationship.,High,Concave Mirrors and Magnification
+287200,Q14,B,B,True,None,The student selected the correct option.,High,UNKNOWN
+287200,Q15,B,B,True,None,The student correctly stated the minimum mirror height to see a full reflection is half the person's height.,High,Optics
+287200,Q16,D,A,False,Conceptual,"The student misidentified the type of element based on its electronic configuration, confusing it with a metalloid instead of a metal.",Low,Periodic Properties
+287200,Q17,B,A,False,Conceptual,"The student failed to correctly identify the set of metalloids in the periodic table, opting for metals instead.",Low,Metalloids
+287200,Q18,B,D,False,Conceptual,"The student did not select the element with the highest ionization energy, incorrectly choosing Be instead of Ne.",Low,Ionization Energy
+287200,Q19,C,B,False,Conceptual,The student incorrectly stated the trend of atomic radius and ionization energy across a period.,Low,Ionization Energy and Nuclear Charge
+287200,Q20,C,C,True,None,The student correctly identified Calcium (Ca) as forming a basic oxide due to its metallic nature.,High,Metal and Non-metal Oxides
+287200,Q21,D,D,True,None,The student correctly identified the trend for metallic character increasing down a group.,High,Alkali Metals
+287200,Q22,C,C,True,None,The student correctly stated that valency remains the same down the group.,High,Valency
+287200,Q23,B,B,True,None,The student correctly balanced the chemical equation for the reaction of aluminum with chlorine.,High,Chemical Reactions
+287200,Q24,C,C,True,None,The student correctly identified the double displacement reaction producing a gas.,High,Chemical Reactions
+287200,Q25,B,B,True,None,The student correctly identified the compound and reactant based on the limewater test.,High,Chemical Reactions
+287200,Q26,A,A,True,None,The student correctly identified the endothermic decomposition reaction of calcium carbonate.,High,Thermal Decomposition
+287200,Q27,B,B,True,None,The student correctly identified HCl as the oxidizing agent.,High,Oxidation-Reduction Reactions
+287200,Q28,A,A,True,None,The student correctly identified the observations confirming the chemical reaction between iron nails and copper sulfate solution.,High,Displacement Reaction
+287200,Q29,B,B,True,None,The student correctly selected the balanced neutralization reaction.,High,Neutralization Reaction
+287200,Q30,B,B,True,None,The student correctly balanced the decomposition of KClO3.,High,Chemical Equilibrium
+287200,Q31,B,B,True,None,The student accurately identified the synapse as the point of contact between neurons.,High,Synapse Function
+287200,Q32,B,B,True,None,The student correctly identified the sieve tube as a living cell.,High,Sieve Tubes Function
+287200,Q33,D,D,True,None,The student correctly named nephrons as the filtration units of the kidneys.,High,Nephron Function
+287200,Q34,A,A,True,None,The student correctly indicated that blood leaving the tissues is rich in carbon dioxide.,High,Cellular Respiration and Gas Exchange
+287200,Q35,B,B,True,None,The student accurately stated that heterodont condition of teeth means having different types of teeth.,High,Heterodont Definition
+287200,Q36,D,D,True,None,The student knows the correct number of ATP molecules generated during anaerobic respiration.,High,Anaerobic Respiration
+287200,Q37,D,D,True,None,The student identified all roles of HCl in the stomach.,High,Hydrochloric Acid Functions
+287200,Q38,C,C,True,None,The student correctly stated spore formation as the mode of reproduction in Rhizopus.,High,Spore Formation
+287200,Q39,C,C,True,None,The student knows potato tuber is a modified stem.,High,Potato Tuber
+287200,Q40,A,A,True,None,The student correctly identified that Pepsin will not function without HCl.,High,Hydrochloric Acid and Pepsin
+287200,Q41,D,C,False,Conceptual,"The student selected carbon dioxide as the product of photophosphorylation, while the correct answer is ATP.",Low,Photophosphorylation
+287200,Q42,C,C,True,None,The student identified the epiglottis as closing the respiratory passage during food ingestion.,High,Epiglottis
+287200,Q43,B,A,False,Conceptual,"The student picked Na, but the correct ion deficiency is calcium which affects blood clotting.",Low,Blood Clotting
+287200,Q44,D,D,True,None,The student correctly states that Ethylene triggers fruit ripening.,High,Plant Hormones
+287200,Q45,A,A,True,None,The student understands that growth towards sunlight is phototropism.,High,Phototropism
+287200,Q46,C,C,True,None,The student knows emasculation involves removing stamens from the flower.,High,Emasculation
+287200,Q47,A,A,True,None,The student identified when menstruation stops,High,Menopause
+287200,Q48,C,C,True,None,The student identified the correct sequence of events of sexual reproduction in plants.,High,Sexual Reproduction in Plants
+287200,Q49,C,C,True,None,The student correctly identified the larynx as the structure that isn't part of the alimentary canal.,High,Larynx Function
+287200,Q50,B,B,True,None,The student accurately stated that aerobic respiration occurs primarily in the mitochondria of the cell.,High,Aerobic Respiration
+754000,Q1,B,C,False,Calculation,"The student selected option B, but the net momentum gained is represented by the area under the force vs. time graph, which equals 140 Ns.",Low,Physics
+754000,Q2,B,B,True,None,"The student correctly identified that the total change in momentum equals force multiplied by time, resulting in mgt.",High,Physics
+754000,Q3,D,A,False,Conceptual,"The student selected option D, but if the tension equals the weight, the net force is zero, indicating constant speed and no acceleration.",Low,Physics
+754000,Q4,A,C,False,Calculation,"The student selected option A, but the correct acceleration is calculated using free body diagrams and Newton's second law, yielding 5g/9.",Low,Physics
+754000,Q5,A,C,False,Calculation,"The student selected option A, but the average force is calculated by dividing the change in momentum by the time interval, which equals 5000 N.",Low,Physics
+754000,Q6,D,D,True,None,"The student correctly calculated the kinetic energy gained by subtracting the work done by friction from the work done by the applied force, resulting in 300 J.",High,Work and Energy
+754000,Q7,A,D,False,Calculation,"The student selected option A, but the work required to stretch the spring further is the difference in potential energy between the two extensions, equaling 18.75 Nm.",Low,Elastic Potential Energy
+754000,Q8,B,D,False,Conceptual,"The student selected option B, but the power of the machine gun is the number of bullets fired per second multiplied by the kinetic energy of each bullet, resulting in nk.",Low,Power and Kinetic Energy
+754000,Q9,C,B,False,Calculation,"The student selected option C, but the work done is the dot product of the force and displacement vectors, which calculates to +7 Joules.",Low,Work Done by a Force
+754000,Q10,B,D,False,Conceptual,"The student selected option B, but the stopping distance is proportional to the square of the velocity, resulting in a stopping distance of 80m.",Low,"Work, Energy, and Friction"
+754000,Q11,D,B,False,Conceptual,"The student selected option D, but the relative speed of the image with respect to the man is twice the man's speed, so 4 m/s.",Low,Relative Motion and Image Velocity
+754000,Q12,C,C,True,None,"The student correctly recognized that the object is at the center of curvature, making the focal length half the radius of curvature, i.e. 6 cm.",High,Mirrors and Image Formation
+754000,Q13,D,D,True,None,The student correctly used the magnification formula and the lens equation to find the focal length to be 36 cm.,High,Concave Mirrors and Magnification
+754000,Q14,D,B,False,Conceptual,"The student selected option D, but the angle of deviation is the supplementary angle to the angle between the incident and reflected rays, which is 120 degrees.",Low,UNKNOWN
+754000,Q15,A,B,False,Conceptual,"The student selected option A, but the minimum mirror height required is half the person's height, resulting in 1m.",Low,Optics
+754000,Q16,A,A,True,None,"The student correctly identified the element's properties based on its electronic configuration: Group 13, Period 3, metallic.",High,Periodic Properties
+754000,Q17,A,A,True,None,"The student correctly identified that Boron, Silicon and Germanium are metalloids.",High,Metalloids
+754000,Q18,B,D,False,Conceptual,"The student selected option B, but ionization energy increases across a period, and Neon (Ne) has the highest ionization energy in the second period.",Low,Ionization Energy
+754000,Q19,D,B,False,Conceptual,"The student selected option D, but atomic radius decreases while ionization energy increases when moving from left to right along a period.",Low,Ionization Energy and Nuclear Charge
+754000,Q20,C,C,True,None,The student correctly identified that Calcium (Ca) forms a basic oxide.,High,Metal and Non-metal Oxides
+754000,Q21,C,D,False,Conceptual,"The student selected option C, but Metallic character increases down the group due to increasing atomic size and decreasing ionization energy.",Low,Alkali Metals
+754000,Q22,B,C,False,Conceptual,"The student selected option B, but valency remains the same down the group because elements in the same group have the same number of valence electrons.",Low,Valency
+754000,Q23,B,B,True,None,The student correctly balanced the equation for the reaction of aluminium with chlorine: 2Al + 3Cl2 -> 2AlCl3.,High,Chemical Reactions
+754000,Q24,A,C,False,Conceptual,"The student selected option A, but the double displacement reaction that produces a gas is Na2CO3 + 2HCl -> 2NaCl + H2O + CO2, where CO2 is the gas produced.",Low,Chemical Reactions
+754000,Q25,B,B,True,None,The student correctly linked CO2 to the reaction of an acid with a carbonate.,High,Chemical Reactions
+754000,Q26,D,A,False,Conceptual,"The student selected option D, but CaCO3 → CaO + CO2 (on heating) represents thermal decomposition, an endothermic process where heat is absorbed to break down the compound.",Low,Thermal Decomposition
+754000,Q27,A,B,False,Conceptual,"The student selected option A, but HCl is the oxidizing agent because it accepts electrons from Zn, causing Zn to be oxidized.",Low,Oxidation-Reduction Reactions
+754000,Q28,A,A,True,None,The student correctly identified that the formation of a reddish-brown deposit on the nails and the solution turning lighter indicates a displacement reaction.,High,Displacement Reaction
+754000,Q29,A,B,False,Conceptual,"The student selected option A, but the balanced equation requires two moles of NaOH to neutralize one mole of H2SO4.",Low,Neutralization Reaction
+754000,Q30,C,B,False,Conceptual,"The student selected option C, but the balanced equation for KClO3 decomposition is 2KClO3 -> 2KCl + 3O2, so the coefficients should be 2, 2, and 3.",Low,Chemical Equilibrium
+754000,Q31,B,B,True,None,The student correctly identified the point of contact as a synapse.,High,Synapse Function
+754000,Q32,C,B,False,Conceptual,"The student selected option C, but Sieve tube is the correct option because the sieve tube is a living cell.",Low,Sieve Tubes Function
+754000,Q33,D,D,True,None,The student correctly identified the filtration unit of the kidney to be the nephron.,High,Nephron Function
+754000,Q34,A,A,True,None,The student correctly identified that blood leaving tissues becomes richer in carbon dioxide.,High,Cellular Respiration and Gas Exchange
+754000,Q35,B,B,True,None,The student correctly identified heterodonty.,High,Heterodont Definition
+754000,Q36,D,D,True,None,The student correctly recalled ATP production during anaerobic respiration.,High,Anaerobic Respiration
+754000,Q37,D,D,True,None,The student correctly recalled the role of HCL.,High,Hydrochloric Acid Functions
+754000,Q38,C,C,True,None,The student correctly identified spore formation.,High,Spore Formation
+754000,Q39,D,C,False,Conceptual,"The student selected option D, but a tuber is a modified stem.",Low,Potato Tuber
+754000,Q40,A,A,True,None,The student correctly associated pepsin with hydrochloric acid.,High,Hydrochloric Acid and Pepsin
+754000,Q41,,C,False,None,Student did not attempt the question. The question asks about photophosphorylation.,Low,Photophosphorylation
+754000,Q42,C,C,True,None,The student correctly recalled the role of the epiglottis.,High,Epiglottis
+754000,Q43,C,A,False,Conceptual,"The student selected option C, but Calcium ions are the correct response as they are necessary for proper blood clotting.",Low,Blood Clotting
+754000,Q44,C,D,False,Conceptual,"The student selected option C, but Ethylene is known to trigger fruit ripening.",Low,Plant Hormones
+754000,Q45,A,A,True,None,The student correctly identified bending towards light.,High,Phototropism
+754000,Q46,D,C,False,Conceptual,"The student selected option D, but Emasculation is the removal of the stamen.",Low,Emasculation
+754000,Q47,A,A,True,None,The student correctly defines menopause.,High,Menopause
+754000,Q48,C,C,True,None,The student correctly sequenced plant sexual reproduction.,High,Sexual Reproduction in Plants
+754000,Q49,B,C,False,Conceptual,"The student selected option B, but the larynx belongs to the respiratory system.",Low,Larynx Function
+754000,Q50,B,B,True,None,The student correctly located the primary site of aerobic respiration.,High,Aerobic Respiration
