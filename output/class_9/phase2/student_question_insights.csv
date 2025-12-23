@@ -1,0 +1,361 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+260300,Q1,D,D,True,None,The student correctly identified that 9:27 and 81:729 share a similar relationship (x: x cubed).,High,nan
+260300,Q2,C,C,True,None,The student correctly decoded 'enmity' as '8b' by comparing the given coded sentences.,High,nan
+260300,Q3,B,D,False,Conceptual,"The student incorrectly identified the married couple; based on the family relationships given, none of the provided options are correct.",Low,nan
+260300,Q4,C,D,False,Conceptual,The student failed to identify the pattern in the letter series to determine the missing letter.,Low,nan
+260300,Q5,A,B,False,Calculation,The student incorrectly set up or solved the system of equations to find the fares for cities B and C.,Low,nan
+260300,Q6,A,A,True,None,The student correctly converted the repeating decimal 0.135135... to the fraction 5/37.,High,nan
+260300,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational; it can be real.,Low,nan
+260300,Q8,D,D,True,None,The student correctly expressed the decimal 0.45235 as the fraction 4519/9990.,High,nan
+260300,Q9,D,A,False,Conceptual,The student did not correctly determine the least positive fraction to add to the given expression to make it an integer.,Low,nan
+260300,Q10,C,B,False,Calculation,The student incorrectly calculated the original fraction after the numerator and denominator were increased by given percentages.,Low,nan
+260300,Q11,A,A,True,None,The student correctly evaluated the expression involving square roots.,High,nan
+260300,Q12,C,C,True,None,The student correctly solved for x in the given equation.,High,nan
+260300,Q13,C,B,False,Conceptual,The student failed to solve the quadratic equations and determine the relationship between x and y.,Low,nan
+260300,Q14,C,A,False,Conceptual,The student incorrectly calculated the value of the expression 3x^3 - 1/x^3 given the initial condition.,Low,nan
+260300,Q15,B,A,False,Calculation,The student incorrectly calculated the value of 3pqr based on the given equations.,Low,nan
+260300,Q16,C,A,False,Conceptual,The student calculated the pressure incorrectly by likely misusing the formula or converting units improperly.,Low,nan
+260300,Q17,A,C,False,Conceptual,The student failed to compare the different durations of time expressed in various units.,Low,nan
+260300,Q18,D,D,True,None,"The student correctly identified that the net force acting on the probe is zero, given its constant velocity and absence of major gravitational influence.",High,nan
+260300,Q19,A,A,True,None,The student correctly related the forces and accelerations of the two objects with the same mass using Newton's second law.,High,nan
+260300,Q20,C,D,False,Conceptual,The student incorrectly identified pressure as a base quantity and a scalar.,Low,nan
+260300,Q21,C,D,False,Conceptual,"The student incorrectly related the relationship between area, force, and pressure when hammering a nail.",Low,nan
+260300,Q22,B,B,True,None,The student correctly identified the formula that relates thrust force to the rocket's change in motion.,High,nan
+260300,Q23,B,C,False,Conceptual,The student incorrectly stated that wavelength remains unchanged when the wave's speed increases and frequency remains constant.,Low,nan
+260300,Q24,B,D,False,Conceptual,The student incorrectly associated compressions and rarefactions with light waves instead of longitudinal waves.,Low,nan
+260300,Q25,C,C,True,None,"The student correctly calculated the time it takes for the sound to reach the observer, given the distance and speed of sound.",High,nan
+260300,Q26,D,C,False,Conceptual,The student selected an incorrect postulate; atoms combining in fixed ratios does not give rise to conservation of mass.,Low,nan
+260300,Q27,D,D,True,None,The student correctly identified the point of Dalton's atomic theory that is true according to modern atomic theory.,High,nan
+260300,Q28,C,B,False,Conceptual,The student incorrectly stated that matter consists of indivisible ions according to Dalton's Atomic Theory.,Low,nan
+260300,Q29,C,A,False,Conceptual,The student incorrectly stated volume and properties; the correct answer is properties and mass.,Low,nan
+260300,Q30,C,C,True,None,The student correctly identified cathode rays as a stream of electrons.,High,nan
+260300,Q31,C,C,True,None,The student correctly identified that silk fibres are made up of protein.,High,nan
+260300,Q32,C,C,True,None,The student correctly identified the properties of nylon that make it useful.,High,nan
+260300,Q33,A,D,False,Conceptual,The student incorrectly identified a true statement as false.,Low,nan
+260300,Q34,B,B,True,None,The student correctly identified PET as a familiar form of polyester.,High,nan
+260300,Q35,C,D,False,Conceptual,The student incorrectly identified the chemical responsible for the characteristic smell of fruits.,Low,nan
+260300,Q36,C,C,True,None,The student correctly identified the labelled parts of the cell.,High,nan
+260300,Q37,B,A,False,Conceptual,The student incorrectly selected Cell wall as the answer; E.coli and Spirogyra both have a cell membrane.,Low,nan
+260300,Q38,C,A,False,Conceptual,The student incorrectly selected stroma; grana are the stacks of organized flattened membranous sacs in chloroplasts.,Low,nan
+260300,Q39,B,D,False,Conceptual,The student incorrectly stated that phospholipids are not present; Proline is not present in the cell membrane.,Low,nan
+260300,Q40,A,A,True,None,The student correctly identified the nerve cell as the longest cell in the human body.,High,nan
+260300,Q41,A,A,True,None,The student correctly identified Saccharomyces cerevisiae as another name for Yeast.,High,nan
+260300,Q42,C,C,True,None,The student correctly identified Louis Pasteur as the discoverer of fermentation.,High,nan
+260300,Q43,A,A,True,None,The student correctly identified that lactose is converted into lactic acid by anaerobic respiration.,High,nan
+260300,Q44,D,D,True,None,The student correctly identified all the habitats for micro-organisms.,High,nan
+260300,Q45,B,B,True,None,"The student correctly identified that carbon dioxide makes breads, cakes and pastry soft and fluffy.",High,nan
+269800,Q1,D,D,True,None,The student correctly identified the relationship between 9 and 27 as being similar to 81 and 729.,High,nan
+269800,Q2,B,C,False,Conceptual,The student incorrectly identified the code for 'enmity'; the correct answer requires decoding based on common words across the given phrases.,Low,nan
+269800,Q3,B,D,False,Conceptual,The student failed to deduce the correct couple from the family relationships; the correct answer is 'none of these' because the given options don't represent a married couple.,Low,nan
+269800,Q4,B,D,False,Conceptual,The student did not correctly identify the pattern in the letter series to find the missing letter.,Low,nan
+269800,Q5,A,B,False,Calculation,The student failed to correctly set up and solve the system of equations to find the fares for cities B and C.,Low,nan
+269800,Q6,B,A,False,Calculation,The student incorrectly converted the repeating decimal 0.135135... into a fraction.,Low,nan
+269800,Q7,D,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always an integer; it is always a real number.,Low,nan
+269800,Q8,B,D,False,Calculation,The student incorrectly expressed the decimal 0.45235 as a fraction.,Low,nan
+269800,Q9,A,A,True,None,The student correctly identified the least positive fraction that must be added to the given expression to result in an integer.,High,nan
+269800,Q10,A,B,False,Calculation,The student failed to correctly calculate the original fraction after the numerator and denominator were increased.,Low,nan
+269800,Q11,A,A,True,None,The student correctly evaluated the given expression.,High,nan
+269800,Q12,B,C,False,Calculation,The student incorrectly solved for x in the equation 4x = 2/3 * 729.,Low,nan
+269800,Q13,D,B,False,Conceptual,The student failed to correctly establish the relationship between x and y after solving the given equations.,Low,nan
+269800,Q14,A,A,True,None,The student correctly found the value of the expression given the condition on x.,High,nan
+269800,Q15,B,A,False,Calculation,"The student incorrectly calculated the value of 3pqr given the equations for p + q + r, p^3 + q^3 + r^3, and p^2 + q^2 + r^2.",Low,nan
+269800,Q16,D,A,False,Calculation,"The student incorrectly calculated the pressure exerted by the cube on the table, possibly due to unit conversion errors or incorrect formula application.",Low,nan
+269800,Q17,B,C,False,Conceptual,The student failed to correctly compare the different time durations expressed in various units.,Low,nan
+269800,Q18,A,D,False,Conceptual,"The student incorrectly stated that there is a non-zero net force acting on the probe, when constant velocity implies zero net force.",Low,nan
+269800,Q19,D,A,False,Conceptual,The student failed to relate the forces and accelerations of the two objects with the same mass using Newton's second law.,Low,nan
+269800,Q20,D,D,True,None,The student correctly identified that pressure is a derived quantity and a scalar.,High,nan
+269800,Q21,A,D,False,Conceptual,"The student incorrectly described the relationship between area, force, and pressure; the sharpness of the nail reduces the area to increase pressure for a given force.",Low,nan
+269800,Q22,B,B,True,None,The student correctly identified the formula that explains the relationship between thrust force and the rocket’s change in motion.,High,nan
+269800,Q23,B,C,False,Conceptual,The student did not apply the wave equation correctly; wavelength increases when wave speed increases at constant frequency.,Low,nan
+269800,Q24,B,D,False,Conceptual,The student incorrectly associated compressions and rarefactions with electromagnetic waves instead of longitudinal waves.,Low,nan
+269800,Q25,C,C,True,None,The student correctly calculated the time it takes for the sound to reach the observer.,High,nan
+269800,Q26,C,C,True,None,The student correctly stated Dalton's postulate related to the law of conservation of mass.,High,nan
+269800,Q27,A,D,False,Conceptual,The student incorrectly identified Dalton's atomic theory point that holds true according to the modern atomic theory.,Low,nan
+269800,Q28,B,B,True,None,"The student correctly stated that, according to Dalton's atomic theory, matter consists of indivisible atoms.",High,nan
+269800,Q29,B,A,False,Conceptual,"The student incorrectly stated that all atoms of a given element have identical weight and volume, instead of properties and mass.",Low,nan
+269800,Q30,D,C,False,Conceptual,The student incorrectly identified cathode rays as radiations instead of a stream of electrons.,Low,nan
+269800,Q31,D,C,False,Conceptual,The student incorrectly identified the composition of silk fibers; they are made of protein.,Low,nan
+269800,Q32,C,C,True,None,The student correctly identified the properties that make nylon useful.,High,nan
+269800,Q33,D,D,True,None,The student correctly identified the statement that is not true regarding polymers.,High,nan
+269800,Q34,D,B,False,Conceptual,The student incorrectly identified PET as rayon instead of polyester.,Low,nan
+269800,Q35,C,D,False,Conceptual,The student incorrectly associated cellulose with the characteristic smell of fruits; esters are responsible for the smell.,Low,nan
+269800,Q36,C,C,True,None,The student correctly identified the labelled parts of the cell.,High,nan
+269800,Q37,D,A,False,Conceptual,The student failed to correctly identify the structure that is not different between E.coli and Spirogyra.,Low,nan
+269800,Q38,C,A,False,Conceptual,The student incorrectly stated that the structures created by stacking of organized flattened membranous sacs in the chloroplasts are stroma instead of grana.,Low,nan
+269800,Q39,B,D,False,Conceptual,The student incorrectly stated that Phospholipids is not present in the cell membrane.,Low,nan
+269800,Q40,A,A,True,None,The student correctly identified the nerve cell as the longest cell in the human body.,High,nan
+269800,Q41,D,A,False,Conceptual,The student incorrectly identified Saccharomyces cerevisiae as Acidophilus instead of Yeast.,Low,nan
+269800,Q42,C,C,True,None,The student correctly stated that the process of fermentation was discovered by Louis Pasteur.,High,nan
+269800,Q43,A,A,True,None,The student correctly identified the type of respiration that converts lactose to lactic acid.,High,nan
+269800,Q44,D,D,True,None,The student correctly identified the habitat for micro-organisms.,High,nan
+269800,Q45,B,B,True,None,"The student correctly identified the gas that makes bread, cakes and pastry soft and fluffy.",High,nan
+270700,Q1,D,D,True,None,"The student correctly identified the relationship between 9 and 27 as x : x*3 and applied it to option D, where 81 : 729 follows the same pattern.",High,nan
+270700,Q2,C,C,True,None,The student correctly deciphered the code and identified '8b' as the code for 'enmity'.,High,nan
+270700,Q3,B,D,False,Conceptual,The student incorrectly identified the couple in the family relationship puzzle; the correct answer was none of the options provided.,Low,nan
+270700,Q4,,D,False,None,The student did not attempt this question.,Low,nan
+270700,Q5,B,B,True,None,The student correctly determined the fares for cities B and C from A by setting up and solving a system of two equations.,High,nan
+270700,Q6,A,A,True,None,The student correctly converted the repeating decimal 0.135135... into the fraction 5/37.,High,nan
+270700,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational; it can be real.,Low,nan
+270700,Q8,D,D,True,None,"The student correctly expressed the decimal 0.45235 as a fraction, 4519/9990.",High,nan
+270700,Q9,A,A,True,None,The student correctly identified the least positive fraction that must be added to the given expression to make the result an integer.,High,nan
+270700,Q10,C,B,False,Calculation,The student incorrectly calculated the original fraction after the numerator was increased by 150% and the denominator by 200%.,Low,nan
+270700,Q11,A,A,True,None,The student correctly simplified the expression to obtain 3.28.,High,nan
+270700,Q12,C,C,True,None,The student correctly solved for x in the equation to get x = 2.,High,nan
+270700,Q13,A,B,False,Conceptual,The student incorrectly determined the relationship between x and y after solving the two given equations.,Low,nan
+270700,Q14,D,A,False,Conceptual,The student incorrectly solved for the value of the expression.,Low,nan
+270700,Q15,A,A,True,None,The student correctly determined the value of 3pqr.,High,nan
+270700,Q16,C,A,False,Calculation,The student incorrectly calculated the pressure exerted by the block on the table.,Low,nan
+270700,Q17,A,C,False,Conceptual,The student incorrectly identified the longest duration of time.,Low,nan
+270700,Q18,B,D,False,Conceptual,"The student incorrectly determined the net force acting on the space probe, choosing 'greater than zero' when it should be zero due to constant velocity.",Low,nan
+270700,Q19,A,A,True,None,The student correctly found the relationship between the magnitudes of the forces Fx and Fy.,High,nan
+270700,Q20,C,D,False,Conceptual,"The student incorrectly identified pressure as a base quantity and a scalar, rather than a derived quantity and a scalar.",Low,nan
+270700,Q21,D,D,True,None,The student correctly related the area of the nail tip to the pressure exerted when hammered.,High,nan
+270700,Q22,B,B,True,None,The student correctly identified the formula relating thrust force to change in motion.,High,nan
+270700,Q23,B,C,False,Conceptual,"The student incorrectly predicted what happens to wavelength when wave speed increases but frequency remains constant, not knowing the direct proportionality.",Low,nan
+270700,Q24,A,D,False,Conceptual,The student incorrectly associated compressions and rarefactions with water waves instead of longitudinal waves.,Low,nan
+270700,Q25,C,C,True,None,The student correctly calculated the time it takes for sound to travel 1650 m.,High,nan
+270700,Q26,C,C,True,None,The student correctly identified the Dalton's Atomic Theory postulate that relates to the law of conservation of mass.,High,nan
+270700,Q27,D,D,True,None,The student correctly identified the point of Dalton's atomic theory that still holds true according to modern atomic theory.,High,nan
+270700,Q28,B,B,True,None,"The student correctly stated that according to Dalton's Atomic Theory, matter consists of indivisible atoms.",High,nan
+270700,Q29,C,A,False,Conceptual,The student incorrectly answered that all atoms of a given element have identical volume and properties instead of identical properties and mass.,Low,nan
+270700,Q30,C,C,True,None,The student correctly identified cathode rays as a stream of electrons.,High,nan
+270700,Q31,C,C,True,None,The student correctly identified that silk fibers are made of protein.,High,nan
+270700,Q32,A,C,False,Conceptual,"The student incorrectly answered that Nylon is soft, strong, and light, instead of strong, elastic and light.",Low,nan
+270700,Q33,A,D,False,Conceptual,The student incorrectly identified that polymer occurs in nature as not true instead of cotton thread is stronger than nylon thread.,Low,nan
+270700,Q34,B,B,True,None,The student correctly identified PET as a familiar form of Polyester.,High,nan
+270700,Q35,D,D,True,None,The student correctly answered that fruits have their characteristic smell because of esters.,High,nan
+270700,Q36,B,C,False,Conceptual,The student incorrectly identified the labelled parts of the cell diagram.,Low,nan
+270700,Q37,C,A,False,Conceptual,The student incorrectly said chromosomal organization is not different between E.coli and spirogyra.,Low,nan
+270700,Q38,D,A,False,Conceptual,"The student incorrectly identified stroma lamellae as the structure created by stacking of organized flattened membranous sacs in the chloroplasts, the correct answer is grana.",Low,nan
+270700,Q39,B,D,False,Conceptual,"The student incorrectly identified phospholipids as not present in the cell membrane, but it should have been Proline.",Low,nan
+270700,Q40,D,A,False,Conceptual,The student incorrectly answered that the longest cell in the human body is a Kidney cell instead of a Nerve cell.,Low,nan
+270700,Q41,D,A,False,Conceptual,The student incorrectly guessed 'Acidophilus' is another name for Saccharomyces cerevisiae.,Guess,nan
+270700,Q42,C,C,True,None,The student correctly identified Louis Pasteur as the discoverer of fermentation.,High,nan
+270700,Q43,C,A,False,Conceptual,"The student incorrectly assumed that both aerobic and anaerobic respiration convert lactose into lactic acid, instead of only anaerobic.",Low,nan
+270700,Q44,D,D,True,None,The student correctly identified all possible habitats for micro-organisms.,High,nan
+270700,Q45,B,B,True,None,"The student correctly identified carbon dioxide as the gas that makes breads, cakes and pastries soft and fluffy.",High,nan
+279200,Q1,D,D,True,None,"The student correctly identified the relationship between 9 and 27, and applied the same logic to find the correct pair 81 : 729.",High,nan
+279200,Q2,B,C,False,Conceptual,The student incorrectly decoded the code language by not properly associating the codes with the words.,Low,nan
+279200,Q3,B,D,False,Conceptual,"The student failed to correctly determine the relationships within the family tree, leading to an incorrect selection of the couple.",Low,nan
+279200,Q4,D,D,True,None,The student correctly identified the pattern and determined the missing letter.,High,nan
+279200,Q5,B,B,True,None,The student correctly set up and solved the system of equations to find the fares for cities B and C.,High,nan
+279200,Q6,A,A,True,None,The student correctly converted the repeating decimal to a fraction.,High,nan
+279200,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational.,Low,nan
+279200,Q8,D,D,True,None,The student correctly expressed the decimal as a fraction.,High,nan
+279200,Q9,A,A,True,None,The student correctly found the least positive fraction that must be added to the given expression to result in an integer.,High,nan
+279200,Q10,B,B,True,None,The student correctly calculated the original fraction after the numerator and denominator were increased.,High,nan
+279200,Q11,A,A,True,None,The student correctly simplified the given expression.,High,nan
+279200,Q12,C,C,True,None,The student correctly found the value of x.,High,nan
+279200,Q13,B,B,True,None,The student correctly solved both equations and established the correct relationship between x and y.,High,nan
+279200,Q14,D,A,False,Conceptual,The student failed to correctly substitute and simplify to find the correct answer.,Low,nan
+279200,Q15,A,A,True,None,The student correctly applied algebraic manipulations to find the value of 3pqr.,High,nan
+279200,Q16,B,A,False,Conceptual,The student calculated the pressure incorrectly; potentially a misunderstanding of the formula or unit conversions.,Low,nan
+279200,Q17,C,C,True,None,The student correctly identified the expression representing the longest duration of time by comparing different units.,High,nan
+279200,Q18,D,D,True,None,The student correctly stated that the net force acting on the probe is zero because it is moving at a constant velocity.,High,nan
+279200,Q19,A,A,True,None,The student correctly used Newton's second law to relate the forces and accelerations of the two objects.,High,nan
+279200,Q20,D,D,True,None,The student correctly identified pressure as a derived quantity and a scalar.,High,nan
+279200,Q21,D,D,True,None,The student correctly stated that reducing the area of the tip increases the pressure for a given force.,High,nan
+279200,Q22,D,B,False,Conceptual,The student incorrectly chose a formula that does not represent the relationship between thrust force and the rocket's change in motion.,Low,nan
+279200,Q23,C,C,True,None,"The student correctly related the wave's speed, frequency, and wavelength using the wave equation.",High,nan
+279200,Q24,C,D,False,Conceptual,The student incorrectly identified the type of wave characterized by compressions and rarefactions.,Low,nan
+279200,Q25,A,C,False,Calculation,The student calculated the time incorrectly; they may have divided instead of multiplying or used the wrong formula.,Low,nan
+279200,Q26,C,C,True,None,The student correctly identified the postulate of Dalton's atomic theory related to the law of conservation of mass.,High,nan
+279200,Q27,C,D,False,Conceptual,The student selected the incorrect point of Dalton's atomic theory that is true according to modern atomic theory.,Low,nan
+279200,Q28,B,B,True,None,The student correctly stated that matter consists of indivisible atoms according to Dalton's Atomic Theory.,High,nan
+279200,Q29,A,A,True,None,The student correctly identified that all atoms of a given element have identical properties including identical mass.,High,nan
+279200,Q30,B,C,False,Conceptual,The student incorrectly identified cathode rays as a stream of alpha particles rather than electrons.,Low,nan
+279200,Q31,C,C,True,None,The student correctly identified that silk fibres are made up of protein.,High,nan
+279200,Q32,C,C,True,None,The student correctly identified the properties that make nylon useful.,High,nan
+279200,Q33,D,D,True,None,The student correctly identified the statement that is not true regarding polymers.,High,nan
+279200,Q34,B,B,True,None,The student correctly identified PET as a familiar form of polyester.,High,nan
+279200,Q35,D,D,True,None,The student correctly associated the characteristic smell of fruits with esters.,High,nan
+279200,Q36,C,C,True,None,The student correctly identified the parts labeled in the diagram.,High,nan
+279200,Q37,A,A,True,None,The student correctly identified the common component between E.coli and Spirogyra.,High,nan
+279200,Q38,D,A,False,Conceptual,The student incorrectly identified the structures created by stacking of organized flattened membranous sacs in the chloroplasts.,Low,nan
+279200,Q39,B,D,False,Conceptual,The student incorrectly stated that Phospholipids is not present in the cell membrane.,Low,nan
+279200,Q40,A,A,True,None,The student correctly identified the nerve cell as the longest cell in the human body.,High,nan
+279200,Q41,D,A,False,Conceptual,The student incorrectly identified Saccharomyces cerevisiae.,Low,nan
+279200,Q42,C,C,True,None,The student correctly identified Louis Pasteur as the discoverer of fermentation.,High,nan
+279200,Q43,A,A,True,None,The student correctly stated that the lactose in milk is converted into lactic acid by anaerobic respiration.,High,nan
+279200,Q44,D,D,True,None,The student correctly identified the habitats for micro-organisms.,High,nan
+279200,Q45,B,B,True,None,"The student correctly identified the gas responsible for making breads, cakes and pastry soft and fluffy.",High,nan
+284400,Q1,D,D,True,None,The student correctly identified the relationship between 9 and 27 as being the same as between 81 and 729.,High,nan
+284400,Q2,B,C,False,Conceptual,The student incorrectly identified 'enmity' in the coded language; the correct answer requires comparing the sentences to isolate the common word.,Low,nan
+284400,Q3,B,D,False,Conceptual,The student failed to deduce the correct couple from the family relationships given.,Low,nan
+284400,Q4,C,D,False,Conceptual,The student did not identify the pattern to find the missing letter.,Low,nan
+284400,Q5,B,B,True,None,The student correctly determined the fares for cities B and C from city A by solving the system of equations.,Medium,nan
+284400,Q6,C,A,False,Calculation,The student incorrectly converted the repeating decimal 0.135135... into a fraction.,Low,nan
+284400,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational; the sum can be real.,Low,nan
+284400,Q8,B,D,False,Calculation,The student did not correctly express the decimal 0.45235 as a fraction.,Low,nan
+284400,Q9,C,A,False,Calculation,The student did not determine the least positive fraction that must be added to the given expression to produce an integer.,Low,nan
+284400,Q10,B,B,True,None,The student correctly found the original fraction by using the information about the increased numerator and denominator.,Medium,nan
+284400,Q11,B,A,False,Calculation,The student incorrectly evaluated the given expression involving square roots.,Low,nan
+284400,Q12,A,C,False,Calculation,The student did not solve for x correctly in the given exponential equation.,Low,nan
+284400,Q13,B,B,True,None,The student correctly solved both equations and established the relationship between x and y.,Medium,nan
+284400,Q14,A,A,True,None,The student found the correct value of the expression.,Medium,nan
+284400,Q15,C,A,False,Calculation,The student did not calculate the value of 3pqr given the equations.,Low,nan
+284400,Q16,D,A,False,Conceptual,"The student failed to calculate the pressure exerted by the block on the table, possibly misapplying the formula or converting units incorrectly.",Low,nan
+284400,Q17,C,C,True,None,The student correctly identified the longest duration of time among the given options.,Medium,nan
+284400,Q18,A,D,False,Conceptual,"The student incorrectly stated the net force, not recognizing that constant velocity implies zero net force.",Low,nan
+284400,Q19,A,A,True,None,The student correctly related the forces FX and FY based on the given accelerations and equal masses of the objects.,Medium,nan
+284400,Q20,C,D,False,Conceptual,The student incorrectly identified pressure as a base quantity and a scalar; it is a derived quantity.,Low,nan
+284400,Q21,D,D,True,None,"The student correctly described the relationship between area, force, and pressure when hammering a nail.",Medium,nan
+284400,Q22,D,B,False,Conceptual,The student selected the incorrect formula relating thrust force and the rocket's change in motion.,Low,nan
+284400,Q23,B,C,False,Conceptual,"The student incorrectly stated that the wavelength remains unchanged; it must increase proportionally with the speed, given constant frequency.",Low,nan
+284400,Q24,C,D,False,Conceptual,The student incorrectly identified the type of wave characterized by compressions and rarefactions.,Low,nan
+284400,Q25,B,C,False,Calculation,"The student did not correctly calculate the time it takes for the sound to reach the observer, perhaps due to a miscalculation.",Low,nan
+284400,Q26,D,C,False,Conceptual,The student incorrectly identified which of Dalton's postulates gives the laws of conservation of mass.,Low,nan
+284400,Q27,C,D,False,Conceptual,The student incorrectly identified the correct point of Dalton's atomic theory that is true according to modern atomic theory.,Low,nan
+284400,Q28,B,B,True,None,The student correctly recalled that Dalton's Atomic Theory states that matter consists of indivisible atoms.,High,nan
+284400,Q29,A,A,True,None,"The student correctly identified that all atoms of a given element have identical properties, including identical mass.",Medium,nan
+284400,Q30,A,C,False,Conceptual,The student incorrectly identified cathode rays as electromagnetic waves instead of a stream of electrons.,Low,nan
+284400,Q31,D,C,False,Conceptual,The student incorrectly identified the material that silk fibres are made of.,Low,nan
+284400,Q32,C,C,True,None,The student correctly identified the properties that make nylon useful.,Medium,nan
+284400,Q33,D,D,True,None,The student correctly identified the statement that is not true.,Medium,nan
+284400,Q34,B,B,True,None,The student correctly stated that PET is a familiar form of Polyester.,High,nan
+284400,Q35,A,D,False,Conceptual,The student incorrectly identified the chemical responsible for the characteristic smell of fruits.,Low,nan
+284400,Q36,C,C,True,None,"The student correctly identified the parts labelled as C, D, E, F.",High,nan
+284400,Q37,D,A,False,Conceptual,The student incorrectly answered the question of what is not different between E.coli and Spirogyra.,Low,nan
+284400,Q38,B,A,False,Conceptual,The student incorrectly identified the structures formed by stacking of organized flattened membranous sacs in chloroplasts.,Low,nan
+284400,Q39,C,D,False,Conceptual,The student incorrectly stated that protein is not present in the cell membrane.,Low,nan
+284400,Q40,A,A,True,None,The student correctly identified the longest cell in the human body as the nerve cell.,High,nan
+284400,Q41,B,A,False,Conceptual,The student incorrectly named Saccharomyces cerevisiae.,Low,nan
+284400,Q42,A,C,False,Conceptual,The student incorrectly answered who discovered the process of fermentation.,Low,nan
+284400,Q43,B,A,False,Conceptual,The student incorrectly stated that the lactose in milk is converted into lactic acid by aerobic respiration.,Low,nan
+284400,Q44,D,D,True,None,The student correctly answered the habitat for micro-organisms.,High,nan
+284400,Q45,C,B,False,Conceptual,"The student incorrectly stated that carbon monoxide is the gas that makes breads, cakes and pastry become soft and fluffy.",Low,nan
+287100,Q1,A,D,False,Conceptual,The student did not identify the correct relationship between 9 and 27 (x: x*3) and 81 and 729.,Low,nan
+287100,Q2,A,C,False,Conceptual,The student failed to correctly decode the language pattern to identify the word for 'enmity'.,Low,nan
+287100,Q3,C,D,False,Conceptual,The student incorrectly deduced the family relationship based on the given statements.,Low,nan
+287100,Q4,B,D,False,Conceptual,The student was unable to identify the pattern in the arrangement of letters.,Low,nan
+287100,Q5,D,B,False,Conceptual,The student could not formulate and solve the simultaneous equations to find the fares for cities B and C.,Low,nan
+287100,Q6,C,A,False,Conceptual,The student was unable to convert the repeating decimal into a fraction.,Low,nan
+287100,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational; it can be real.,Low,nan
+287100,Q8,B,D,False,Conceptual,The student could not express the given decimal as a fraction.,Low,nan
+287100,Q9,B,A,False,Conceptual,The student failed to calculate the least positive fraction that needs to be added to the given expression to obtain an integer.,Low,nan
+287100,Q10,D,B,False,Conceptual,The student was unable to determine the original fraction given the changes in numerator and denominator.,Low,nan
+287100,Q11,A,A,True,None,The student correctly evaluated the expression.,High,nan
+287100,Q12,B,C,False,Conceptual,The student incorrectly solved for 'x' in the given exponential equation.,Low,nan
+287100,Q13,B,B,True,None,The student correctly solved the equations and identified the relationship between x and y.,High,nan
+287100,Q14,A,A,True,None,The student correctly calculated the value of the expression.,High,nan
+287100,Q15,B,A,False,Conceptual,The student incorrectly calculated the value of 3pqr given the provided equations.,Low,nan
+287100,Q16,C,A,False,Conceptual,"The student failed to correctly calculate the pressure exerted by the block on the table, confusing the relationship between surface area, volume, density, and pressure.",Low,nan
+287100,Q17,B,C,False,Conceptual,The student failed to convert the time units and compare them correctly.,Low,nan
+287100,Q18,B,D,False,Conceptual,The student incorrectly assumed that a constant velocity requires a non-zero net force.,Low,nan
+287100,Q19,A,A,True,None,The student correctly determined the relationship between the forces FX and FY based on the given accelerations and equal masses.,High,nan
+287100,Q20,A,D,False,Conceptual,The student incorrectly stated that pressure is a base quantity and a vector.,Low,nan
+287100,Q21,C,D,False,Conceptual,"The student chose an incorrect relationship between area, force, and pressure, not understanding the inverse relationship between area and pressure for a given force.",Low,nan
+287100,Q22,B,B,True,None,The student correctly identified the formula that relates force and change in momentum over time.,High,nan
+287100,Q23,A,C,False,Conceptual,"The student failed to relate wave speed, frequency, and wavelength correctly; if speed increases and frequency is constant, wavelength also increases.",Low,nan
+287100,Q24,D,D,True,None,The student correctly identified that compressions and rarefactions are characteristic of longitudinal waves.,High,nan
+287100,Q25,C,C,True,None,The student correctly calculated the time it takes for sound to travel a given distance.,High,nan
+287100,Q26,C,C,True,None,The student correctly identified Dalton's postulate that relates to the law of conservation of mass.,High,nan
+287100,Q27,A,D,False,Conceptual,The student incorrectly identified the statement of Dalton's atomic theory that still holds true.,Low,nan
+287100,Q28,B,B,True,None,The student correctly recalled that Dalton's Atomic Theory states that matter consists of indivisible atoms.,High,nan
+287100,Q29,A,A,True,None,"The student correctly identified that all atoms of a given element have identical properties, including mass.",High,nan
+287100,Q30,A,C,False,Conceptual,The student incorrectly identified cathode rays as electromagnetic waves instead of a stream of electrons.,Low,nan
+287100,Q31,C,C,True,None,The student correctly stated that silk fibers are made up of protein.,High,nan
+287100,Q32,C,C,True,None,"The student correctly stated that nylon is useful because it is strong, elastic, and light.",High,nan
+287100,Q33,A,D,False,Conceptual,The student incorrectly identified the false statement; cotton thread is weaker than nylon thread.,Low,nan
+287100,Q34,B,B,True,None,The student correctly identified PET as a familiar form of Polyester.,High,nan
+287100,Q35,D,D,True,None,The student correctly identified esters as the chemical responsible for the characteristic smell of fruits.,High,nan
+287100,Q36,C,C,True,None,The student correctly identified the parts labelled in the diagram.,High,nan
+287100,Q37,D,A,False,Conceptual,The student incorrectly identified the common feature between E.coli and Spirogyra; both have a cell membrane.,Low,nan
+287100,Q38,C,A,False,Conceptual,"The student misidentified the structures created by stacking of organized flattened membranous sacs in the chloroplasts; they are grana, not stroma.",Low,nan
+287100,Q39,D,D,True,None,The student correctly identified that proline is not present in the cell membrane.,High,nan
+287100,Q40,A,A,True,None,The student correctly identified the nerve cell as the longest cell in the human body.,High,nan
+287100,Q41,C,A,False,Conceptual,"The student incorrectly identified Saccharomyces cerevisiae; it is another name for Yeast, not Rhizopus.",Low,nan
+287100,Q42,A,C,False,Conceptual,The student incorrectly stated that fermentation was discovered by Fleming instead of Louis Pasteur.,Low,nan
+287100,Q43,B,A,False,Conceptual,The student failed to identify that lactose in milk is converted into lactic acid by anaerobic respiration.,Low,nan
+287100,Q44,D,D,True,None,"The student correctly identified that micro-organisms can exist in air, water and soil.",High,nan
+287100,Q45,C,B,False,Conceptual,"The student incorrectly identified the gas that makes bread, cakes and pastry soft and fluffy as CO, while it is CO2.",Low,nan
+981995,Q1,A,D,False,Conceptual,"The relationship between 9 and 27 is that 27 is 9 multiplied by 3, while 729 is 81 multiplied by 9; the student incorrectly chose 5:125 where 125 is 5 cubed.",Low,nan
+981995,Q2,B,C,False,Conceptual,"The student incorrectly identified '7c' as 'enmity', but '8b' is the code for 'enmity' based on the given code language.",Low,nan
+981995,Q3,C,D,False,Conceptual,"The student incorrectly chose 'EB' as one of the couples, but the correct answer is 'none of these' based on the family relationships provided.",Low,nan
+981995,Q4,B,D,False,Conceptual,"The student incorrectly chose 'L', but the correct answer is 'I' based on the pattern in the letter series.",Low,nan
+981995,Q5,A,B,False,Conceptual,"The student selected the incorrect fares for cities B and C from A; the correct fares are Rs. 13 and Rs. 17, respectively, as derived from the system of equations.",Low,nan
+981995,Q6,A,A,True,None,The student correctly converted the repeating decimal 0.135135... to the fraction 5/37.,Medium,nan
+981995,Q7,C,C,True,None,The student correctly stated that the sum of two irrational numbers is always real.,Medium,nan
+981995,Q8,C,D,False,Conceptual,The student incorrectly expressed 0.45235 as a fraction; the correct fraction is 4519/9990.,Low,nan
+981995,Q9,A,A,True,None,The student correctly identified 1/5 as the least positive fraction needed to make the result an integer.,Medium,nan
+981995,Q10,C,B,False,Conceptual,The student incorrectly calculated the original fraction; the correct fraction is 12/19 given the increase in numerator and denominator.,Low,nan
+981995,Q11,A,A,True,None,The student correctly calculated the value of the expression as 3.28.,Medium,nan
+981995,Q12,C,C,True,None,The student correctly found the value of x to be 2.,Medium,nan
+981995,Q13,C,B,False,Conceptual,The student incorrectly determined the relationship between x and y; the correct relationship is x < y after solving the two equations.,Low,nan
+981995,Q14,B,A,False,Conceptual,The student calculated the incorrect value; the correct value is 36.,Low,nan
+981995,Q15,B,A,False,Conceptual,The student incorrectly computed 3pqr; the correct answer is -20.,Low,nan
+981995,Q16,A,A,True,None,The student correctly calculated the pressure exerted by the block as 800 Pa.,Medium,nan
+981995,Q17,B,C,False,Conceptual,"The student incorrectly chose 10^7 nanoseconds, while the longest duration of time is 10^-5 megasecond.",Low,nan
+981995,Q18,A,D,False,Conceptual,"The student incorrectly chose 10,000 N, but the net force acting on the probe is zero because it's moving at a constant velocity.",Low,nan
+981995,Q19,B,A,False,Conceptual,"The student incorrectly identified the relationship between FX and FY; the correct relationship is FY = 3FX, given the accelerations and equal masses.",Low,nan
+981995,Q20,D,D,True,None,The student correctly stated that pressure is a derived quantity and a scalar.,Medium,nan
+981995,Q21,D,D,True,None,The student correctly related the area of the nail tip to the increase in pressure for a given force.,Medium,nan
+981995,Q22,B,B,True,None,The student correctly selected the formula F = Δp/Δt to explain the relationship between thrust force and the rocket's change in motion.,Medium,nan
+981995,Q23,B,C,False,Conceptual,"The student incorrectly stated that wavelength remains unchanged but given constant frequency, the wavelength must increase as wave speed increases.",Low,nan
+981995,Q24,C,D,False,Conceptual,"The student incorrectly chose electromagnetic waves, while compressions and rarefactions characterize longitudinal waves.",Low,nan
+981995,Q25,C,C,True,None,The student correctly calculated the time it takes for the observer to hear the sound as 5.0 s.,Medium,nan
+981995,Q26,C,C,True,None,"The student correctly identified that Dalton's postulate ""Atom can neither be created nor be destroyed"" gives laws of conservation of mass.",Medium,nan
+981995,Q27,D,D,True,None,"The student correctly selected 'Atom is the smallest unit of matter, which takes part in a chemical reaction' as a point of Dalton atomic theory that is true according to modern atomic theory.",Medium,nan
+981995,Q28,B,B,True,None,The student correctly stated that Dalton's Atomic Theory says matter consists of indivisible atoms.,Medium,nan
+981995,Q29,B,A,False,Conceptual,The student incorrectly chose weight and volume; the correct answer is properties and mass for atoms of a given element.,Low,nan
+981995,Q30,C,C,True,None,The student correctly identified cathode rays as a stream of electrons.,Medium,nan
+981995,Q31,C,C,True,None,The student correctly stated that silk fibers are made up of protein.,Medium,nan
+981995,Q32,A,C,False,Conceptual,"The student incorrectly selected 'soft, strong and light', but nylon is useful because it is strong, elastic, and light.",Low,nan
+981995,Q33,A,D,False,Conceptual,"The student incorrectly chose 'Polymer occur in nature', but the statement 'Cotton thread is stronger than nylon thread' is NOT TRUE.",Low,nan
+981995,Q34,B,B,True,None,The student correctly identified PET as a familiar form of Polyester.,Medium,nan
+981995,Q35,D,D,True,None,The student correctly identified esters as the chemical that gives fruits their characteristic smell.,Medium,nan
+981995,Q36,C,C,True,None,"The student correctly identified the labeled parts as Mitochondria, Vacuole, Cell wall, and Cell membrane.",Medium,nan
+981995,Q37,C,A,False,Conceptual,"The student incorrectly stated chromosomal organization is not different, but E.coli and Spirogyra both have cell membrane.",Low,nan
+981995,Q38,C,A,False,Conceptual,"The student incorrectly identified 'Stroma'; the correct answer is 'Grana', which are formed by stacking of organized flattened membranous sacs in chloroplasts.",Low,nan
+981995,Q39,D,D,True,None,The student correctly identified that Proline is not present in the cell membrane.,Medium,nan
+981995,Q40,A,A,True,None,The student correctly identified the nerve cell as the longest cell in the human body.,Medium,nan
+981995,Q41,A,A,True,None,The student correctly identified Saccharomyces cerevisiae as another name for Yeast.,Medium,nan
+981995,Q42,B,C,False,Conceptual,"The student incorrectly chose Robert Brown, but Louis Pasteur discovered the process of fermentation.",Low,nan
+981995,Q43,A,A,True,None,The student correctly identified that lactose in milk is converted into lactic acid by anaerobic respiration.,Medium,nan
+981995,Q44,D,D,True,None,"The student correctly selected that the habitat for micro-organisms can be air, water, and soil.",Medium,nan
+981995,Q45,B,B,True,None,"The student correctly identified that bread, cakes, and pastries become soft and fluffy due to CO2 gas.",Medium,nan
+992973,Q1,D,D,True,None,The student correctly identified that 9 is the cube root of 27 and 81 is the cube root of 729.,High,nan
+992973,Q2,D,C,False,Conceptual,The student incorrectly identified the code for 'enmity'; it requires comparing the given statements to isolate the code corresponding to the word 'enmity'.,Low,nan
+992973,Q3,B,D,False,Conceptual,The student failed to deduce the correct couple from the family relationships described in the question.,Low,nan
+992973,Q4,D,D,True,None,The student correctly identified the missing letter in the sequence.,High,nan
+992973,Q5,C,B,False,Calculation,The student selected an incorrect option after setting up the equations to find fares for cities B and C from A.,Low,nan
+992973,Q6,A,A,True,None,The student correctly converted the repeating decimal to a fraction.,High,nan
+992973,Q7,B,C,False,Conceptual,The student incorrectly stated that the sum of two irrational numbers is always irrational; it can be real.,Low,nan
+992973,Q8,D,D,True,None,The student correctly expressed the decimal as a fraction.,High,nan
+992973,Q9,A,A,True,None,The student correctly found the least positive fraction to add to get an integer result.,High,nan
+992973,Q10,A,B,False,Calculation,The student made an error in calculating the original fraction after the numerator and denominator were increased by certain percentages.,Low,nan
+992973,Q11,A,A,True,None,The student correctly simplified the expression.,High,nan
+992973,Q12,C,C,True,None,The student correctly solved for x.,High,nan
+992973,Q13,D,B,False,Conceptual,The student failed to establish the correct relationship between x and y after solving the given equations.,Low,nan
+992973,Q14,B,A,False,Calculation,The student selected an incorrect value after substituting the given value in the expression.,Low,nan
+992973,Q15,C,A,False,Calculation,The student failed to correctly calculate the value of 3pqr.,Low,nan
+992973,Q16,C,A,False,Conceptual,"The student calculated pressure incorrectly using the density, area, and gravitational acceleration.",Low,nan
+992973,Q17,C,C,True,None,The student correctly identified the longest duration of time among the given options.,High,nan
+992973,Q18,B,D,False,Conceptual,The student did not recognize that the net force is zero when an object is moving at a constant velocity.,Low,nan
+992973,Q19,C,A,False,Conceptual,The student incorrectly related the forces FX and FY based on the given accelerations and equal masses.,Low,nan
+992973,Q20,B,D,False,Conceptual,The student incorrectly identified pressure as a vector quantity; pressure is a derived scalar quantity.,Low,nan
+992973,Q21,D,D,True,None,The student correctly explained how reducing the area of contact increases pressure for a given force.,High,nan
+992973,Q22,A,B,False,Conceptual,"The student selected the incorrect formula to explain the relationship between thrust and change in motion, instead of the impulse formula.",Low,nan
+992973,Q23,B,C,False,Conceptual,"The student incorrectly stated that wavelength remains unchanged, instead of increasing, when wave speed increases but frequency stays constant.",Low,nan
+992973,Q24,C,D,False,Conceptual,"The student incorrectly associated compressions and rarefactions with electromagnetic waves, rather than longitudinal waves.",Low,nan
+992973,Q25,C,C,True,None,The student correctly calculated the time it takes for sound to reach the observer.,High,nan
+992973,Q26,A,C,False,Conceptual,The student incorrectly identified which postulate gives the law of conservation of mass; it is that atoms can neither be created nor destroyed.,Low,nan
+992973,Q27,C,D,False,Conceptual,"The student selected the incorrect point of Dalton's atomic theory which holds true, as per the modern atomic theory.",Low,nan
+992973,Q28,B,B,True,None,The student correctly stated that matter consists of indivisible atoms according to Dalton's Atomic Theory.,High,nan
+992973,Q29,A,A,True,None,"The student correctly identified that atoms of a given element have identical properties, including identical mass.",High,nan
+992973,Q30,B,C,False,Conceptual,The student incorrectly identified cathode rays as a stream of alpha particles instead of a stream of electrons.,Low,nan
+992973,Q31,C,C,True,None,The student correctly stated that silk fibres are made up of protein.,High,nan
+992973,Q32,D,C,False,Conceptual,"The student selected the incorrect properties of nylon; nylon is strong, elastic and light.",Low,nan
+992973,Q33,D,D,True,None,The student correctly identified the statement that is not true.,High,nan
+992973,Q34,A,B,False,Conceptual,The student incorrectly stated that PET is a form of plastic; it is polyester.,Low,nan
+992973,Q35,B,D,False,Conceptual,The student incorrectly associated the smell of fruits with aedes instead of esters.,Low,nan
+992973,Q36,C,C,True,None,The student correctly identified the labelled parts of the diagram.,High,nan
+992973,Q37,B,A,False,Conceptual,The student incorrectly identified the component that is not different between E.coli and Spirogyra.,Low,nan
+992973,Q38,C,A,False,Conceptual,The student incorrectly associated structures created by stacking of organized flattened membranous sacs with stroma instead of grana.,Low,nan
+992973,Q39,A,D,False,Conceptual,The student incorrectly stated that carbohydrates are not present in the cell membrane; proline is not present.,Low,nan
+992973,Q40,B,A,False,Conceptual,"The student incorrectly stated the longest cell is muscle cell, whereas it is nerve cell.",Low,nan
+992973,Q41,D,A,False,Conceptual,The student incorrectly identified Saccharomyces cerevisiae as acidophilus instead of yeast.,Low,nan
+992973,Q42,B,C,False,Conceptual,The student incorrectly identified Robert Brown as the discoverer of fermentation; it was Louis Pasteur.,Low,nan
+992973,Q43,B,A,False,Conceptual,The student incorrectly identified the process of lactose conversion as aerobic respiration instead of anaerobic.,Low,nan
+992973,Q44,D,D,True,None,The student correctly identified the habitat for micro-organisms.,High,nan
+992973,Q45,B,B,True,None,"The student correctly identified that carbon dioxide causes breads, cakes and pastry to become soft and fluffy.",High,nan

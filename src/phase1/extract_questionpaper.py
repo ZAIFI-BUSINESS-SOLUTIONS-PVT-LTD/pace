@@ -22,6 +22,11 @@ def process():
     all_questions = []
     
     for page_num, text in load_pdf_pages(input_path):
+        # SKIP EMPTY PAGES to avoid hallucination
+        if not text or len(text.strip()) < 50:
+            logger.warning(f"Page {page_num} has insufficient text ({len(text) if text else 0} chars). Skipping to avoid hallucinations.")
+            continue
+
         logger.info(f"Processing Page {page_num}...")
         try:
             data = call_gemini_json(PHASE_1_EXTRACT_QUESTION_PROMPT, text)
@@ -35,26 +40,38 @@ def process():
                      all_questions.append(data)
         except Exception as e:
             logger.error(f"Failed to extract from page {page_num}: {e}")
-            # we continue to next page? User said "Fail loudly if anything breaks". 
-            # But maybe strict failure means stop? User said "Stop ... if any step fails".
-            # This is a step failure.
             raise
 
-    # Post-process to add question_id
-    final_questions = []
+    # Post-process to add question_id AND DEDUPLICATE (Keep Last)
+    q_map = {}
+    
     for q in all_questions:
         try:
             q_num = q.get("question_number")
             if q_num:
-                q["question_id"] = f"Q{q_num}"
-                final_questions.append(q)
+                question_id = f"Q{q_num}"
+                q["question_id"] = question_id
+                
+                if question_id in q_map:
+                    logger.warning(f"Duplicate {question_id} detected. Overwriting previous entry.")
+                
+                q_map[question_id] = q
             else:
                  logger.warning(f"Skipping question without number: {q}")
         except Exception as e:
             logger.error(f"Error processing question item: {q} - {e}")
             raise
 
-    logger.info(f"Extracted {len(final_questions)} questions.")
+    # Convert back to list, sorted by question number
+    def get_sort_key(item):
+        try:
+            return int(item.get("question_number", 0))
+        except:
+            return 9999
+
+    final_questions = sorted(q_map.values(), key=get_sort_key)
+
+    logger.info(f"Extracted {len(final_questions)} unique questions.")
     
     output_data = {"questions": final_questions}
     

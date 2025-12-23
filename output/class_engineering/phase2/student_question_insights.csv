@@ -1,0 +1,541 @@
+student_id,question_id,selected_option,correct_option,is_correct,mistake_type,correctness_reason,confidence_signal,key_concept
+30193,Q1,A,D,False,Calculation,The student incorrectly calculated the values of k and a using the factor theorem.,Low,Factor Theorem and Polynomials
+30193,Q2,A,B,False,Calculation,"The student calculated an incorrect value for 'p', leading to a wrong value for 'k'.",Low,Quadratic Equations and Roots
+30193,Q3,C,A,False,Conceptual,The student failed to recognize that the negative of the remainder needs to be added to make the polynomial completely divisible.,Low,Polynomial Remainder Theorem
+30193,Q4,B,A,False,Calculation,"The student incorrectly solved the system of equations for infinite solutions, leading to wrong values for a and b.",Low,Systems of Linear Equations - Infinite Solutions
+30193,Q5,A,A,True,None,The student correctly calculated the speeds of the two cars.,High,UNKNOWN
+30193,Q6,D,D,True,None,The student correctly determined the fraction by setting up and solving the equations.,High,Fractions
+30193,Q7,D,D,True,None,The student correctly calculated the time taken by one woman to finish the work alone.,High,Work and Time
+30193,Q8,B,B,True,None,The student correctly found the polynomial with the given zeroes.,High,Polynomials
+30193,Q9,A,C,False,Calculation,The student made a calculation error when finding the product of the other two roots.,Low,Roots of equation
+30193,Q10,C,A,False,Calculation,The student made an error while solving the system of linear equations to find the price of the TV.,Low,Linear Equations
+30193,Q11,A,A,True,None,The student correctly determined the third root of the polynomial.,High,Roots of equation
+30193,Q12,B,C,False,Algebraic,The student failed to correctly identify the factor of the given polynomial.,Low,Algebraic manipulation
+30193,Q13,A,D,False,Algebraic,The student incorrectly applied the completing the square method and determined the incorrect value of c.,Low,Completing the Square
+30193,Q14,B,C,False,Calculation,The student made an error in calculating the value of 'b' from the sum and product of the roots.,Low,Roots of equation
+30193,Q15,C,C,True,None,The student correctly determined the number of 50 and 100 notes.,High,Linear Equations
+30193,Q16,D,A,False,Calculation,The student incorrectly determined the value of k.,Low,Quadratic Equations
+30193,Q17,D,C,False,Algebraic,The student did not correctly simplify the equation to find x-y.,Low,System of Equations
+30193,Q18,B,C,False,Calculation,The student made a calculation error solving the system of equations for the number of boys.,Low,Linear Equations
+30193,Q19,A,C,False,Calculation,The student incorrectly set up the equation based on the problem statement and derived the incorrect number.,Low,Number Systems
+30193,Q20,C,B,False,Conceptual,The student incorrectly determined the correct inequality to define 'k' for real roots.,Low,Discriminant
+30193,Q21,A,B,False,Calculation,The student made an error while solving for the total number of bananas.,Low,Ratio and Proportion
+30193,Q22,B,D,False,Calculation,The student made a calculation error in determining the length and breadth of the rectangle.,Low,Area of rectangle
+30193,Q23,B,D,False,Algebraic,The student made an error while performing polynomial division and deriving g(x).,Low,Polynomial Division
+30193,Q24,A,B,False,Algebraic,"The student incorrectly performed the polynomial division or factoring, failing to determine the positive rational root.",Low,Roots of Polynomials
+30193,Q25,D,C,False,Calculation,The student set up the equations incorrectly or made a calculation error while solving the system of equations.,Low,Ratio and Proportion
+30193,Q26,A,C,False,Guess,The student failed to identify the correct relationship between the numbers in the analogy.,Low,UNKNOWN
+30193,Q27,A,D,False,Guess,The student did not correctly count all squares in the picture.,Low,UNKNOWN
+30193,Q28,B,D,False,Guess,The student made an incorrect deduction based on the given statements.,Low,UNKNOWN
+30193,Q29,D,D,True,None,"The student correctly translated the artificial language to find the meaning of ""ceiling tile"".",High,UNKNOWN
+30193,Q30,D,D,True,None,The student correctly determined the relationship between X and Y.,High,UNKNOWN
+261900,Q1,B,D,False,Conceptual,"The student did not correctly apply the factor theorem to determine the values of 'k' and 'a', leading to an incorrect sum.",Low,Factor Theorem and Polynomials
+261900,Q2,D,B,False,Calculation,"The student made an error in calculating the value of 'p' after substituting -5 as a root, which propagated to the incorrect calculation of 'k'.",Low,Quadratic Equations and Roots
+261900,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to determine the constant to be added.,High,Polynomial Remainder Theorem
+261900,Q4,C,A,False,Calculation,"The student incorrectly solved the system of equations for infinite solutions, leading to incorrect values for 'a' and 'b'.",Low,Systems of Linear Equations - Infinite Solutions
+261900,Q5,A,A,True,None,The student correctly solved the word problem involving relative speeds to find the speeds of the two cars.,High,UNKNOWN
+261900,Q6,D,D,True,None,The student correctly translated the word problem into a system of equations and solved for the fraction.,High,Fractions
+261900,Q7,B,D,False,Calculation,"The student set up the equations correctly but made an error in solving them for the work done by one woman, leading to an incorrect number of days.",Low,Work and Time
+261900,Q8,C,B,False,Conceptual,The student demonstrated an incorrect methodology in determining the polynomial with roots derived from the original polynomial's roots.,Low,Polynomials
+261900,Q9,D,C,False,Conceptual,The student showed an error in applying the relationship between roots and coefficients to find the product of the other two roots.,Low,Roots of equation
+261900,Q10,B,A,False,Calculation,The student set up the equations correctly but made an error while solving for the price of the TV.,Low,Linear Equations
+261900,Q11,A,A,True,None,The student correctly applied the relationship between the roots and coefficients of the polynomial to find the third root.,High,Roots of equation
+261900,Q12,C,C,True,None,The student correctly identified one of the factors by algebraic manipulation.,High,Algebraic manipulation
+261900,Q13,B,D,False,Calculation,The student made a mistake in calculating the constant term 'c' after completing the square.,Low,Completing the Square
+261900,Q14,D,C,False,Calculation,The student made a mistake in finding 'b' after correctly obtaining 'a' by relating roots and coefficients.,Low,Roots of equation
+261900,Q15,C,C,True,None,The student correctly set up and solved the system of equations to find the number of each type of note.,High,Linear Equations
+261900,Q16,A,A,True,None,The student successfully used the relationship between roots and coefficients to solve for 'k'.,High,Quadratic Equations
+261900,Q17,B,C,False,Calculation,The student did not correctly solve the system of linear equations to arrive at the correct expression for x-y.,Low,System of Equations
+261900,Q18,C,C,True,None,The student correctly solved the word problem to determine the number of boys.,High,Linear Equations
+261900,Q19,D,C,False,Calculation,"The student made an error in translating the word problem into a system of equations, leading to an incorrect number.",Low,Number Systems
+261900,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots.,High,Discriminant
+261900,Q21,C,B,False,Calculation,The student made an error in setting up equations that describe cost relationships between lot A and B.,Low,Ratio and Proportion
+261900,Q22,A,D,False,Calculation,The student made a mistake when setting up and solving the equations for the area and perimeter.,Low,Area of rectangle
+261900,Q23,C,D,False,Conceptual,The student incorrectly manipulated the polynomial equation and did not find the roots of g(x) using correct polynomial long division.,Low,Polynomial Division
+261900,Q24,D,B,False,Conceptual,The student was not able to factorize the polynomial with the given root and did not identify the correct rational root.,Low,Roots of Polynomials
+261900,Q25,B,C,False,Calculation,The student appears to have made errors in setting up the equations from the word problem's conditions.,Low,Ratio and Proportion
+261900,Q26,C,C,True,None,The student correctly deduced the relationship between the numbers.,High,UNKNOWN
+261900,Q27,A,D,False,Guess,The student appears to have guessed and did not accurately count the squares in the image.,Low,UNKNOWN
+261900,Q28,D,D,True,None,The student correctly applied logic to determine that neither conclusion follows.,High,UNKNOWN
+261900,Q29,D,D,True,None,The student successfully identified the root words to make the correct translation.,High,UNKNOWN
+261900,Q30,B,D,False,Conceptual,The student misidentified the relationship between X and Y in the coded family relation.,Low,UNKNOWN
+265100,Q1,B,D,False,Conceptual,"The student did not correctly apply the factor theorem to find the values of 'k' and 'a', which are derived from the roots of the polynomials.",Medium,Factor Theorem and Polynomials
+265100,Q2,D,B,False,Conceptual,The student made an error in calculating the value of 'p' or 'k' after substituting the root into the quadratic equation.,Medium,Quadratic Equations and Roots
+265100,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to determine the constant that must be added.,High,Polynomial Remainder Theorem
+265100,Q4,D,A,False,Conceptual,The student chose the wrong values for 'a' and 'b' which do not satisfy the condition for infinite solutions of the system of linear equations.,Medium,Systems of Linear Equations - Infinite Solutions
+265100,Q5,A,A,True,None,The student correctly determined the speeds of the two cars based on their relative motion in the same and opposite directions.,High,UNKNOWN
+265100,Q6,D,D,True,None,The student correctly set up and solved the equations to find the fraction.,High,Fractions
+265100,Q7,D,D,True,None,The student correctly formed two equations based on the work done by men and women and solved for the time taken by one woman alone.,High,Work and Time
+265100,Q8,D,B,False,Conceptual,The student incorrectly calculated the polynomial from the given roots 1/α + β and 1/β + α.,Medium,Polynomials
+265100,Q9,B,C,False,Conceptual,The student used the incorrect sign when calculating the product of the roots.,Medium,Roots of equation
+265100,Q10,C,A,False,Conceptual,The student made an error in setting up or solving the system of linear equations to find the price of the TV.,Medium,Linear Equations
+265100,Q11,D,A,False,Conceptual,The student incorrectly determined the third root by not properly applying the relationship between the roots and coefficients of the polynomial.,Medium,Roots of equation
+265100,Q12,D,C,False,Conceptual,The student failed to correctly factor the given polynomial.,Medium,Algebraic manipulation
+265100,Q13,D,D,True,None,The student correctly completed the square and found the value of 'c'.,High,Completing the Square
+265100,Q14,A,C,False,Conceptual,The student incorrectly calculated the value of 'b' after finding 'a' from the sum of roots.,Medium,Roots of equation
+265100,Q15,C,C,True,None,The student correctly set up and solved the system of equations to find the number of each type of note.,High,Linear Equations
+265100,Q16,B,A,False,Conceptual,The student made a sign error when solving for 'k' after substituting the sum and product of the roots.,Medium,Quadratic Equations
+265100,Q17,B,C,False,Conceptual,The student did not correctly solve the system of equations to find the value of x - y.,Medium,System of Equations
+265100,Q18,C,C,True,None,The student correctly set up and solved the linear equations to find the number of boys.,High,Linear Equations
+265100,Q19,C,C,True,None,The student correctly formulated the equations based on the problem statement and found the two-digit number.,High,Number Systems
+265100,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots.,High,Discriminant
+265100,Q21,A,B,False,Conceptual,The student made a mistake in setting up the equations representing the total collection from selling the bananas at different rates.,Medium,Ratio and Proportion
+265100,Q22,A,D,False,Conceptual,"The student incorrectly solved the system of equations, leading to wrong length and breadth values.",Medium,Area of rectangle
+265100,Q23,D,D,True,None,The student correctly performed polynomial division and found the sum of the roots of g(x).,High,Polynomial Division
+265100,Q24,D,B,False,Conceptual,The student failed to identify the positive rational root after finding all roots using polynomial division.,Medium,Roots of Polynomials
+265100,Q25,C,C,True,None,The student correctly formulated and solved the system of equations to find the capital of each person.,High,Ratio and Proportion
+265100,Q26,C,C,True,None,The student successfully identified the numerical pattern to find the missing number.,High,UNKNOWN
+265100,Q27,D,D,True,None,The student correctly counted the number of squares in the picture.,High,UNKNOWN
+265100,Q28,B,D,False,Conceptual,The student misinterpreted the logic of the statements and selected the wrong conclusion.,Medium,UNKNOWN
+265100,Q29,D,D,True,None,The student accurately translated the artificial language and identified the word meaning 'ceiling tile'.,High,UNKNOWN
+265100,Q30,D,D,True,None,The student correctly deduced the relationship between X and Y based on the given information.,High,UNKNOWN
+268600,Q1,D,D,True,None,The student correctly applied the factor theorem and solved for a+k.,High,Factor Theorem and Polynomials
+268600,Q2,B,B,True,None,The student correctly found the value of p and then used the discriminant to find k.,High,Quadratic Equations and Roots
+268600,Q3,A,A,True,None,The student correctly determined what should be added based on the remainder.,High,Polynomial Remainder Theorem
+268600,Q4,A,A,True,None,The student correctly applied the condition for infinite solutions in a system of linear equations to solve for a and b.,High,Systems of Linear Equations - Infinite Solutions
+268600,Q5,D,A,False,UNKNOWN,The student's answer does not match the correct answer.,Low,UNKNOWN
+268600,Q6,D,D,True,None,The student correctly set up and solved the equations to find the fraction.,High,Fractions
+268600,Q7,B,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Work and Time
+268600,Q8,B,B,True,None,The student correctly found the roots and constructed the polynomial.,High,Polynomials
+268600,Q9,C,C,True,None,The student correctly used the relationship between roots and coefficients to find the product of the other roots.,High,Roots of equation
+268600,Q10,B,A,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Linear Equations
+268600,Q11,A,A,True,None,The student correctly applied the properties of roots to find the third root.,High,Roots of equation
+268600,Q12,C,C,True,None,The student correctly factored the given expression.,High,Algebraic manipulation
+268600,Q13,A,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Completing the Square
+268600,Q14,A,C,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Roots of equation
+268600,Q15,D,C,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Linear Equations
+268600,Q16,C,A,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Quadratic Equations
+268600,Q17,A,C,False,UNKNOWN,The student's answer does not match the correct answer.,Low,System of Equations
+268600,Q18,C,C,True,None,The student correctly set up and solved the linear equations to find the number of boys.,High,Linear Equations
+268600,Q19,C,C,True,None,The student correctly formulated and solved the equations based on the given conditions.,High,Number Systems
+268600,Q20,D,B,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Discriminant
+268600,Q21,B,B,True,None,The student correctly formulated the equations based on the given conditions and solved for the total number of bananas.,High,Ratio and Proportion
+268600,Q22,D,D,True,None,The student correctly set up the equations and solved for the length and breadth and then calculated the perimeter.,High,Area of rectangle
+268600,Q23,B,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Polynomial Division
+268600,Q24,D,B,False,UNKNOWN,The student's answer does not match the correct answer.,Low,Roots of Polynomials
+268600,Q25,C,C,True,None,The student correctly set up equations and solved for the capital of each person.,High,Ratio and Proportion
+268600,Q26,C,C,True,None,The student correctly identified the proportionality.,High,UNKNOWN
+268600,Q27,B,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,UNKNOWN
+268600,Q28,A,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,UNKNOWN
+268600,Q29,A,D,False,UNKNOWN,The student's answer does not match the correct answer.,Low,UNKNOWN
+268600,Q30,D,D,True,None,The student correctly deduced the relationship.,High,UNKNOWN
+269200,Q1,C,D,False,Calculation,"The student selected option C instead of D, which suggests an error in calculating the value of a+k after correctly finding k=5.",Low,Factor Theorem and Polynomials
+269200,Q2,B,B,True,None,The student correctly applied the quadratic equations and roots concepts to arrive at the correct answer B.,High,Quadratic Equations and Roots
+269200,Q3,B,A,False,Conceptual,"The student selected option B instead of A, indicating misunderstanding of Polynomial Remainder Theorem by not recognizing the need to add the negative of the remainder for complete divisibility.",Low,Polynomial Remainder Theorem
+269200,Q4,C,A,False,Calculation,"The student selected option C instead of A, suggesting an error in solving the system of equations to find values of 'a' and 'b' for infinite solutions.",Low,Systems of Linear Equations - Infinite Solutions
+269200,Q5,A,A,True,None,The student correctly set up and solved the equations related to relative speeds to arrive at the correct answer A.,High,UNKNOWN
+269200,Q6,D,D,True,None,The student correctly formulated and solved the equations to determine the fraction 5/9.,High,Fractions
+269200,Q7,D,D,True,None,The student correctly modeled the work and time problem as a system of equations and solved for the time taken by one woman.,High,Work and Time
+269200,Q8,B,B,True,None,The student accurately determined the relationship between the roots and coefficients to form the new polynomial.,High,Polynomials
+269200,Q9,C,C,True,None,The student correctly applied the relationship between roots and coefficients of a cubic equation to find the product of the other two roots.,High,Roots of equation
+269200,Q10,B,A,False,Calculation,"The student chose option B instead of A, indicating an error in solving the system of linear equations representing the gains and losses on the T.V. and fridge sales.",Low,Linear Equations
+269200,Q11,A,A,True,None,The student correctly used the property of sum of roots of a cubic equation to find the third root when two roots are equal in magnitude but opposite in sign.,High,Roots of equation
+269200,Q12,D,C,False,Algebraic,"The student chose option D instead of C, implying difficulty in correctly factoring or manipulating the given polynomial expression.",Low,Algebraic manipulation
+269200,Q13,A,D,False,Calculation,"The student selected option A instead of D, indicating an error in completing the square and identifying the constant term 'c'.",Low,Completing the Square
+269200,Q14,B,C,False,Conceptual,"The student selected option B instead of C, which suggests a difficulty in using the relationship between roots and coefficients of a cubic polynomial to solve for 'b'.",Low,Roots of equation
+269200,Q15,C,C,True,None,The student correctly set up and solved the linear equations to find the number of ₹ 50 and ₹ 100 notes.,High,Linear Equations
+269200,Q16,D,A,False,Calculation,"The student chose option D instead of A, suggesting an error in using the relationship between roots and coefficients of the quadratic equation to find the value of 'k'.",Low,Quadratic Equations
+269200,Q17,B,C,False,Calculation,"The student selected option B instead of C, indicating an error in solving the system of equations to find the value of x-y.",Low,System of Equations
+269200,Q18,C,C,True,None,The student accurately formulated and solved the equations to determine the number of boys.,High,Linear Equations
+269200,Q19,C,C,True,None,The student correctly represented the 2-digit number in terms of its digits and used the given conditions to form equations and solve for the number.,High,Number Systems
+269200,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots to find the range of k.,High,Discriminant
+269200,Q21,B,B,True,None,The student correctly modeled the banana selling scenario as a system of equations and solved for the total number of bananas.,High,Ratio and Proportion
+269200,Q22,D,D,True,None,The student accurately created and solved equations based on the area changes to find the length and breadth and hence the perimeter.,High,Area of rectangle
+269200,Q23,A,D,False,Conceptual,"The student selected option A instead of D, suggesting a misunderstanding in Polynomial Division by not correctly obtaining g(x).",Low,Polynomial Division
+269200,Q24,,B,False,None,"The question was not attempted; therefore, no inference can be made.",Low,Roots of Polynomials
+269200,Q25,C,C,True,None,The student accurately translated the word problem into equations and solved for the capitals of the two people.,High,Ratio and Proportion
+269200,Q26,C,C,True,None,The student identified the proportional relationship and arrived at the correct answer C.,High,UNKNOWN
+269200,Q27,B,D,False,Careless,"The student selected option B instead of D, suggesting a miscount of the squares in the picture.",Low,UNKNOWN
+269200,Q28,C,D,False,Conceptual,"The student chose option C instead of D, indicating a possible error in logical deduction from the given statements.",Low,UNKNOWN
+269200,Q29,D,D,True,None,The student correctly identified the pattern in the artificial language translations and chose the correct word.,High,UNKNOWN
+269200,Q30,D,D,True,None,The student correctly interpreted the relationship described in the introduction to determine how Y is related to X.,High,UNKNOWN
+271200,Q1,B,D,False,Conceptual,"The student incorrectly calculated the value of k+a, not recognizing -k as the root for both polynomials.",Low,Factor Theorem and Polynomials
+271200,Q2,B,B,True,None,The student correctly identified -5 as a root to solve for p and then used p to find k using the discriminant.,High,Quadratic Equations and Roots
+271200,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to determine the constant needed.,High,Polynomial Remainder Theorem
+271200,Q4,C,A,False,Calculation,The student set up the ratios for infinite solutions correctly but solved the resulting equations incorrectly.,Medium,Systems of Linear Equations - Infinite Solutions
+271200,Q5,C,A,False,Conceptual,The student likely misformulated the equations for relative speed when the cars are moving in the same and opposite directions.,Low,UNKNOWN
+271200,Q6,D,D,True,None,The student correctly translated the word problem into algebraic equations and solved for the fraction.,High,Fractions
+271200,Q7,C,D,False,Calculation,"The student likely set up the work and time equations correctly, but made an error when solving for 'w'.",Medium,Work and Time
+271200,Q8,C,B,False,Conceptual,The student's solution implies an incorrect application of Vieta's formulas or an error in constructing the polynomial from the transformed roots.,Low,Polynomials
+271200,Q9,C,C,True,None,The student correctly found the product of the other two roots after identifying one root.,High,Roots of equation
+271200,Q10,A,A,True,None,The student correctly set up a system of linear equations and solved for the price of the TV.,High,Linear Equations
+271200,Q11,A,A,True,None,The student correctly used the property of roots and coefficients to determine the value of the third root.,High,Roots of equation
+271200,Q12,C,C,True,None,The student correctly identified one of the factors of the given polynomial.,High,Algebraic manipulation
+271200,Q13,A,D,False,Calculation,The student likely made an error when completing the square and simplifying to find the constant term 'c'.,Medium,Completing the Square
+271200,Q14,D,C,False,Conceptual,"The student incorrectly used the sum and product of roots, leading to an incorrect calculation for 'b'.",Low,Roots of equation
+271200,Q15,C,C,True,None,The student successfully formulated and solved the system of equations to find the number of each type of note.,High,Linear Equations
+271200,Q16,B,A,False,Calculation,The student seems to have incorrectly calculated the value of k after substituting the values of sum and product of roots.,Medium,Quadratic Equations
+271200,Q17,C,C,True,None,The student solved the system of equations to correctly find the value of x-y.,High,System of Equations
+271200,Q18,C,C,True,None,The student correctly formulated and solved a system of linear equations.,High,Linear Equations
+271200,Q19,C,C,True,None,The student correctly represented the two-digit number algebraically and solved the system of equations.,High,Number Systems
+271200,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots to find the inequality for k.,High,Discriminant
+271200,Q21,B,B,True,None,The student correctly set up the equations based on the given rates and solved for the total number of bananas.,High,Ratio and Proportion
+271200,Q22,D,D,True,None,The student correctly formed equations based on the changes in area and then solved for the length and breadth to find the perimeter.,High,Area of rectangle
+271200,Q23,B,D,False,Calculation,The student seems to have an error in determining g(x) after polynomial division.,Medium,Polynomial Division
+271200,Q24,A,B,False,Calculation,The student made an error in polynomial division or root finding after identifying the conjugate root.,Medium,Roots of Polynomials
+271200,Q25,C,C,True,None,The student translated the word problem into a system of linear equations and correctly solved for the capital of each person.,High,Ratio and Proportion
+271200,Q26,C,C,True,None,The student identified the pattern between the numbers to correctly solve for the missing number.,High,UNKNOWN
+271200,Q27,C,D,False,Careless,The student miscounted the number of squares in the figure.,Medium,UNKNOWN
+271200,Q28,D,D,True,None,The student correctly assessed the logical conclusions based on the provided statements.,High,UNKNOWN
+271200,Q29,B,D,False,Conceptual,The student misinterpreted the artificial language and failed to correctly combine the word segments.,Low,UNKNOWN
+271200,Q30,D,D,True,None,The student correctly deciphered the family relationship described in the problem.,High,UNKNOWN
+271800,Q1,C,D,False,Calculation,"The student selected option C (30) instead of D (130), indicating an error in calculation or a misunderstanding of the final step in the factor theorem application.",Low,Factor Theorem and Polynomials
+271800,Q2,B,B,True,None,"The student correctly identified the value of k by using the root to find p, then applying the discriminant to find k.",High,Quadratic Equations and Roots
+271800,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to find the value that must be added.,High,Polynomial Remainder Theorem
+271800,Q4,A,A,True,None,The student correctly identified the values of a and b for infinite solutions in a system of linear equations.,High,Systems of Linear Equations - Infinite Solutions
+271800,Q5,A,A,True,None,The student correctly set up and solved the system of equations to find the speeds of the cars.,High,UNKNOWN
+271800,Q6,D,D,True,None,The student correctly translated the word problem into a system of equations and solved for the fraction.,High,Fractions
+271800,Q7,B,D,False,Calculation,"The student chose option B (280 days) when the correct answer was D (140 days), indicating an error in the algebraic manipulation of the work and time equations.",Low,Work and Time
+271800,Q8,A,B,False,Conceptual,"The student incorrectly identified the resulting polynomial when given the relationship between its roots, indicating a potential error in applying Vieta's formulas.",Low,Polynomials
+271800,Q9,A,C,False,Conceptual,"The student selected option A instead of C, which suggests a misunderstanding of how the product of roots relates to the coefficients of the polynomial.",Low,Roots of equation
+271800,Q10,A,A,True,None,The student successfully set up and solved the system of linear equations to find the price of the TV.,High,Linear Equations
+271800,Q11,A,A,True,None,The student correctly found the third root of the polynomial by using the relationship between the roots and coefficients.,High,Roots of equation
+271800,Q12,C,C,True,None,The student correctly identified one of the factors of the given polynomial.,High,Algebraic manipulation
+271800,Q13,B,D,False,Calculation,"The student chose option B (25/36) instead of D (119/12), implying an error in the arithmetic during the completing the square process.",Low,Completing the Square
+271800,Q14,B,C,False,Conceptual,"The student selected option B (1) when the correct answer was C (2), indicating an error in using Vieta's formulas to find the value of b.",Low,Roots of equation
+271800,Q15,C,C,True,None,The student accurately translated the word problem into a system of linear equations and found the correct number of each type of note.,High,Linear Equations
+271800,Q16,B,A,False,Calculation,"The student selected option B (71/2) instead of A (-71/2), likely due to a sign error when solving for k after applying Vieta's formulas.",Low,Quadratic Equations
+271800,Q17,B,C,False,Calculation,"The student incorrectly selected option B instead of C, suggesting an error in the algebraic steps to isolate x and y to find x - y.",Low,System of Equations
+271800,Q18,C,C,True,None,The student correctly formulated and solved the system of equations to find the number of boys.,High,Linear Equations
+271800,Q19,C,C,True,None,The student correctly set up and solved equations based on the digits of the number.,High,Number Systems
+271800,Q20,A,B,False,Conceptual,"The student chose option A instead of B, indicating a misunderstanding of which inequality sign to use when applying the discriminant condition for real roots.",Low,Discriminant
+271800,Q21,B,B,True,None,The student successfully created and solved a system of equations to find the total number of bananas.,High,Ratio and Proportion
+271800,Q22,B,D,False,Calculation,"The student selected option B (59 units) instead of D (52 units), indicating an error in solving the system of equations related to the rectangle's dimensions.",Low,Area of rectangle
+271800,Q23,B,D,False,Calculation,"The student selected option B when the correct answer was D, suggesting an error in the polynomial division or factoring to derive g(x).",Low,Polynomial Division
+271800,Q24,D,B,False,Conceptual,"The student incorrectly chose option D, suggesting a failure to find the positive rational root after identifying all roots via polynomial division.",Low,Roots of Polynomials
+271800,Q25,C,C,True,None,The student correctly translated the word problem into a system of linear equations and solved for the amounts.,High,Ratio and Proportion
+271800,Q26,C,C,True,None,The student correctly identified the pattern and found the missing number.,High,UNKNOWN
+271800,Q27,B,D,False,Guess,"The student selected option B when the correct answer was D, but the solution text does not provide an explanation for this visual reasoning question.",Low,UNKNOWN
+271800,Q28,B,D,False,Guess,"The student selected option B instead of D, but the solution text does not provide an explanation for this logic question.",Low,UNKNOWN
+271800,Q29,D,D,True,None,"The student correctly translated the artificial language to find the word meaning ""ceiling tile.""",High,UNKNOWN
+271800,Q30,D,D,True,None,The student correctly identified the relationship based on the given description.,High,UNKNOWN
+272500,Q1,D,D,True,None,The student correctly applied the factor theorem to find the values of k and a.,High,Factor Theorem and Polynomials
+272500,Q2,B,B,True,None,The student correctly found the value of p using the given root and then used the discriminant to find k.,High,Quadratic Equations and Roots
+272500,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to determine the constant to be added.,High,Polynomial Remainder Theorem
+272500,Q4,,A,False,Conceptual,The student did not attempt this question which tests the condition for infinite solutions in a system of linear equations.,Low,Systems of Linear Equations - Infinite Solutions
+272500,Q5,A,A,True,None,The student correctly set up equations based on relative speeds in same and opposite directions to find individual speeds.,High,UNKNOWN
+272500,Q6,D,D,True,None,The student correctly formed equations based on the given conditions and solved for the numerator and denominator of the fraction.,High,Fractions
+272500,Q7,,D,False,Conceptual,The student did not attempt this question which involves setting up equations based on work done by men and women.,Low,Work and Time
+272500,Q8,D,B,False,Conceptual,"The student incorrectly determined the new polynomial, indicating a misunderstanding of how roots transform the polynomial.",Low,Polynomials
+272500,Q9,,C,False,Conceptual,The student did not attempt this question regarding the relationship between roots and coefficients of a cubic polynomial.,Low,Roots of equation
+272500,Q10,,A,False,Conceptual,The student did not attempt this question that involves setting up linear equations based on profit/loss percentages.,Low,Linear Equations
+272500,Q11,,A,False,Conceptual,The student did not attempt this question related to finding roots of a polynomial given a condition on two of the roots.,Low,Roots of equation
+272500,Q12,A,C,False,Conceptual,"The student selected the incorrect factor, suggesting difficulty in polynomial factorization.",Low,Algebraic manipulation
+272500,Q13,A,D,False,Conceptual,The student incorrectly identified the constant term 'c' after completing the square.,Low,Completing the Square
+272500,Q14,,C,False,Conceptual,The student did not attempt this question involving the relationship between roots and coefficients.,Low,Roots of equation
+272500,Q15,C,C,True,None,The student correctly formed a system of linear equations to represent the given information and solved for the number of each type of note.,High,Linear Equations
+272500,Q16,,A,False,Conceptual,"The student did not attempt this question that uses the relationship between roots (alpha, beta) and coefficients.",Low,Quadratic Equations
+272500,Q17,,C,False,Conceptual,The student did not attempt this question that involves solving a system of equations for x-y.,Low,System of Equations
+272500,Q18,,C,False,Conceptual,The student did not attempt this problem that requires forming equations for number of boys/girls.,Low,Linear Equations
+272500,Q19,C,C,True,None,The student correctly formed equations based on the description of the 2-digit number.,High,Number Systems
+272500,Q20,C,B,False,Conceptual,The student chose the wrong inequality sign when applying the discriminant condition for real roots.,Low,Discriminant
+272500,Q21,B,B,True,None,The student correctly set up equations based on the two different selling scenarios to find the total number of bananas.,High,Ratio and Proportion
+272500,Q22,,D,False,Conceptual,The student did not attempt this question that requires setting up equations for the area of the rectangle.,Low,Area of rectangle
+272500,Q23,,D,False,Conceptual,The student did not attempt this question that requires polynomial division to find g(x).,Low,Polynomial Division
+272500,Q24,,B,False,Conceptual,The student did not attempt this question regarding polynomial roots.,Low,Roots of Polynomials
+272500,Q25,,C,False,Conceptual,The student did not attempt this problem where linear equations for capital amounts must be built.,Low,Ratio and Proportion
+272500,Q26,C,C,True,None,The student correctly identified the ratio between the numbers to solve the analogy.,High,UNKNOWN
+272500,Q27,B,D,False,Careless,The student miscounted the number of squares in the image.,Low,UNKNOWN
+272500,Q28,A,D,False,Conceptual,"The student made an error in logical deduction, failing to recognize what can be concluded from the given statements.",Low,UNKNOWN
+272500,Q29,D,D,True,None,The student correctly identified the word that fits the pattern in the artificial language.,High,UNKNOWN
+272500,Q30,D,D,True,None,The student correctly determined the relationship based on the provided family relations.,High,UNKNOWN
+273000,Q1,D,D,True,None,The student correctly applied the Factor Theorem to find the values of k and a.,High,Factor Theorem and Polynomials
+273000,Q2,B,B,True,None,The student correctly found the value of p using the given root and then applied the discriminant condition for equal roots.,High,Quadratic Equations and Roots
+273000,Q3,B,A,False,Conceptual,The student selected the additive inverse instead of the remainder itself.,Medium,Polynomial Remainder Theorem
+273000,Q4,A,A,True,None,The student correctly applied the condition for infinite solutions in a system of linear equations.,High,Systems of Linear Equations - Infinite Solutions
+273000,Q5,A,A,True,None,The student correctly set up and solved the equations for relative speeds in same and opposite directions.,High,UNKNOWN
+273000,Q6,D,D,True,None,The student successfully formulated two equations based on the problem statement and solved for the fraction.,High,Fractions
+273000,Q7,C,D,False,Conceptual,"The student incorrectly calculated or recalled the work rate equation, leading to a wrong answer.",Medium,Work and Time
+273000,Q8,B,B,True,None,The student correctly found the roots of the given polynomial and then constructed a new polynomial with the reciprocal roots.,High,Polynomials
+273000,Q9,,C,False,None,The student did not attempt the question.,Low,Roots of equation
+273000,Q10,,A,False,None,The student did not attempt the question.,Low,Linear Equations
+273000,Q11,A,A,True,None,The student correctly used the sum of roots property to find the third root.,High,Roots of equation
+273000,Q12,,C,False,None,The student did not attempt the question.,Low,Algebraic manipulation
+273000,Q13,A,D,False,Conceptual,The student incorrectly identified the constant term after completing the square.,Medium,Completing the Square
+273000,Q14,,C,False,None,The student did not attempt the question.,Low,Roots of equation
+273000,Q15,C,C,True,None,The student correctly set up and solved the system of linear equations to find the number of notes.,High,Linear Equations
+273000,Q16,,A,False,None,The student did not attempt the question.,Low,Quadratic Equations
+273000,Q17,B,C,False,Calculation,The student made an error while simplifying or solving the simultaneous equations for x and y.,Medium,System of Equations
+273000,Q18,C,C,True,None,The student correctly set up and solved the linear equations to find the number of boys.,High,Linear Equations
+273000,Q19,C,C,True,None,The student accurately formed equations based on the given conditions and determined the 2-digit number.,High,Number Systems
+273000,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots.,High,Discriminant
+273000,Q21,D,B,False,Conceptual,The student made an error in setting up the equations based on the given rates and total collections.,Medium,Ratio and Proportion
+273000,Q22,C,D,False,Calculation,"The student made an error while simplifying the equation, leading to an incorrect calculation of length or breadth.",Medium,Area of rectangle
+273000,Q23,C,D,False,Conceptual,The student incorrectly calculated g(x) after polynomial division.,Medium,Polynomial Division
+273000,Q24,D,B,False,Conceptual,The student did not correctly identify all roots of polynomial.,Medium,Roots of Polynomials
+273000,Q25,C,C,True,None,The student correctly formulated and solved the equations to find their respective capitals.,High,Ratio and Proportion
+273000,Q26,C,C,True,None,The student identified the relation.,High,UNKNOWN
+273000,Q27,D,D,True,None,The student answered correctly based on visual analysis.,High,UNKNOWN
+273000,Q28,D,D,True,None,The student correctly interpreted the statements and determined that neither conclusion follows.,High,UNKNOWN
+273000,Q29,D,D,True,None,The student correctly found common strings.,High,UNKNOWN
+273000,Q30,D,D,True,None,The student correctly determined the relationship based on the provided information.,High,UNKNOWN
+280400,Q1,D,D,True,None,"The student correctly applied the factor theorem and solved for k and a, then calculated a+k.",High,Factor Theorem and Polynomials
+280400,Q2,B,B,True,None,The student correctly found the value of p using the given root and then applied the discriminant condition for equal roots to find k.,High,Quadratic Equations and Roots
+280400,Q3,B,A,False,Conceptual,The student chose the additive inverse of the remainder instead of the remainder itself.,Low,Polynomial Remainder Theorem
+280400,Q4,A,A,True,None,The student correctly applied the conditions for infinite solutions of a system of linear equations and solved for a and b.,High,Systems of Linear Equations - Infinite Solutions
+280400,Q5,C,A,False,Conceptual,The student's answer does not satisfy the conditions described in the word problem.,Low,UNKNOWN
+280400,Q6,D,D,True,None,The student correctly set up the equations based on the problem statement and found the fraction.,High,Fractions
+280400,Q7,C,D,False,Conceptual,The student selected an incorrect value for time despite providing the correct formula.,Low,Work and Time
+280400,Q8,A,B,False,Conceptual,"The student selected an incorrect polynomial, suggesting an error in calculating the coefficients of the new polynomial based on the transformed roots.",Low,Polynomials
+280400,Q9,C,C,True,None,The student correctly used the relationship between the roots and coefficients of the polynomial to find the product of the other two roots.,High,Roots of equation
+280400,Q10,B,A,False,Conceptual,"The student obtained an incorrect value for the price of the TV, indicating a potential error in setting up or solving the system of equations.",Low,Linear Equations
+280400,Q11,A,A,True,None,The student correctly found the third root using the relationship between the sum of roots and coefficients.,High,Roots of equation
+280400,Q12,A,C,False,Conceptual,The student incorrectly identified the factor of the given polynomial.,Low,Algebraic manipulation
+280400,Q13,A,D,False,Conceptual,The student failed to correctly complete the square and identify the value of 'c'.,Low,Completing the Square
+280400,Q14,B,C,False,Conceptual,The student made a mistake in calculating the value of b using the relationship between roots and coefficients.,Low,Roots of equation
+280400,Q15,C,C,True,None,The student correctly set up a system of linear equations and solved for the number of each type of note.,High,Linear Equations
+280400,Q16,A,A,True,None,The student correctly used the relationship between the roots and coefficients of the quadratic equation to find the value of k.,High,Quadratic Equations
+280400,Q17,B,C,False,Conceptual,The student derived an incorrect value for x-y from the system of equations.,Low,System of Equations
+280400,Q18,C,C,True,None,The student successfully set up a system of equations and solved for the number of boys.,High,Linear Equations
+280400,Q19,D,C,False,Conceptual,"The student may have reversed the values of x and y when setting up the second equation, leading to an incorrect answer.",Low,Number Systems
+280400,Q20,D,B,False,Conceptual,The student appears to have used the incorrect inequality sign when applying the discriminant condition for real roots.,Low,Discriminant
+280400,Q21,B,B,True,None,The student correctly formed equations based on the given conditions and used them to calculate the total number of bananas.,High,Ratio and Proportion
+280400,Q22,A,D,False,Conceptual,The student calculated an incorrect perimeter for the rectangle.,Low,Area of rectangle
+280400,Q23,C,D,False,Conceptual,The student found the incorrect sum of roots of g(x).,Low,Polynomial Division
+280400,Q24,D,B,False,Conceptual,The student could not identify the rational root.,Low,Roots of Polynomials
+280400,Q25,C,C,True,None,The student correctly translated the word problem into a system of equations and found the solution.,High,Ratio and Proportion
+280400,Q26,C,C,True,None,The student correctly identified the proportional relationship to find the answer.,High,UNKNOWN
+280400,Q27,A,D,False,Conceptual,The student counted an incorrect number of squares.,Low,UNKNOWN
+280400,Q28,A,D,False,Conceptual,The student incorrectly interpreted the conclusions based on the statements.,Low,UNKNOWN
+280400,Q29,D,D,True,None,The student correctly identified the words that could represent 'ceiling tile'.,High,UNKNOWN
+280400,Q30,A,D,False,Conceptual,The student incorrectly determined the relationship between X and Y.,Low,UNKNOWN
+281600,Q1,D,D,True,None,The student correctly applied the factor theorem and solved for k and a.,High,Factor Theorem and Polynomials
+281600,Q2,B,B,True,None,The student correctly found the value of p and applied the discriminant condition for equal roots.,High,Quadratic Equations and Roots
+281600,Q3,A,A,True,None,The student correctly applied the polynomial remainder theorem to find the constant to be added.,High,Polynomial Remainder Theorem
+281600,Q4,B,A,False,Calculation,The student incorrectly determined the values of 'a' and 'b' for the infinite solutions condition.,Medium,Systems of Linear Equations - Infinite Solutions
+281600,Q5,A,A,True,None,The student correctly formulated and solved the equations based on relative speeds in the same and opposite directions.,High,UNKNOWN
+281600,Q6,D,D,True,None,The student correctly set up and solved the equations to determine the fraction.,High,Fractions
+281600,Q7,D,D,True,None,The student correctly established and solved the equations related to work and time to find the time taken by one woman.,High,Work and Time
+281600,Q8,C,B,False,Calculation,The student made an error in calculating the coefficients of the polynomial with the transformed roots.,Medium,Polynomials
+281600,Q9,B,C,False,Calculation,The student made an error in sign when calculating the product of the other two roots.,Medium,Roots of equation
+281600,Q10,A,A,True,None,The student correctly formulated and solved the system of linear equations to find the price of the TV.,High,Linear Equations
+281600,Q11,A,A,True,None,The student correctly used the property of sum of roots to find the third root.,High,Roots of equation
+281600,Q12,D,C,False,Algebraic manipulation,The student incorrectly factored the given polynomial.,Medium,Algebraic manipulation
+281600,Q13,A,D,False,Calculation,The student made an error when completing the square and calculating the value of 'c'.,Medium,Completing the Square
+281600,Q14,A,C,False,Calculation,The student incorrectly calculated the value of 'b' using the given roots.,Medium,Roots of equation
+281600,Q15,C,C,True,None,The student correctly set up and solved the linear equations to determine the number of each type of note.,High,Linear Equations
+281600,Q16,A,A,True,None,The student correctly used the relationship between roots and coefficients to find the value of 'k'.,High,Quadratic Equations
+281600,Q17,C,C,True,None,The student correctly solved the system of equations to find x-y.,High,System of Equations
+281600,Q18,C,C,True,None,The student correctly formulated and solved the linear equations to find the number of boys.,High,Linear Equations
+281600,Q19,C,C,True,None,The student correctly interpreted the conditions and solved the equations to determine the number.,High,Number Systems
+281600,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots.,High,Discriminant
+281600,Q21,B,B,True,None,The student correctly formulated and solved the equations based on the given selling prices.,High,Ratio and Proportion
+281600,Q22,D,D,True,None,The student correctly set up and solved the equations based on changes in the rectangle's dimensions and area.,High,Area of rectangle
+281600,Q23,B,D,False,Algebraic manipulation,The student made an error in polynomial division when finding g(x).,Medium,Polynomial Division
+281600,Q24,D,B,False,Conceptual,The student failed to identify the positive rational root after finding the quadratic factor.,Medium,Roots of Polynomials
+281600,Q25,C,C,True,None,The student correctly formulated and solved the equations to determine the capital of each person.,High,Ratio and Proportion
+281600,Q26,C,C,True,None,The student identified and correctly applied the ratio to find the missing number.,High,UNKNOWN
+281600,Q27,B,D,False,Calculation,The student miscounted the number of squares in the picture.,Medium,UNKNOWN
+281600,Q28,D,D,True,None,The student correctly deduced that neither conclusion follows from the given statements.,High,UNKNOWN
+281600,Q29,D,D,True,None,The student correctly identified the pattern and translated the artificial language.,High,UNKNOWN
+281600,Q30,D,D,True,None,The student correctly determined the relationship based on the given information.,High,UNKNOWN
+281800,Q1,A,D,False,Calculation,The student incorrectly substituted the root into the polynomial equations derived from the factor theorem.,Low,Factor Theorem and Polynomials
+281800,Q2,B,B,True,None,The student correctly found the value of 'k' by using the root to find 'p' and then setting the discriminant to zero.,High,Quadratic Equations and Roots
+281800,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to find the constant to be added.,High,Polynomial Remainder Theorem
+281800,Q4,D,A,False,Calculation,"The student chose an incorrect option, likely due to an error in manipulating the equations for infinite solutions.",Low,Systems of Linear Equations - Infinite Solutions
+281800,Q5,D,A,False,Calculation,"The student selected an incorrect option, indicating a miscalculation in setting up or solving the distance/speed equations.",Low,UNKNOWN
+281800,Q6,,D,False,None,The student did not attempt this question.,Low,Fractions
+281800,Q7,B,D,False,Calculation,"The student selected an incorrect option, suggesting an error in formulating or solving the work and time equations.",Low,Work and Time
+281800,Q8,A,B,False,Calculation,"The student's answer is incorrect, suggesting an error in calculating the new polynomial from the given roots.",Low,Polynomials
+281800,Q9,B,C,False,Calculation,The student made a sign error when calculating the product of the other two roots.,Low,Roots of equation
+281800,Q10,D,A,False,Calculation,"The student likely made an error while solving the system of linear equations, resulting in an incorrect price for the TV.",Low,Linear Equations
+281800,Q11,C,A,False,Conceptual,The student incorrectly determined the third root by not properly utilizing the sum of roots property with the given condition.,Low,Roots of equation
+281800,Q12,,C,False,None,The student did not attempt this question.,Low,Algebraic manipulation
+281800,Q13,A,D,False,Calculation,"The student selected the incorrect answer choice, indicating a mistake during the 'completing the square' process or in subsequent calculations.",Low,Completing the Square
+281800,Q14,,C,False,None,The student did not attempt this question.,Low,Roots of equation
+281800,Q15,C,C,True,None,The student successfully solved the linear equations to find the number of each type of note.,High,Linear Equations
+281800,Q16,B,A,False,Calculation,The student made a sign error in the calculation using the relationship between roots and coefficients.,Low,Quadratic Equations
+281800,Q17,,C,False,None,The student did not attempt this question.,Low,System of Equations
+281800,Q18,C,C,True,None,The student correctly solved the system of linear equations to determine the number of boys.,High,Linear Equations
+281800,Q19,C,C,True,None,The student accurately set up and solved the equations to find the two-digit number.,High,Number Systems
+281800,Q20,A,B,False,Conceptual,"The student incorrectly determined the inequality condition for real roots, likely confusing greater than/equal to with less than/equal to.",Low,Discriminant
+281800,Q21,B,B,True,None,The student correctly formulated and solved the equations to find the total number of bananas.,High,Ratio and Proportion
+281800,Q22,C,D,False,Calculation,The student selected an incorrect option due to a calculation mistake while solving the area of rectangle problem.,Low,Area of rectangle
+281800,Q23,B,D,False,Calculation,The student incorrectly identified g(x) following polynomial division and simplification.,Low,Polynomial Division
+281800,Q24,D,B,False,Calculation,"The student failed to find the positive rational root, making an error in polynomial division or in identifying all the roots.",Low,Roots of Polynomials
+281800,Q25,,C,False,None,The student did not attempt this question.,Low,Ratio and Proportion
+281800,Q26,D,C,False,Conceptual,The student incorrectly applied the ratio between 81 and 27 to find the corresponding number for 573.,Low,UNKNOWN
+281800,Q27,C,D,False,Conceptual,The student did not correctly count the number of squares in the picture.,Low,UNKNOWN
+281800,Q28,A,D,False,Conceptual,"The student selected the wrong conclusion, demonstrating a misunderstanding of logical deductions from the given statements.",Low,UNKNOWN
+281800,Q29,D,D,True,None,The student correctly identified the meaning of ceiling tile.,High,UNKNOWN
+281800,Q30,B,D,False,Conceptual,"The student chose the wrong relation, showing a difficulty in tracing family relationships based on the given clues.",Low,UNKNOWN
+283800,Q1,C,D,False,Conceptual,"The student did not correctly apply the factor theorem to find the values of k and a, leading to an incorrect value for k + a.",Low,Factor Theorem and Polynomials
+283800,Q2,B,B,True,None,"The student correctly used the root to find the value of p, and then the discriminant to find k.",High,Quadratic Equations and Roots
+283800,Q3,B,A,False,Conceptual,The student selected the remainder instead of the additive inverse of the remainder required to make the polynomial divisible by x-3.,Medium,Polynomial Remainder Theorem
+283800,Q4,A,A,True,None,The student correctly applied the condition for infinite solutions to a pair of linear equations and found the values of a and b.,High,Systems of Linear Equations - Infinite Solutions
+283800,Q5,A,A,True,None,The student correctly set up and solved the equations based on relative speeds in the same and opposite directions.,High,UNKNOWN
+283800,Q6,D,D,True,None,The student correctly formed two equations based on the given conditions and found the fraction.,High,Fractions
+283800,Q7,A,D,False,Conceptual,"The student appears to have made an error in setting up the equations for the work done by men and women, leading to the wrong number of days.",Low,Work and Time
+283800,Q8,B,B,True,None,The student correctly determined the relationship between the roots and coefficients of the polynomial.,High,Polynomials
+283800,Q9,D,C,False,Conceptual,The student made an error in applying the relationship between the roots and coefficients of the cubic equation to find the product of the other two roots.,Medium,Roots of equation
+283800,Q10,A,A,True,None,The student correctly set up and solved the linear equations to find the price of the T.V.,High,Linear Equations
+283800,Q11,A,A,True,None,The student used the property of roots of a cubic equation to find the third root.,High,Roots of equation
+283800,Q12,A,C,False,Algebraic,The student selected an option that is not a factor of the given polynomial.,Low,Algebraic manipulation
+283800,Q13,A,D,False,Conceptual,"The student did not correctly complete the square, leading to the wrong value of c.",Low,Completing the Square
+283800,Q14,D,C,False,Conceptual,The student made an error in finding the value of b using the product of roots.,Medium,Roots of equation
+283800,Q15,C,C,True,None,The student correctly formed and solved the linear equations to find the number of each type of note.,High,Linear Equations
+283800,Q16,A,A,True,None,The student applied the relationship between roots and coefficients of a quadratic equation and correctly found k.,High,Quadratic Equations
+283800,Q17,D,C,False,Conceptual,The student incorrectly solved the system of equations.,Low,System of Equations
+283800,Q18,C,C,True,None,The student correctly formed and solved the linear equations to find the number of boys.,High,Linear Equations
+283800,Q19,C,C,True,None,The student successfully translated the word problem into two equations and solved for the digits of the number.,High,Number Systems
+283800,Q20,A,B,False,Conceptual,The student likely calculated the discriminant correctly but selected the wrong inequality sign for real roots.,Medium,Discriminant
+283800,Q21,B,B,True,None,The student correctly set up and solved the equations.,High,Ratio and Proportion
+283800,Q22,D,D,True,None,The student correctly set up equations based on area changes and then solved them.,High,Area of rectangle
+283800,Q23,A,D,False,Conceptual,The student made an error when isolating g(x).,Low,Polynomial Division
+283800,Q24,B,B,True,None,The student correctly identified the conjugate root and used polynomial division to find another root.,High,Roots of Polynomials
+283800,Q25,C,C,True,None,The student successfully translated the verbal information into equations and solved for the capitals.,High,Ratio and Proportion
+283800,Q26,C,C,True,None,The student identified the pattern and selected the correct answer.,High,UNKNOWN
+283800,Q27,D,D,True,None,The student correctly counted the squares in the image.,High,UNKNOWN
+283800,Q28,A,D,False,Conceptual,The student incorrectly interpreted the statements and drew an invalid conclusion.,Low,UNKNOWN
+283800,Q29,D,D,True,None,The student correctly deduced the meaning of ceiling tile.,High,UNKNOWN
+283800,Q30,D,D,True,None,The student correctly deduced the relationship.,High,UNKNOWN
+286000,Q1,D,D,True,None,The student correctly applied the factor theorem and solved for a+k.,High,Factor Theorem and Polynomials
+286000,Q2,B,B,True,None,The student correctly found the value of 'p' and then applied the discriminant condition for equal roots.,High,Quadratic Equations and Roots
+286000,Q3,B,A,False,Conceptual,The student did not correctly identify the value that must be ADDED to make the polynomial divisible.,Medium,Polynomial Remainder Theorem
+286000,Q4,A,A,True,None,The student correctly set up and solved the equations for infinite solutions.,High,Systems of Linear Equations - Infinite Solutions
+286000,Q5,A,A,True,None,The student successfully set up and solved the system of equations based on relative speeds.,High,UNKNOWN
+286000,Q6,D,D,True,None,The student correctly translated the word problem into a system of equations and found the fraction.,High,Fractions
+286000,Q7,B,D,False,Calculation,The student made a calculation error in solving the system of equations for work and time.,Medium,Work and Time
+286000,Q8,B,B,True,None,The student correctly determined the roots and formed the new polynomial.,High,Polynomials
+286000,Q9,C,C,True,None,The student correctly used the relationship between roots and coefficients to find the product of the other two roots.,High,Roots of equation
+286000,Q10,D,A,False,Calculation,The student made a calculation error in solving the system of linear equations to find the price of the TV.,Medium,Linear Equations
+286000,Q11,A,A,True,None,The student correctly used the sum of roots relationship to find the third root.,High,Roots of equation
+286000,Q12,A,C,False,Algebraic,The student selected an incorrect factor of the given polynomial.,Medium,Algebraic manipulation
+286000,Q13,B,D,False,Calculation,The student made a calculation error when completing the square for the polynomial.,Medium,Completing the Square
+286000,Q14,B,C,False,Conceptual,The student did not correctly apply the relationships between roots and coefficients of the cubic polynomial to find the value of 2b.,Medium,Roots of equation
+286000,Q15,B,C,False,Calculation,The student made a calculation error in solving the system of equations for the number of notes.,Medium,Linear Equations
+286000,Q16,B,A,False,Calculation,The student made a calculation error when substituting the relationship between roots and coefficient.,Medium,Quadratic Equations
+286000,Q17,C,C,True,None,The student correctly solved the system of equations to find x-y.,High,System of Equations
+286000,Q18,C,C,True,None,The student correctly solved the system of equations to find the number of boys.,High,Linear Equations
+286000,Q19,B,C,False,Calculation,The student made a calculation error when translating the word problem into equations and solving for the digits.,Medium,Number Systems
+286000,Q20,A,B,False,Conceptual,"The student used the discriminant, but got the inequality direction wrong.",Medium,Discriminant
+286000,Q21,C,B,False,Calculation,The student made a calculation error in setting up and solving the equations to find the total number of bananas.,Medium,Ratio and Proportion
+286000,Q22,D,D,True,None,"The student correctly formed and solved the equations to find the length and breadth, and then the perimeter.",High,Area of rectangle
+286000,Q23,B,D,False,Conceptual,The student did not correctly apply the polynomial division algorithm to find g(x).,Medium,Polynomial Division
+286000,Q24,D,B,False,Conceptual,The student failed to identify the correct positive rational root.,Medium,Roots of Polynomials
+286000,Q25,C,C,True,None,The student correctly translated the problem into a system of equations and solved for the capitals.,High,Ratio and Proportion
+286000,Q26,C,C,True,None,The student correctly identified the proportional relationship and found the missing number.,High,UNKNOWN
+286000,Q27,A,D,False,Guess,The student incorrectly counted the number of squares.,Low,UNKNOWN
+286000,Q28,B,D,False,Guess,The student incorrectly analyzed the conclusion based on the given statements.,Low,UNKNOWN
+286000,Q29,D,D,True,None,The student correctly inferred the meaning of 'ceiling tile'.,High,UNKNOWN
+286000,Q30,D,D,True,None,The student correctly deduced the relationship.,High,UNKNOWN
+316057,Q1,A,D,False,Calculation,The student substituted -k for y in both polynomial equations but made a calculation error in solving for 'a'.,Low,Factor Theorem and Polynomials
+316057,Q2,C,B,False,Calculation,The student correctly found the value of 'p' but made a calculation error when solving for 'k' using the discriminant.,Low,Quadratic Equations and Roots
+316057,Q3,D,A,False,Conceptual,"The student selected 'x - 3', indicating a misunderstanding of what value needs to be *added* to make the polynomial divisible.",Low,Polynomial Remainder Theorem
+316057,Q4,C,A,False,Calculation,The student correctly set up the ratios for infinite solutions but made an error in solving the resulting equations for 'a' and 'b'.,Low,Systems of Linear Equations - Infinite Solutions
+316057,Q5,B,A,False,Conceptual,The student selected an option where the speeds did not satisfy the conditions related to moving in the same or opposite directions.,Low,UNKNOWN
+316057,Q6,B,D,False,Calculation,The student made an error in setting up the initial equation representing the relationship between the numerator and denominator.,Low,Fractions
+316057,Q7,D,D,True,None,The student correctly solved for the time taken by one woman to finish the work.,High,Work and Time
+316057,Q8,C,B,False,Calculation,The student made a calculation error in finding the roots from the given polynomial.,Low,Polynomials
+316057,Q9,D,C,False,Calculation,The student appears to have an incorrect setup for finding the product of the other two roots.,Low,Roots of equation
+316057,Q10,D,A,False,Calculation,The student appears to have made a calculation error when solving the simultaneous equations.,Low,Linear Equations
+316057,Q11,B,A,False,Calculation,The student appears to have miscalculated the relationship between the coefficients and the roots.,Low,Roots of equation
+316057,Q12,A,C,False,Conceptual,The student seems to have misunderstood the process of factorizing the given expression.,Low,Algebraic manipulation
+316057,Q13,A,D,False,Calculation,The student seems to have made an error while completing the square.,Low,Completing the Square
+316057,Q14,D,C,False,Calculation,The student correctly found the value of 'a' but made a mistake while calculating 'b'.,Low,Roots of equation
+316057,Q15,C,C,True,None,The student correctly solved the system of equations to find the number of each type of note.,High,Linear Equations
+316057,Q16,C,A,False,Calculation,The student applied Vieta's formulas correctly but made a calculation error when substituting into the given equation.,Low,Quadratic Equations
+316057,Q17,C,C,True,None,The student correctly solved the system of equations to find the value of x - y.,High,System of Equations
+316057,Q18,B,C,False,Calculation,The student made a calculation error in setting up or solving the system of equations.,Low,Linear Equations
+316057,Q19,B,C,False,Calculation,The student appears to have made an error in the setup of the equation based on the problem conditions.,Low,Number Systems
+316057,Q20,D,B,False,Conceptual,The student calculated the discriminant but selected the wrong inequality direction.,Low,Discriminant
+316057,Q21,D,B,False,Calculation,The student made a calculation error when setting up the system of equations representing the two scenarios.,Low,Ratio and Proportion
+316057,Q22,C,D,False,Calculation,The student made a calculation error while setting up the equations based on changes to the area of the rectangle.,Low,Area of rectangle
+316057,Q23,A,D,False,Calculation,The student made an error while performing polynomial division or setting up the problem.,Low,Polynomial Division
+316057,Q24,D,B,False,Conceptual,The student incorrectly determined the positive rational root. They may have stopped after identifying the conjugate root.,Low,Roots of Polynomials
+316057,Q25,B,C,False,Calculation,The student made a calculation error when setting up the linear equations from the given statements.,Low,Ratio and Proportion
+316057,Q26,D,C,False,Conceptual,"The student chose 243, but there doesn't appear to be a consistent relationship between 81 and 27 that applies to 573.",Low,UNKNOWN
+316057,Q27,A,D,False,Conceptual,The student appears to have miscounted the total number of squares in the picture.,Low,UNKNOWN
+316057,Q28,D,D,True,None,The student correctly inferred that neither conclusion follows from the given statements.,High,UNKNOWN
+316057,Q29,A,D,False,Conceptual,"The student chose an answer that did not correctly combine the morphemes for ""ceiling"" and ""tile"".",Low,UNKNOWN
+316057,Q30,B,D,False,Conceptual,The student chose uncle instead of brother-in-law which accurately describes the relationship.,Low,UNKNOWN
+413401,Q1,C,D,False,Calculation,"The student incorrectly determined the value of 'a' which led to an incorrect final answer; a should be 125, not 30.",Low,Factor Theorem and Polynomials
+413401,Q2,A,B,False,Calculation,The student made an error solving for 'p' in the equation (-5)^2 + p(-5) - 15 = 0; p=2 not 7.,Low,Quadratic Equations and Roots
+413401,Q3,B,A,False,Calculation,The student selected the additive inverse of the remainder instead of the remainder itself.,Low,Polynomial Remainder Theorem
+413401,Q4,C,A,False,Calculation,"The student incorrectly solved the system of equations to find the values of a and b; a=5 and b=1, not a=3 and b=2.",Low,Systems of Linear Equations - Infinite Solutions
+413401,Q5,A,A,True,None,The student correctly identified the speeds of the cars moving in the same and opposite directions.,High,UNKNOWN
+413401,Q6,D,D,True,None,The student correctly determined the fraction based on the given relationships between numerator and denominator.,High,Fractions
+413401,Q7,B,D,False,Calculation,The student made an error in setting up or solving the system of equations for work and time; it takes 140 days not 280 days.,Low,Work and Time
+413401,Q8,C,B,False,Conceptual,The student appears to have incorrectly calculated the roots or manipulated the polynomial based on the given zeroes.,Low,Polynomials
+413401,Q9,A,C,False,Conceptual,"The student appears to have incorrectly determined the product of the other two roots, given one root of the polynomial.",Low,Roots of equation
+413401,Q10,A,A,True,None,The student correctly identified the actual price of the T.V. by setting up and solving the system of linear equations.,High,Linear Equations
+413401,Q11,A,A,True,None,The student correctly found the third root by using the property that the sum of the roots is equal to the negative of the coefficient of x^2 divided by the coefficient of x^3.,High,Roots of equation
+413401,Q12,A,C,False,Conceptual,The student failed to identify the correct factor of the polynomial.,Low,Algebraic manipulation
+413401,Q13,C,D,False,Conceptual,The student incorrectly completed the square and determined the value of c.,Low,Completing the Square
+413401,Q14,B,C,False,Calculation,The student made an error calculating the value of 'b' using the sum and product of roots.,Low,Roots of equation
+413401,Q15,C,C,True,None,The student correctly determined the number of ₹ 50 and ₹ 100 notes by setting up and solving the system of linear equations.,High,Linear Equations
+413401,Q16,D,A,False,Calculation,The student incorrectly calculated the value of 'k' using the relationship between roots and coefficients.,Low,Quadratic Equations
+413401,Q17,B,C,False,Calculation,The student incorrectly solved the system of equations to find the value of x - y.,Low,System of Equations
+413401,Q18,C,C,True,None,The student correctly determined the number of boys given the total amount distributed and the number of children.,High,Linear Equations
+413401,Q19,C,C,True,None,The student correctly found the 2-digit number based on the given conditions.,High,Number Systems
+413401,Q20,A,B,False,Conceptual,The student used the discriminant but selected the wrong inequality to define the range for real roots; k should be greater than or equal to 1/3.,Low,Discriminant
+413401,Q21,A,B,False,Conceptual,"The student set up the ratio and proportion equations incorrectly or did not solve correctly; the total number of bananas is 500, not 250.",Low,Ratio and Proportion
+413401,Q22,D,D,True,None,The student correctly calculated the perimeter of the rectangle by setting up and solving equations based on area changes.,High,Area of rectangle
+413401,Q23,B,D,False,Calculation,"The student did not correctly derive g(x) using the polynomial division formula or did not determine the sum of roots correctly; the sum should be 2, not 3.",Low,Polynomial Division
+413401,Q24,D,B,False,Conceptual,The student did not solve for the rational root.,Low,Roots of Polynomials
+413401,Q25,A,C,False,Calculation,The student failed to correctly solve the system of equations for their respective capital.,Low,Ratio and Proportion
+413401,Q26,C,C,True,None,The student correctly identified the relationship and found the missing number.,High,UNKNOWN
+413401,Q27,D,D,True,None,The student correctly counted the squares in the image.,High,UNKNOWN
+413401,Q28,D,D,True,None,The student correctly determined that neither conclusion follows from the given statements.,High,UNKNOWN
+413401,Q29,D,D,True,None,"The student correctly translated the artificial language and found the equivalent of ""ceiling tile"".",High,UNKNOWN
+413401,Q30,D,D,True,None,The student correctly deduced the relationship between X and Y.,High,UNKNOWN
+900447,Q1,A,D,False,Calculation,"The student selected option A, but the solution requires setting up equations based on the factor theorem and solving for 'k' and 'a', then summing them, which leads to option D.",Low,Factor Theorem and Polynomials
+900447,Q2,C,B,False,Calculation,"The student selected option C, but the correct solution involves using the given root to find 'p', then using 'p' to find 'k' based on the condition of equal roots (discriminant = 0), resulting in option B.",Low,Quadratic Equations and Roots
+900447,Q3,C,A,False,Conceptual,"The student chose 0, but the Remainder Theorem indicates that the remainder after division by (x-3) is 3; therefore, -3 must be added to make it perfectly divisible, corresponding to option A.",Low,Polynomial Remainder Theorem
+900447,Q4,C,A,False,Calculation,"The student selected option C, but the condition for infinite solutions requires the ratios of coefficients to be equal, leading to two equations which when solved give a=5 and b=1, so the answer is A.",Low,Systems of Linear Equations - Infinite Solutions
+900447,Q5,D,A,False,Calculation,"The student selected option D, but the problem requires setting up two equations based on relative speeds in the same and opposite directions and then solving to find the individual speeds, which results in option A.",Low,UNKNOWN
+900447,Q6,D,D,True,None,The student correctly identified the fraction 5/9 by forming equations based on the given relationships between the numerator and denominator and solving them.,High,Fractions
+900447,Q7,B,D,False,Calculation,"The student chose option B, but the problem requires creating two equations representing the work done by men and women in different scenarios and solving these equations to find the work done by one woman alone, which takes 140 days (option D).",Low,Work and Time
+900447,Q8,B,B,True,None,The student correctly identified the polynomial with roots 1/α + β and 1/β + α by first finding the roots α and β of the original polynomial and then constructing the new polynomial.,High,Polynomials
+900447,Q9,B,C,False,Calculation,"The student selected option B, but the solution involves using the relationship between the roots and coefficients of a cubic polynomial to find the product of the remaining two roots, which is 2/3 (option C).",Low,Roots of equation
+900447,Q10,B,A,False,Calculation,"The student selected option B, but the problem involves setting up two linear equations based on the gains and losses from selling a TV and fridge and then solving for the price of the TV which is 20,000 (option A).",Low,Linear Equations
+900447,Q11,A,A,True,None,The student correctly found the third root by using the relationship between the sum of roots and the coefficients of the polynomial.,High,Roots of equation
+900447,Q12,C,C,True,None,The student correctly identified x^2+x-1 as a factor after performing algebraic manipulation.,High,Algebraic manipulation
+900447,Q13,C,D,False,Conceptual,"The student chose option C, but the question requires completing the square and identifying the constant term, which is 119/12 (option D).",Low,Completing the Square
+900447,Q14,C,C,True,None,The student correctly found that 2b = 2 by using the relationship between the roots and coefficients of the cubic polynomial.,High,Roots of equation
+900447,Q15,D,C,False,Calculation,"The student selected option D, but the problem requires setting up a system of two linear equations to represent the number of notes and their total value, and then solving for the number of each type of note, which gives 90 and 110 (option C).",Low,Linear Equations
+900447,Q16,D,A,False,Calculation,"The student chose option D, but the correct approach is to use Vieta's formulas to relate the sum and product of the roots to the coefficients of the quadratic equation, then solve for k which is -71/2, or option A.",Low,Quadratic Equations
+900447,Q17,C,C,True,None,The student correctly found x-y = -b/a by solving the given system of equations.,High,System of Equations
+900447,Q18,C,C,True,None,The student correctly calculated the number of boys by setting up two linear equations and solving for the number of boys and girls.,High,Linear Equations
+900447,Q19,C,C,True,None,The student correctly determined the number by setting up equations based on the relationships between the digits and the number itself.,High,Number Systems
+900447,Q20,B,B,True,None,The student correctly applied the discriminant condition for real roots.,High,Discriminant
+900447,Q21,A,B,False,Conceptual,"The student selected option A, but the problem requires setting up a system of equations based on the selling prices of the bananas in two scenarios and solving for the total number of bananas, giving option B.",Low,Ratio and Proportion
+900447,Q22,D,D,True,None,The student correctly found the perimeter by setting up equations based on the changes in area and solving for the length and breadth of the rectangle.,High,Area of rectangle
+900447,Q23,B,D,False,Calculation,"The student chose option B, but the problem requires using polynomial division and the relationship P(x) = Q(x) * g(x) + R(x) to find g(x), then finding the sum of the roots of g(x), which is 0.",Low,Polynomial Division
+900447,Q24,B,B,True,None,The student correctly identified 7 as the positive rational root by using the conjugate root and polynomial division.,High,Roots of Polynomials
+900447,Q25,C,C,True,None,The student correctly determined the capital of each person by creating and solving a system of two equations.,High,Ratio and Proportion
+900447,Q26,C,C,True,None,The student answered correctly.,High,UNKNOWN
+900447,Q27,D,D,True,None,The student answered correctly.,High,UNKNOWN
+900447,Q28,A,D,False,Conceptual,"The student selected option A, but neither conclusion follows.",Low,UNKNOWN
+900447,Q29,D,D,True,None,The student answered correctly.,High,UNKNOWN
+900447,Q30,D,D,True,None,The student answered correctly.,High,UNKNOWN
+998586,Q1,D,D,True,None,The student correctly applied the factor theorem to find the values of 'k' and 'a' and their sum.,High,Factor Theorem and Polynomials
+998586,Q2,C,B,False,Calculation,The student correctly found 'p' but made a calculation error in determining 'k' from the discriminant.,Medium,Quadratic Equations and Roots
+998586,Q3,A,A,True,None,The student correctly applied the Polynomial Remainder Theorem to find the constant to be added.,High,Polynomial Remainder Theorem
+998586,Q4,A,A,True,None,The student correctly determined the conditions for infinite solutions and solved for 'a' and 'b'.,High,Systems of Linear Equations - Infinite Solutions
+998586,Q5,,A,False,None,The student did not attempt the question involving speed and distance.,Low,UNKNOWN
+998586,Q6,D,D,True,None,The student correctly set up and solved the equations to determine the fraction.,High,Fractions
+998586,Q7,,D,False,None,The student did not attempt the question involving work and time.,Low,Work and Time
+998586,Q8,,B,False,None,The student did not attempt the question involving polynomials.,Low,Polynomials
+998586,Q9,,C,False,None,The student did not attempt the question involving roots of equations.,Low,Roots of equation
+998586,Q10,B,A,False,Calculation,The student attempted to solve the linear equations but arrived at an incorrect answer.,Medium,Linear Equations
+998586,Q11,,A,False,None,The student did not attempt the question involving roots of an equation.,Low,Roots of equation
+998586,Q12,,C,False,None,The student did not attempt the question involving algebraic manipulation.,Low,Algebraic manipulation
+998586,Q13,A,D,False,Conceptual,The student attempted to complete the square but selected the incorrect constant term.,Medium,Completing the Square
+998586,Q14,A,C,False,Conceptual,The student made an error in calculating the value of 'b' using the sum and product of roots.,Medium,Roots of equation
+998586,Q15,C,C,True,None,The student correctly set up and solved the linear equations to find the number of notes.,High,Linear Equations
+998586,Q16,,A,False,None,The student did not attempt the question involving quadratic equations.,Low,Quadratic Equations
+998586,Q17,,C,False,None,The student did not attempt the question on system of equations.,Low,System of Equations
+998586,Q18,C,C,True,None,The student correctly set up and solved the linear equations to find the number of boys.,High,Linear Equations
+998586,Q19,C,C,True,None,The student correctly formulated the equations based on the given conditions to find the two-digit number.,High,Number Systems
+998586,Q20,A,B,False,Conceptual,The student applied the discriminant condition incorrectly for real roots.,Medium,Discriminant
+998586,Q21,B,B,True,None,The student correctly set up the equations based on the given ratios and solved for the total number of bananas.,High,Ratio and Proportion
+998586,Q22,,D,False,None,The student did not attempt the question on area of a rectangle.,Low,Area of rectangle
+998586,Q23,,D,False,None,The student did not attempt the question on polynomial division.,Low,Polynomial Division
+998586,Q24,,B,False,None,The student did not attempt the question on roots of polynomials.,Low,Roots of Polynomials
+998586,Q25,,C,False,None,The student did not attempt the question involving ratio and proportion.,Low,Ratio and Proportion
+998586,Q26,C,C,True,None,The student identified and applied the pattern to find the missing number in the analogy.,High,UNKNOWN
+998586,Q27,B,D,False,Calculation,The student miscounted the number of squares in the figure.,Medium,UNKNOWN
+998586,Q28,A,D,False,Conceptual,The student misinterpreted the logical implications of the statements and drew an incorrect conclusion.,Medium,UNKNOWN
+998586,Q29,D,D,True,None,The student correctly identified the pattern in the artificial language to determine the meaning of 'ceiling tile'.,High,UNKNOWN
+998586,Q30,A,D,False,Conceptual,The student misidentified the family relationship based on the given description.,Medium,UNKNOWN

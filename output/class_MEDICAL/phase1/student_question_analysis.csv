@@ -5,197 +5,197 @@ student_id,question_id,selected_option,correct_option,is_correct,status,attempte
 287200,Q4,C,C,True,Correct,True,Physics,Hard
 287200,Q5,C,C,True,Correct,True,Physics,Medium
 287200,Q6,D,D,True,Correct,True,Work and Energy,Easy
-287200,Q7,B,D,False,Incorrect,True,Energy Stored in Spring,Hard
+287200,Q7,B,D,False,Incorrect,True,Elastic Potential Energy,Hard
 287200,Q8,D,D,True,Correct,True,Power and Kinetic Energy,Hard
 287200,Q9,B,B,True,Correct,True,Work Done by a Force,Medium
-287200,Q10,B,D,False,Incorrect,True,"Work, Energy, and Power",Hard
-287200,Q11,B,B,True,Correct,True,Kinematics/Relative Motion,Easy
-287200,Q12,C,C,True,Correct,True,Optics/Mirrors,Easy
-287200,Q13,D,D,True,Correct,True,Optics/Mirrors,Medium
+287200,Q10,B,D,False,Incorrect,True,"Work, Energy, and Friction",Hard
+287200,Q11,B,B,True,Correct,True,Relative Motion and Image Velocity,Easy
+287200,Q12,C,C,True,Correct,True,Mirrors and Image Formation,Easy
+287200,Q13,D,D,True,Correct,True,Concave Mirrors and Magnification,Medium
 287200,Q14,B,B,True,Correct,True,UNKNOWN,Medium
 287200,Q15,B,B,True,Correct,True,Optics,Hard
-287200,Q16,D,A,False,Incorrect,True,Periodic Table,Easy
+287200,Q16,D,A,False,Incorrect,True,Periodic Properties,Easy
 287200,Q17,B,A,False,Incorrect,True,Metalloids,Medium
 287200,Q18,B,D,False,Incorrect,True,Ionization Energy,Hard
-287200,Q19,C,B,False,Incorrect,True,Effective Nuclear Charge & Ionization Energy,Medium
-287200,Q20,C,C,True,Correct,True,Metal & Non-metal Oxides,Easy
+287200,Q19,C,B,False,Incorrect,True,Ionization Energy and Nuclear Charge,Medium
+287200,Q20,C,C,True,Correct,True,Metal and Non-metal Oxides,Easy
 287200,Q21,D,D,True,Correct,True,Alkali Metals,Easy
 287200,Q22,C,C,True,Correct,True,Valency,Medium
 287200,Q23,B,B,True,Correct,True,Chemical Reactions,Easy
-287200,Q24,C,C,True,Correct,True,Double Displacement Reaction,Easy
+287200,Q24,C,C,True,Correct,True,Chemical Reactions,Easy
 287200,Q25,B,B,True,Correct,True,Chemical Reactions,Easy
 287200,Q26,A,A,True,Correct,True,Thermal Decomposition,Hard
-287200,Q27,B,B,True,Correct,True,Redox Reactions,Hard
+287200,Q27,B,B,True,Correct,True,Oxidation-Reduction Reactions,Hard
 287200,Q28,A,A,True,Correct,True,Displacement Reaction,Easy
 287200,Q29,B,B,True,Correct,True,Neutralization Reaction,Medium
-287200,Q30,B,B,True,Correct,True,Chemical Decomposition,Medium
-287200,Q31,B,B,True,Correct,True,Synapse,Easy
-287200,Q32,B,B,True,Correct,True,Sieve Tubes,Hard
-287200,Q33,D,D,True,Correct,True,Nephrons,Easy
-287200,Q34,A,A,True,Correct,True,Cellular Respiration,Easy
-287200,Q35,B,B,True,Correct,True,Heterodont,Medium
+287200,Q30,B,B,True,Correct,True,Chemical Equilibrium,Medium
+287200,Q31,B,B,True,Correct,True,Synapse Function,Easy
+287200,Q32,B,B,True,Correct,True,Sieve Tubes Function,Hard
+287200,Q33,D,D,True,Correct,True,Nephron Function,Easy
+287200,Q34,A,A,True,Correct,True,Cellular Respiration and Gas Exchange,Easy
+287200,Q35,B,B,True,Correct,True,Heterodont Definition,Medium
 287200,Q36,D,D,True,Correct,True,Anaerobic Respiration,Medium
 287200,Q37,D,D,True,Correct,True,Hydrochloric Acid Functions,Easy
 287200,Q38,C,C,True,Correct,True,Spore Formation,Easy
 287200,Q39,C,C,True,Correct,True,Potato Tuber,Hard
-287200,Q40,A,A,True,Correct,True,Role of HCl and Pepsin,Easy
+287200,Q40,A,A,True,Correct,True,Hydrochloric Acid and Pepsin,Easy
 287200,Q41,D,C,False,Incorrect,True,Photophosphorylation,Medium
-287200,Q42,C,C,True,Correct,True,Epiglottis Function,Easy
-287200,Q43,B,A,False,Incorrect,True,Blood Clotting and Calcium Ions,Hard
-287200,Q44,D,D,True,Correct,True,Plant Hormones and Fruit Ripening,Medium
+287200,Q42,C,C,True,Correct,True,Epiglottis,Easy
+287200,Q43,B,A,False,Incorrect,True,Blood Clotting,Hard
+287200,Q44,D,D,True,Correct,True,Plant Hormones,Medium
 287200,Q45,A,A,True,Correct,True,Phototropism,Easy
-287200,Q46,C,C,True,Correct,True,Emasculation in Plant Breeding,Medium
+287200,Q46,C,C,True,Correct,True,Emasculation,Medium
 287200,Q47,A,A,True,Correct,True,Menopause,Easy
 287200,Q48,C,C,True,Correct,True,Sexual Reproduction in Plants,Easy
 287200,Q49,C,C,True,Correct,True,Larynx Function,Hard
-287200,Q50,B,B,True,Correct,True,Aerobic Respiration and Mitochondria,Easy
+287200,Q50,B,B,True,Correct,True,Aerobic Respiration,Easy
 279000,Q1,A,C,False,Incorrect,True,Physics,Hard
 279000,Q2,B,B,True,Correct,True,Physics,Easy
 279000,Q3,A,A,True,Correct,True,Physics,Medium
 279000,Q4,A,C,False,Incorrect,True,Physics,Hard
 279000,Q5,C,C,True,Correct,True,Physics,Medium
 279000,Q6,D,D,True,Correct,True,Work and Energy,Easy
-279000,Q7,C,D,False,Incorrect,True,Energy Stored in Spring,Hard
+279000,Q7,C,D,False,Incorrect,True,Elastic Potential Energy,Hard
 279000,Q8,B,D,False,Incorrect,True,Power and Kinetic Energy,Hard
 279000,Q9,B,B,True,Correct,True,Work Done by a Force,Medium
-279000,Q10,B,D,False,Incorrect,True,"Work, Energy, and Power",Hard
-279000,Q11,B,B,True,Correct,True,Kinematics/Relative Motion,Easy
-279000,Q12,C,C,True,Correct,True,Optics/Mirrors,Easy
-279000,Q13,C,D,False,Incorrect,True,Optics/Mirrors,Medium
+279000,Q10,B,D,False,Incorrect,True,"Work, Energy, and Friction",Hard
+279000,Q11,B,B,True,Correct,True,Relative Motion and Image Velocity,Easy
+279000,Q12,C,C,True,Correct,True,Mirrors and Image Formation,Easy
+279000,Q13,C,D,False,Incorrect,True,Concave Mirrors and Magnification,Medium
 279000,Q14,D,B,False,Incorrect,True,UNKNOWN,Medium
 279000,Q15,C,B,False,Incorrect,True,Optics,Hard
-279000,Q16,A,A,True,Correct,True,Periodic Table,Easy
+279000,Q16,A,A,True,Correct,True,Periodic Properties,Easy
 279000,Q17,A,A,True,Correct,True,Metalloids,Medium
 279000,Q18,D,D,True,Correct,True,Ionization Energy,Hard
-279000,Q19,B,B,True,Correct,True,Effective Nuclear Charge & Ionization Energy,Medium
-279000,Q20,C,C,True,Correct,True,Metal & Non-metal Oxides,Easy
+279000,Q19,B,B,True,Correct,True,Ionization Energy and Nuclear Charge,Medium
+279000,Q20,C,C,True,Correct,True,Metal and Non-metal Oxides,Easy
 279000,Q21,D,D,True,Correct,True,Alkali Metals,Easy
 279000,Q22,C,C,True,Correct,True,Valency,Medium
 279000,Q23,B,B,True,Correct,True,Chemical Reactions,Easy
-279000,Q24,C,C,True,Correct,True,Double Displacement Reaction,Easy
+279000,Q24,C,C,True,Correct,True,Chemical Reactions,Easy
 279000,Q25,B,B,True,Correct,True,Chemical Reactions,Easy
 279000,Q26,B,A,False,Incorrect,True,Thermal Decomposition,Hard
-279000,Q27,D,B,False,Incorrect,True,Redox Reactions,Hard
+279000,Q27,D,B,False,Incorrect,True,Oxidation-Reduction Reactions,Hard
 279000,Q28,A,A,True,Correct,True,Displacement Reaction,Easy
 279000,Q29,B,B,True,Correct,True,Neutralization Reaction,Medium
-279000,Q30,B,B,True,Correct,True,Chemical Decomposition,Medium
-279000,Q31,B,B,True,Correct,True,Synapse,Easy
-279000,Q32,D,B,False,Incorrect,True,Sieve Tubes,Hard
-279000,Q33,D,D,True,Correct,True,Nephrons,Easy
-279000,Q34,A,A,True,Correct,True,Cellular Respiration,Easy
-279000,Q35,A,B,False,Incorrect,True,Heterodont,Medium
+279000,Q30,B,B,True,Correct,True,Chemical Equilibrium,Medium
+279000,Q31,B,B,True,Correct,True,Synapse Function,Easy
+279000,Q32,D,B,False,Incorrect,True,Sieve Tubes Function,Hard
+279000,Q33,D,D,True,Correct,True,Nephron Function,Easy
+279000,Q34,A,A,True,Correct,True,Cellular Respiration and Gas Exchange,Easy
+279000,Q35,A,B,False,Incorrect,True,Heterodont Definition,Medium
 279000,Q36,B,D,False,Incorrect,True,Anaerobic Respiration,Medium
 279000,Q37,D,D,True,Correct,True,Hydrochloric Acid Functions,Easy
 279000,Q38,C,C,True,Correct,True,Spore Formation,Easy
 279000,Q39,D,C,False,Incorrect,True,Potato Tuber,Hard
-279000,Q40,A,A,True,Correct,True,Role of HCl and Pepsin,Easy
+279000,Q40,A,A,True,Correct,True,Hydrochloric Acid and Pepsin,Easy
 279000,Q41,C,C,True,Correct,True,Photophosphorylation,Medium
-279000,Q42,C,C,True,Correct,True,Epiglottis Function,Easy
-279000,Q43,D,A,False,Incorrect,True,Blood Clotting and Calcium Ions,Hard
-279000,Q44,C,D,False,Incorrect,True,Plant Hormones and Fruit Ripening,Medium
+279000,Q42,C,C,True,Correct,True,Epiglottis,Easy
+279000,Q43,D,A,False,Incorrect,True,Blood Clotting,Hard
+279000,Q44,C,D,False,Incorrect,True,Plant Hormones,Medium
 279000,Q45,A,A,True,Correct,True,Phototropism,Easy
-279000,Q46,C,C,True,Correct,True,Emasculation in Plant Breeding,Medium
+279000,Q46,C,C,True,Correct,True,Emasculation,Medium
 279000,Q47,A,A,True,Correct,True,Menopause,Easy
 279000,Q48,C,C,True,Correct,True,Sexual Reproduction in Plants,Easy
 279000,Q49,B,C,False,Incorrect,True,Larynx Function,Hard
-279000,Q50,B,B,True,Correct,True,Aerobic Respiration and Mitochondria,Easy
+279000,Q50,B,B,True,Correct,True,Aerobic Respiration,Easy
 754000,Q1,B,C,False,Incorrect,True,Physics,Hard
 754000,Q2,B,B,True,Correct,True,Physics,Easy
 754000,Q3,D,A,False,Incorrect,True,Physics,Medium
 754000,Q4,A,C,False,Incorrect,True,Physics,Hard
 754000,Q5,A,C,False,Incorrect,True,Physics,Medium
 754000,Q6,D,D,True,Correct,True,Work and Energy,Easy
-754000,Q7,A,D,False,Incorrect,True,Energy Stored in Spring,Hard
+754000,Q7,A,D,False,Incorrect,True,Elastic Potential Energy,Hard
 754000,Q8,B,D,False,Incorrect,True,Power and Kinetic Energy,Hard
 754000,Q9,C,B,False,Incorrect,True,Work Done by a Force,Medium
-754000,Q10,B,D,False,Incorrect,True,"Work, Energy, and Power",Hard
-754000,Q11,D,B,False,Incorrect,True,Kinematics/Relative Motion,Easy
-754000,Q12,C,C,True,Correct,True,Optics/Mirrors,Easy
-754000,Q13,D,D,True,Correct,True,Optics/Mirrors,Medium
+754000,Q10,B,D,False,Incorrect,True,"Work, Energy, and Friction",Hard
+754000,Q11,D,B,False,Incorrect,True,Relative Motion and Image Velocity,Easy
+754000,Q12,C,C,True,Correct,True,Mirrors and Image Formation,Easy
+754000,Q13,D,D,True,Correct,True,Concave Mirrors and Magnification,Medium
 754000,Q14,D,B,False,Incorrect,True,UNKNOWN,Medium
 754000,Q15,A,B,False,Incorrect,True,Optics,Hard
-754000,Q16,A,A,True,Correct,True,Periodic Table,Easy
+754000,Q16,A,A,True,Correct,True,Periodic Properties,Easy
 754000,Q17,A,A,True,Correct,True,Metalloids,Medium
 754000,Q18,B,D,False,Incorrect,True,Ionization Energy,Hard
-754000,Q19,D,B,False,Incorrect,True,Effective Nuclear Charge & Ionization Energy,Medium
-754000,Q20,C,C,True,Correct,True,Metal & Non-metal Oxides,Easy
+754000,Q19,D,B,False,Incorrect,True,Ionization Energy and Nuclear Charge,Medium
+754000,Q20,C,C,True,Correct,True,Metal and Non-metal Oxides,Easy
 754000,Q21,C,D,False,Incorrect,True,Alkali Metals,Easy
 754000,Q22,B,C,False,Incorrect,True,Valency,Medium
 754000,Q23,B,B,True,Correct,True,Chemical Reactions,Easy
-754000,Q24,A,C,False,Incorrect,True,Double Displacement Reaction,Easy
+754000,Q24,A,C,False,Incorrect,True,Chemical Reactions,Easy
 754000,Q25,B,B,True,Correct,True,Chemical Reactions,Easy
 754000,Q26,D,A,False,Incorrect,True,Thermal Decomposition,Hard
-754000,Q27,A,B,False,Incorrect,True,Redox Reactions,Hard
+754000,Q27,A,B,False,Incorrect,True,Oxidation-Reduction Reactions,Hard
 754000,Q28,A,A,True,Correct,True,Displacement Reaction,Easy
 754000,Q29,A,B,False,Incorrect,True,Neutralization Reaction,Medium
-754000,Q30,C,B,False,Incorrect,True,Chemical Decomposition,Medium
-754000,Q31,B,B,True,Correct,True,Synapse,Easy
-754000,Q32,C,B,False,Incorrect,True,Sieve Tubes,Hard
-754000,Q33,D,D,True,Correct,True,Nephrons,Easy
-754000,Q34,A,A,True,Correct,True,Cellular Respiration,Easy
-754000,Q35,B,B,True,Correct,True,Heterodont,Medium
+754000,Q30,C,B,False,Incorrect,True,Chemical Equilibrium,Medium
+754000,Q31,B,B,True,Correct,True,Synapse Function,Easy
+754000,Q32,C,B,False,Incorrect,True,Sieve Tubes Function,Hard
+754000,Q33,D,D,True,Correct,True,Nephron Function,Easy
+754000,Q34,A,A,True,Correct,True,Cellular Respiration and Gas Exchange,Easy
+754000,Q35,B,B,True,Correct,True,Heterodont Definition,Medium
 754000,Q36,D,D,True,Correct,True,Anaerobic Respiration,Medium
 754000,Q37,D,D,True,Correct,True,Hydrochloric Acid Functions,Easy
 754000,Q38,C,C,True,Correct,True,Spore Formation,Easy
 754000,Q39,D,C,False,Incorrect,True,Potato Tuber,Hard
-754000,Q40,A,A,True,Correct,True,Role of HCl and Pepsin,Easy
+754000,Q40,A,A,True,Correct,True,Hydrochloric Acid and Pepsin,Easy
 754000,Q41,,C,False,Unattempted,False,Photophosphorylation,Medium
-754000,Q42,C,C,True,Correct,True,Epiglottis Function,Easy
-754000,Q43,C,A,False,Incorrect,True,Blood Clotting and Calcium Ions,Hard
-754000,Q44,C,D,False,Incorrect,True,Plant Hormones and Fruit Ripening,Medium
+754000,Q42,C,C,True,Correct,True,Epiglottis,Easy
+754000,Q43,C,A,False,Incorrect,True,Blood Clotting,Hard
+754000,Q44,C,D,False,Incorrect,True,Plant Hormones,Medium
 754000,Q45,A,A,True,Correct,True,Phototropism,Easy
-754000,Q46,D,C,False,Incorrect,True,Emasculation in Plant Breeding,Medium
+754000,Q46,D,C,False,Incorrect,True,Emasculation,Medium
 754000,Q47,A,A,True,Correct,True,Menopause,Easy
 754000,Q48,C,C,True,Correct,True,Sexual Reproduction in Plants,Easy
 754000,Q49,B,C,False,Incorrect,True,Larynx Function,Hard
-754000,Q50,B,B,True,Correct,True,Aerobic Respiration and Mitochondria,Easy
+754000,Q50,B,B,True,Correct,True,Aerobic Respiration,Easy
 276200,Q1,D,C,False,Incorrect,True,Physics,Hard
 276200,Q2,D,B,False,Incorrect,True,Physics,Easy
 276200,Q3,B,A,False,Incorrect,True,Physics,Medium
 276200,Q4,D,C,False,Incorrect,True,Physics,Hard
 276200,Q5,B,C,False,Incorrect,True,Physics,Medium
 276200,Q6,C,D,False,Incorrect,True,Work and Energy,Easy
-276200,Q7,A,D,False,Incorrect,True,Energy Stored in Spring,Hard
+276200,Q7,A,D,False,Incorrect,True,Elastic Potential Energy,Hard
 276200,Q8,B,D,False,Incorrect,True,Power and Kinetic Energy,Hard
 276200,Q9,A,B,False,Incorrect,True,Work Done by a Force,Medium
-276200,Q10,D,D,True,Correct,True,"Work, Energy, and Power",Hard
-276200,Q11,B,B,True,Correct,True,Kinematics/Relative Motion,Easy
-276200,Q12,B,C,False,Incorrect,True,Optics/Mirrors,Easy
-276200,Q13,C,D,False,Incorrect,True,Optics/Mirrors,Medium
+276200,Q10,D,D,True,Correct,True,"Work, Energy, and Friction",Hard
+276200,Q11,B,B,True,Correct,True,Relative Motion and Image Velocity,Easy
+276200,Q12,B,C,False,Incorrect,True,Mirrors and Image Formation,Easy
+276200,Q13,C,D,False,Incorrect,True,Concave Mirrors and Magnification,Medium
 276200,Q14,B,B,True,Correct,True,UNKNOWN,Medium
 276200,Q15,A,B,False,Incorrect,True,Optics,Hard
-276200,Q16,A,A,True,Correct,True,Periodic Table,Easy
+276200,Q16,A,A,True,Correct,True,Periodic Properties,Easy
 276200,Q17,B,A,False,Incorrect,True,Metalloids,Medium
 276200,Q18,A,D,False,Incorrect,True,Ionization Energy,Hard
-276200,Q19,B,B,True,Correct,True,Effective Nuclear Charge & Ionization Energy,Medium
-276200,Q20,C,C,True,Correct,True,Metal & Non-metal Oxides,Easy
+276200,Q19,B,B,True,Correct,True,Ionization Energy and Nuclear Charge,Medium
+276200,Q20,C,C,True,Correct,True,Metal and Non-metal Oxides,Easy
 276200,Q21,D,D,True,Correct,True,Alkali Metals,Easy
 276200,Q22,A,C,False,Incorrect,True,Valency,Medium
 276200,Q23,B,B,True,Correct,True,Chemical Reactions,Easy
-276200,Q24,C,C,True,Correct,True,Double Displacement Reaction,Easy
+276200,Q24,C,C,True,Correct,True,Chemical Reactions,Easy
 276200,Q25,C,B,False,Incorrect,True,Chemical Reactions,Easy
 276200,Q26,C,A,False,Incorrect,True,Thermal Decomposition,Hard
-276200,Q27,A,B,False,Incorrect,True,Redox Reactions,Hard
+276200,Q27,A,B,False,Incorrect,True,Oxidation-Reduction Reactions,Hard
 276200,Q28,C,A,False,Incorrect,True,Displacement Reaction,Easy
 276200,Q29,C,B,False,Incorrect,True,Neutralization Reaction,Medium
-276200,Q30,A,B,False,Incorrect,True,Chemical Decomposition,Medium
-276200,Q31,B,B,True,Correct,True,Synapse,Easy
-276200,Q32,A,B,False,Incorrect,True,Sieve Tubes,Hard
-276200,Q33,B,D,False,Incorrect,True,Nephrons,Easy
-276200,Q34,C,A,False,Incorrect,True,Cellular Respiration,Easy
-276200,Q35,A,B,False,Incorrect,True,Heterodont,Medium
+276200,Q30,A,B,False,Incorrect,True,Chemical Equilibrium,Medium
+276200,Q31,B,B,True,Correct,True,Synapse Function,Easy
+276200,Q32,A,B,False,Incorrect,True,Sieve Tubes Function,Hard
+276200,Q33,B,D,False,Incorrect,True,Nephron Function,Easy
+276200,Q34,C,A,False,Incorrect,True,Cellular Respiration and Gas Exchange,Easy
+276200,Q35,A,B,False,Incorrect,True,Heterodont Definition,Medium
 276200,Q36,A,D,False,Incorrect,True,Anaerobic Respiration,Medium
 276200,Q37,D,D,True,Correct,True,Hydrochloric Acid Functions,Easy
 276200,Q38,C,C,True,Correct,True,Spore Formation,Easy
 276200,Q39,A,C,False,Incorrect,True,Potato Tuber,Hard
-276200,Q40,A,A,True,Correct,True,Role of HCl and Pepsin,Easy
+276200,Q40,A,A,True,Correct,True,Hydrochloric Acid and Pepsin,Easy
 276200,Q41,C,C,True,Correct,True,Photophosphorylation,Medium
-276200,Q42,C,C,True,Correct,True,Epiglottis Function,Easy
-276200,Q43,B,A,False,Incorrect,True,Blood Clotting and Calcium Ions,Hard
-276200,Q44,D,D,True,Correct,True,Plant Hormones and Fruit Ripening,Medium
+276200,Q42,C,C,True,Correct,True,Epiglottis,Easy
+276200,Q43,B,A,False,Incorrect,True,Blood Clotting,Hard
+276200,Q44,D,D,True,Correct,True,Plant Hormones,Medium
 276200,Q45,D,A,False,Incorrect,True,Phototropism,Easy
-276200,Q46,D,C,False,Incorrect,True,Emasculation in Plant Breeding,Medium
+276200,Q46,D,C,False,Incorrect,True,Emasculation,Medium
 276200,Q47,A,A,True,Correct,True,Menopause,Easy
 276200,Q48,A,C,False,Incorrect,True,Sexual Reproduction in Plants,Easy
 276200,Q49,D,C,False,Incorrect,True,Larynx Function,Hard
-276200,Q50,B,B,True,Correct,True,Aerobic Respiration and Mitochondria,Easy
+276200,Q50,B,B,True,Correct,True,Aerobic Respiration,Easy

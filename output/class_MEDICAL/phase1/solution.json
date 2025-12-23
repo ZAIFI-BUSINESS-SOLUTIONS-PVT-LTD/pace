@@ -24,71 +24,71 @@
         {
             "question_number": 4,
             "correct_option": "C",
-            "solution_text": "\uf0de  free body diagram of 5 kg  \n\n    \n     \n \n \n \n \n \n \n          \uf0de   free body diagram of 4 kg  \n          \na\n\uf0de\uf0be\uf0be\uf0ae       \n\n     \n                               \nT\n\uf0ae\n\n          \uf0de from (1) and (2)  \n\n5a = 5g \u2013 4a    }  \uf0de  \n2\n5g\na\nms\n9\n\uf02d\n=\n",
+            "solution_text": "\uf0de  free body diagram of 5 kg  \n\n    \n     \n \n \n \n \n \n \n \n          \uf0de   free body diagram of 4 kg  \n          \na\n\uf0de\uf0be\uf0be\uf0ae       \n\n     \n                               \nT\n\uf0ae\n\n          \uf0de from (1) and (2)  \n\n5a = 5g \u2013 4a    }  \uf0de  \n2\n5g\na\nms\n9\n\uf02d\n=\n",
             "key_concept": "Physics",
             "question_id": "Q4"
         },
         {
             "question_number": 5,
             "correct_option": "C",
-            "solution_text": "change in momentum\nForce\ntotal time\n=\n\n\nP\n50\nF\n5000N\nt\n0.01\n\uf044\n=\n=\n=\n\uf044\n\n\n5a   =  5g  \u2013 T \u2026\u2026(1)    \n5kg\na\n5g\n4a = T  \n4 Kg   \nT\uf0dcTension in cable \nmg\uf0dcweight of elevator",
+            "solution_text": "change in momentum\nForce\ntotal time\n=\n\n\nP\n50\nF\n5000N\nt\n0.01\n\uf044\n=\n=\n=\n\uf044",
             "key_concept": "Physics",
             "question_id": "Q5"
         },
         {
             "question_number": 6,
             "correct_option": "D",
-            "solution_text": "Work done by force F   + work done by friction (f)  \n              = change in kinetic energy  \n              (F S)\n( f s)\nKE\n\uf0d7\n\uf02b\uf03d\uf0d7\n\uf03d\uf044\n  \n                KE\n100 5\n40 5\n\uf044\n=\n\uf0b4\uf02d\n\uf0b4 \n                          =  60 5\n\uf0b4 \n                          = 300 J",
+            "solution_text": "Work done by force F + work done by friction (f) = change in kinetic energy\n(F S) + (f s) = \u0394KE\nKE = 100 * 5 - 40 * 5 = 60 * 5 = 300 J",
             "key_concept": "Work and Energy",
             "question_id": "Q6"
         },
         {
             "question_number": 7,
             "correct_option": "D",
-            "solution_text": "\uf0de energy stored in case 1  = 0 \n \n\uf0de energy stored in case 2  = \n2\n1\n1 kx\n2\n  \n                                                    \n3\n2\n1\n5 5\nE\n5 10\n2\n100 100\n\uf0b4\n\uf0e6\n\uf0f6\n=\n\uf0b4\uf0b4\n\uf0b4\uf0e7\n\uf0f7\n\uf0b4\n\uf0e8\n\uf0f8\n \n \n                                             = 6.25 J  \n              \uf0de  energy store in case 3  \n2\n3\n1\n2\n1\nE\nK(x\nx )\n2\n=\n\uf02b\n \n \n                                              \n3\n3\n1\n10 10\nE\n5 10\n2\n100 100\n\uf0b4\n\uf0e6\n\uf0f6\n=\n\uf0b4\uf0b4\n\uf0b4\uf0e7\n\uf0f7\n\uf0b4\n\uf0e8\n\uf0f8\n \n                                                               = 25 J  \n \n\uf0de work required to  = \n1\n2\n(E\nE )\n\uf02d\n  \n \n      Stretch it further by  = (25 \u2013 6.25) J  \n                  Another 5 cm           =  18.75 J",
-            "key_concept": "Energy Stored in Spring",
+            "solution_text": "energy stored in case 1 = 0\nenergy stored in case 2 = (1/2)kx^2 = (1/2) * 5 * 5 / (100 * 100) * 5 * 10^3 = 6.25 J\nenergy store in case 3 = (1/2)K(x + x)^2 = (1/2) * 10 * 10 / (100 * 100) * 5 * 10^3 = 25 J\nwork required to = (E2 - E1)\nStretch it further by = (25 \u2013 6.25) J\nAnother 5 cm = 18.75 J",
+            "key_concept": "Elastic Potential Energy",
             "question_id": "Q7"
         },
         {
             "question_number": 8,
             "correct_option": "D",
-            "solution_text": "Machine gun fires n bullets per second each with kinetic energy K  \n \nPower of the machine gun = P  \n \nkinetic energy of n bullets\nP\ntime\n=\n \n \nnk\nP\nnk\n1\n=\n=\n  watt",
+            "solution_text": "Machine gun fires n bullets per second each with kinetic energy K\nPower of the machine gun = P\nkinetic energy of n bullets / time = P\nnk = P\nnk = 1 watt",
             "key_concept": "Power and Kinetic Energy",
             "question_id": "Q8"
         },
         {
             "question_number": 9,
             "correct_option": "B",
-            "solution_text": "Force  F\n(5i\n3j 2k)n\n=\n\uf02b\n\uf02b\n   \n \nDisplacement r\n(2i\nj)m\n=\n\uf02d\n \n \nWork done on the particle   = (force in x  \uf0b4 displacement in  x ) \n \n                                             + (force in y \uf0b4 displacement in y) \n                                                         + (force in z \uf0b4 displacement in z)  \n                                                         = (5 2)\n(3 ( 1))\n(2 (0))\n\uf0b4\n\uf02b\n\uf0b4\uf02d\n\uf02b\n\uf0b4\n \n                                                         = 10 \u2013 3 + 0  \n                                                         =  7 J",
+            "solution_text": "Force F = (5i + 3j + 2k)n\nDisplacement r = (2i - j)m\nWork done on the particle = (force in x * displacement in x ) + (force in y * displacement in y) + (force in z * displacement in z) = (5 * 2) + (3 * -1) + (2 * 0) = 10 \u2013 3 + 0 = 7 J",
             "key_concept": "Work Done by a Force",
             "question_id": "Q9"
         },
         {
             "question_number": 10,
             "correct_option": "D",
-            "solution_text": "Work done by friction = change in KE\n\n2\n1\nf\nS\nmv\n0\n2\n\uf0b4\n=\n\uf02d\n \n\n2\n1\nf\nS\nmv\n2\n\uf0b4\n=\n \n\n2\n1 mv\nS\n2\nf\n=\n \n\n2\nS\nv\n\uf0b5\n \n\n1S\n20m\n\uf0de\n=\n for \n1v\n60\n=\n km/h \n \n2\nS\n\uf0de\n=\n  ?     for  \n2\nv\n120\n=\n km/h \n \n2\n1\n2\n2\n2\nS\n20\n60\nS\nS\n4 60\n=\n=\n\uf0b4\n    \uf07b\n2\nS\n80m\n\uf0de\n=\n ",
-            "key_concept": "Work, Energy, and Power",
+            "solution_text": "Work done by friction = change in KE\n\n(1/2) * f * S = mv^2 - 0\n\n(1/2) * f * S = mv^2\n\nS = (1/2) * mv^2 / f\n\nS \u221d v^2\n\nS1 = 20m for v1 = 60 km/h\n\nS2 = ? for v2 = 120 km/h\n\nS2/20 = (120/60)^2\n\nS2 = 20 * 4 = 80m",
+            "key_concept": "Work, Energy, and Friction",
             "question_id": "Q10"
         },
         {
             "question_number": 11,
             "correct_option": "B",
-            "solution_text": "man\nV\n2\n=\n\uf0ad \n \nimage\nV\n2\n\uf03d\uf02d\uf0ad \n \nimage/man\nimage\nman\nV\nV\nV\n4\n\uf0de\n=\n\uf02d\n=\n\uf02d\uf0ad \n \n\uf0de  Speed of image =  \n1\n4ms\uf02d ",
-            "key_concept": "Kinematics/Relative Motion",
+            "solution_text": "V_man = 2 \u2191\n\nV_image = -2 \u2191\n\nV_image/man = V_image - V_man = -2 - 2 = -4 \u2191\n\nSpeed of image = 1/4 ms\u207b\u00b9",
+            "key_concept": "Relative Motion and Image Velocity",
             "question_id": "Q11"
         },
         {
             "question_number": 12,
             "correct_option": "C",
-            "solution_text": "\uf0de   The image formed is same size as the object  \n \n\uf0de   The position of object is at center of curvature  \n \n\uf0de   R = 12 cm  \n \n         \nR\nf\n6 cm\n2\n=\n=\n ",
-            "key_concept": "Optics/Mirrors",
+            "solution_text": "The image formed is the same size as the object\n\nThe position of the object is at the center of curvature\n\nR = 12 cm\n\nf = R/2 = 6 cm",
+            "key_concept": "Mirrors and Image Formation",
             "question_id": "Q12"
         },
         {
             "question_number": 13,
             "correct_option": "D",
-            "solution_text": "Concave mirror \uf0de  Real image  \n \n1\nm\n4\n\uf0de\n=\n \n \n\uf07b\nm\n4\nv\n4u\nu\n\uf06e\n\uf03d\uf02d\uf03d\uf02d\n\uf0de\n=\n \n \n1\n1\n1\n1\n1\n1\n5\nf\nv\nu\nf\n4u\nu\n4u\n\uf02d\n\uf02d\n\uf02d\n\uf0ec\n=\n\uf02b\n\uf0de\n=\n=\n\uf0ed\uf0ee\n \n \n                                       \n4u\nf\n5\n\uf02d\n=\n \n \n2\nm\n3\n\uf0de\n=\n \n \n\uf07b\n2\n2\n2\n2\n2\nv\nm\n3\nv\n3u\nu\n\uf02d\n=\n\uf02d=\n=\n \n \n2\n2\n2\n1\n1\n1\n1\n4\n4\nf\n3u\nu\nf\n3u\n3(u\n3)\n\uf0ec\n\uf02d\n\uf02d\n\uf02d\n=\n\uf02d\n\uf0de\n=\n=\n\uf0ed\n\uf02b\n\uf0ee\n \n \n3(u\n3)\nf\n4\n\uf02d\n\uf02b\n=\n \n \n16u\n15u\n15 3\n=\n\uf02b\n\uf0b4 \n \nu\n15 3\n45\n=\n\uf0b4=\n ",
-            "key_concept": "Optics/Mirrors",
+            "solution_text": "Concave mirror => Real image\n\nm = 4 => v/u = -4 => v = -4u\n\n1/f = 1/v + 1/u => 1/f = 1/(-4u) + 1/u => 1/f = (-1 + 4) / 4u => 1/f = 3 / 4u\n\n-4u/5 = f\n\nm = 3 => v/u = -3 => v = -3u\n\n1/f = 1/(-3u) + 1/u => 1/f = (-1 + 3) / 3u => 1/f = 2 / 3u\n\n3(u+3) / 4 = f\n\n16u = 15u + 15 * 3\n\nu = 45",
+            "key_concept": "Concave Mirrors and Magnification",
             "question_id": "Q13"
         },
         {
@@ -109,7 +109,7 @@
             "question_number": 16,
             "correct_option": "A",
             "solution_text": "Three shells \u2192 period 3; three valence electrons \u2192 group 13; such elements (like Al) are metals.",
-            "key_concept": "Periodic Table",
+            "key_concept": "Periodic Properties",
             "question_id": "Q16"
         },
         {
@@ -130,14 +130,14 @@
             "question_number": 19,
             "correct_option": "B",
             "solution_text": "Effective nuclear charge increases, so radius shrinks and more energy is needed to remove electrons, \nraising ionisation energy.",
-            "key_concept": "Effective Nuclear Charge & Ionization Energy",
+            "key_concept": "Ionization Energy and Nuclear Charge",
             "question_id": "Q19"
         },
         {
             "question_number": 20,
             "correct_option": "C",
             "solution_text": "Ca is a reactive metal; metallic oxides like CaO are basic, while non\u2011metal oxides are generally acidic",
-            "key_concept": "Metal & Non-metal Oxides",
+            "key_concept": "Metal and Non-metal Oxides",
             "question_id": "Q20"
         },
         {
@@ -165,7 +165,7 @@
             "question_number": 24,
             "correct_option": "C",
             "solution_text": "In C, Na+ exchanges with H+ (double displacement); carbonic acid decomposes to CO2 gas and water",
-            "key_concept": "Double Displacement Reaction",
+            "key_concept": "Chemical Reactions",
             "question_id": "Q24"
         },
         {
@@ -186,7 +186,7 @@
             "question_number": 27,
             "correct_option": "B",
             "solution_text": "H+ ions in HCl gain electrons to form H2 (reduction), so HCl acts as the oxidising agent and causes oxidation of Zn.",
-            "key_concept": "Redox Reactions",
+            "key_concept": "Oxidation-Reduction Reactions",
             "question_id": "Q27"
         },
         {
@@ -207,105 +207,105 @@
             "question_number": 30,
             "correct_option": "B",
             "solution_text": "Balanced decomposition is 2KClO3 \u2192 2KCl + 3O2 (K and Cl2 each side, O: 6 each side).",
-            "key_concept": "Chemical Decomposition",
+            "key_concept": "Chemical Equilibrium",
             "question_id": "Q30"
         },
         {
             "question_number": 31,
             "correct_option": "B",
             "solution_text": "The point of contact, or functional junction, between the terminal branches of the axon of one neuron and the dendrites of another neuron is called a synapse. This connection allows for the transmission of nerve impulses, typically via chemical messengers called neurotransmitters that cross a tiny gap known as the synaptic cleft.",
-            "key_concept": "Synapse",
+            "key_concept": "Synapse Function",
             "question_id": "Q31"
         },
         {
             "question_number": 32,
             "correct_option": "B",
             "solution_text": "Sieve tubes (sieve tube elements) are living cells at maturity, though they lack a nucleus, ribosomes, and some other organelles. Their functions are controlled by the adjacent companion cells. They are the main conducting elements for food in the phloem tissue.",
-            "key_concept": "Sieve Tubes",
+            "key_concept": "Sieve Tubes Function",
             "question_id": "Q32"
         },
         {
             "question_number": 33,
             "correct_option": "D",
             "solution_text": "The filtration units of the kidneys are called (4) Nephrons, as each kidney contains millions of these microscopic structures responsible for filtering blood, removing waste, and forming urine, working as the kidney's fundamental functional units. They filter blood, reabsorb necessary substances, and secrete waste.",
-            "key_concept": "Nephrons",
+            "key_concept": "Nephron Function",
             "question_id": "Q33"
         },
         {
             "question_number": 34,
             "correct_option": "A",
             "solution_text": "As blood flows through the capillaries of body tissues, cells perform cellular respiration, consuming oxygen and producing carbon dioxide as a waste product. This carbon dioxide diffuses from the high concentration area in the cells into the lower concentration area in the blood, making the blood leaving the tissues richer in carbon dioxide and lower in oxygen",
-            "key_concept": "Cellular Respiration",
+            "key_concept": "Cellular Respiration and Gas Exchange",
             "question_id": "Q34"
         },
         {
             "question_number": 35,
             "correct_option": "B",
-            "solution_text": "The term heterodont refers to the condition in which an organism possesses more than one type of tooth morphology.",
-            "key_concept": "Heterodont",
+            "solution_text": "\uf0b7 The term heterodont refers to the condition in which an organism possesses more than one type of tooth morphology.",
+            "key_concept": "Heterodont Definition",
             "question_id": "Q35"
         },
         {
             "question_number": 36,
             "correct_option": "D",
-            "solution_text": "The total number of ATP molecules obtained through the anaerobic respiration of three molecules of glucose is 6",
+            "solution_text": "The total number of ATP molecules obtained through the anaerobic respiration of three molecules of \nglucose is 6",
             "key_concept": "Anaerobic Respiration",
             "question_id": "Q36"
         },
         {
             "question_number": 37,
             "correct_option": "D",
-            "solution_text": "Hydrochloric acid (HCl) in the stomach performs all the mentioned functions as part of the digestive process.  \n\n(1) Activation of gastric enzymes: HCl provides the essential acidic environment (pH 1.5-3.5) needed to convert the inactive enzyme pepsinogen into its active form, pepsin, which is responsible for protein digestion. \n\n(2) Killing harmful pathogens in ingested food: The high acidity of the stomach acts as a primary defense mechanism, destroying most bacteria and other harmful microorganisms that enter with the food, thus preventing infections. \n\n(3) Softening food: HCl helps to break down and denature proteins, essentially \"unfolding\" them and breaking down the food into a semi-liquid mixture called chyme, making it easier for enzymes to act and for further digestion and nutrient absorption to occur.",
+            "solution_text": "Hydrochloric acid (HCl) in the stomach performs all the mentioned functions as part of the digestive \nprocess.  \n\n(1) Activation of gastric enzymes: HCl provides the essential acidic environment (pH 1.5-3.5) needed \nto convert the inactive enzyme pepsinogen into its active form, pepsin, which is responsible for protein \ndigestion. \n\n(2) Killing harmful pathogens in ingested food: The high acidity of the stomach acts as a primary \ndefense mechanism, destroying most bacteria and other harmful microorganisms that enter with the \nfood, thus preventing infections. \n\n(3) Softening food: HCl helps to break down and denature proteins, essentially \"unfolding\" them \nand breaking down the food into a semi-liquid mixture called chyme, making it easier for enzymes to \nact and for further digestion and nutrient absorption to occur.",
             "key_concept": "Hydrochloric Acid Functions",
             "question_id": "Q37"
         },
         {
             "question_number": 38,
             "correct_option": "C",
-            "solution_text": "Spore formation, as Rhizopus (bread mould) reproduces asexually by producing tiny, airborne spores within specialized sacs called sporangia, which germinate to form new mold colonies under favorable conditions, making spore formation the primary method of dispersal and reproduction",
+            "solution_text": "Spore formation, as Rhizopus (bread mould) reproduces asexually by producing tiny, airborne spores \nwithin specialized sacs called sporangia, which germinate to form new mold colonies under favorable \nconditions, making spore formation the primary method of dispersal and reproduction",
             "key_concept": "Spore Formation",
             "question_id": "Q38"
         },
         {
             "question_number": 39,
             "correct_option": "C",
-            "solution_text": "A potato tuber is a modified underground stem that is used for food storage (mainly starch) and vegetative propagation. The key characteristic that identifies it as a stem and not a root is the presence of \"eyes,\" which are axillary buds or nodes where new shoots and leaves can sprout, leading to the growth of a new, genetically identical plant.",
+            "solution_text": "A potato tuber is a modified underground stem that is used for food storage (mainly starch) and \nvegetative propagation. The key characteristic that identifies it as a stem and not a root is the presence \nof \"eyes,\" which are axillary buds or nodes where new shoots and leaves can sprout, leading to the \ngrowth of a new, genetically identical plant.",
             "key_concept": "Potato Tuber",
             "question_id": "Q39"
         },
         {
             "question_number": 40,
             "correct_option": "A",
-            "solution_text": "Hydrochloric acid (HCl) creates a highly acidic environment in the stomach, which is essential for two key reasons related to pepsin \n\uf0b7 It converts the inactive precursor enzyme pepsinogen into its active form, pepsin. \n\uf0b7 Pepsin functions optimally at this low pH (around 1.8-3.5) to begin the digestion of proteins. \n\nWithout HCl, pepsinogen would not be activated, and the enzyme would not function, severely impairing protein digestion",
-            "key_concept": "Role of HCl and Pepsin",
+            "solution_text": "Hydrochloric acid (HCl) creates a highly acidic environment in the stomach, which is essential for two \nkey reasons related to pepsin \n\uf0b7 It converts the inactive precursor enzyme pepsinogen into its active form, pepsin. \n\uf0b7 Pepsin functions optimally at this low pH (around 1.8-3.5) to begin the digestion of proteins. \n\nWithout HCl, pepsinogen would not be activated, and the enzyme would not function, severely \nimpairing protein digestion",
+            "key_concept": "Hydrochloric Acid and Pepsin",
             "question_id": "Q40"
         },
         {
             "question_number": 41,
             "correct_option": "C",
-            "solution_text": "Photophosphorylation is the process in which light energy is used to convert adenosine diphosphate (ADP) and inorganic phosphate (Pi) into ATP (adenosine triphosphate). This process occurs during the light-dependent reactions of photosynthesis in the chloroplasts of plant cells and cyanobacteria. The ATP produced serves as the primary energy currency for the subsequent dark reaction (Calvin cycle), where carbon dioxide is converted into carbohydrates",
+            "solution_text": "Photophosphorylation is the process in which light energy is used to convert adenosine diphosphate \n(ADP) and inorganic phosphate (Pi) into ATP (adenosine triphosphate). This process occurs during \nthe light-dependent reactions of photosynthesis in the chloroplasts of plant cells and cyanobacteria. \nThe ATP produced serves as the primary energy currency for the subsequent dark reaction (Calvin \ncycle), where carbon dioxide is converted into carbohydrates",
             "key_concept": "Photophosphorylation",
             "question_id": "Q41"
         },
         {
             "question_number": 42,
             "correct_option": "C",
-            "solution_text": "The epiglottis is a leaf-shaped flap of elastic cartilage located at the top of the larynx (voice box/windpipe entrance). During swallowing, the larynx moves upward, and the epiglottis folds down",
-            "key_concept": "Epiglottis Function",
+            "solution_text": "The epiglottis is a leaf-shaped flap of elastic cartilage located at the top of the larynx (voice \nbox/windpipe entrance). During swallowing, the larynx moves upward, and the epiglottis folds down",
+            "key_concept": "Epiglottis",
             "question_id": "Q42"
         },
         {
             "question_number": 43,
             "correct_option": "A",
             "solution_text": "The deficiency of (1) Ca ions (calcium ions) will delay blood clotting [1, 2]. Calcium ions (Ca\u00b2\u207a) are essential cofactors in the coagulation cascade, necessary for the activation of several clotting factors [2, 3].",
-            "key_concept": "Blood Clotting and Calcium Ions",
+            "key_concept": "Blood Clotting",
             "question_id": "Q43"
         },
         {
             "question_number": 44,
             "correct_option": "D",
             "solution_text": "Ethylene is a gaseous plant hormone that is naturally produced by fruits and triggers the complex process of ripening. This process involves changes like softening of the flesh (due to the dissolution of pectin), the conversion of starches into sugars, and the development of color, aroma, and flavor.",
-            "key_concept": "Plant Hormones and Fruit Ripening",
+            "key_concept": "Plant Hormones",
             "question_id": "Q44"
         },
         {
@@ -319,7 +319,7 @@
             "question_number": 46,
             "correct_option": "C",
             "solution_text": "Emasculation is the process of removing the stamens (male reproductive parts) or anthers from a bisexual flower to prevent self-pollination, a key step in artificial hybridization for controlled cross-pollination in plant breeding",
-            "key_concept": "Emasculation in Plant Breeding",
+            "key_concept": "Emasculation",
             "question_id": "Q46"
         },
         {
@@ -347,7 +347,7 @@
             "question_number": 50,
             "correct_option": "B",
             "solution_text": "\uf0b7 Aerobic respiration is the process cells use to break down food (primarily glucose) to produce a large amount of energy, stored as ATP, using oxygen. \n\uf0b7 While the initial stage, glycolysis, occurs in the cytoplasm, the key, energy-producing stages (Krebs cycle and the electron transport chain) take place in the mitochondria. \n\uf0b7 Because the vast majority of the ATP is generated within the mitochondria, it is considered the primary site and is often referred to as the \"powerhouse of the cell\".",
-            "key_concept": "Aerobic Respiration and Mitochondria",
+            "key_concept": "Aerobic Respiration",
             "question_id": "Q50"
         }
     ]

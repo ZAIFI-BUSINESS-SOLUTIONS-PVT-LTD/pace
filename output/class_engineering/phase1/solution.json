@@ -1,0 +1,214 @@
+{
+    "solutions": [
+        {
+            "question_number": 1,
+            "correct_option": "D",
+            "solution_text": "y+k is a factor\nk=>-k is a root of 2y^2+y-15 and 3y+a.\n2k^2+k-15=0\n(k-5)(k+3)=0\nk=5 or \u20133.\nSince, k is positive\nk=5.\nNow, -3k+a=0\n-125+a=0.\na = 125\na+k=130",
+            "key_concept": "Factor Theorem and Polynomials",
+            "question_id": "Q1"
+        },
+        {
+            "question_number": 2,
+            "correct_option": "B",
+            "solution_text": "\u20135 is a root of x^2+px-15.\n(-5)^2+p(-5)-15=0\n25-5p-15=0\n5p=10\np=7.\n=> Roots of x^2+7x+k are equal.\n=> D = 0\n=> 49-4k=0\nk = 49/4 = 7/4",
+            "key_concept": "Quadratic Equations and Roots",
+            "question_id": "Q2"
+        },
+        {
+            "question_number": 3,
+            "correct_option": "A",
+            "solution_text": "Dividing x^3-3x^2+6x-15 by x-3 leaves remainder 3.\nHence, \u20133 must be added.",
+            "key_concept": "Polynomial Remainder Theorem",
+            "question_id": "Q3"
+        },
+        {
+            "question_number": 4,
+            "correct_option": "A",
+            "solution_text": "(3x+2y=7 ..... 1\n(a-b)x+(a+b)y=3a+b-2 ..... 2\nFor infinite solutions:\n3/(a-b) = 2/(a+b) = 7/(3a+b-2)\n3(a+b) = 2(a-b)\n3a+3b=2a-2b\na = -5b ..... 1\n6a+2b-4 = 7a+7b\na+5b = -4 ..... 2\n5, -1\na=5\nb=1",
+            "key_concept": "Systems of Linear Equations - Infinite Solutions",
+            "question_id": "Q4"
+        },
+        {
+            "question_number": 5,
+            "correct_option": "A",
+            "solution_text": "A.T.Q.\n\n150\nA\nB\nV\nV \uf03d\n+\n\n\n\uf0de \n( )150\nA\nB\nV\nV\n+\n=\n..... 1\n\n\nand\n150\n15\nA\nB\nV\nV \uf03d\n\u2212\n\n\n\n\uf0de \n( )10\nA\nB\nV\nV\n\u2212\n=\n..... 2\n\n\n\uf0de 80, 70",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q5"
+        },
+        {
+            "question_number": 6,
+            "correct_option": "D",
+            "solution_text": "Let fraction be x/y.\nA.T.Q     \n2/(x+4) = 4/(y+4)\n\n\n\uf0de  \n(x-4)/(y-4) = 4/2\n..... 1\n\n\nand  \n3/(x+3) = 2/(y+3)\n\n\n\uf0de 3x + 9 = 2y + 6\n\n\uf0de \n3x - 2y = -3\n..... 2\n\n\nx=5, y=9 \n\n\uf0de 5/9",
+            "key_concept": "Fractions",
+            "question_id": "Q6"
+        },
+        {
+            "question_number": 7,
+            "correct_option": "D",
+            "solution_text": "Let work done by a man in one day be m, and the work done by one women in one day be w. \n\n\uf0de 1/(8m + 12w) = 1/10\n..... 1\n\n\nand 1/(6m + 8w) = 1/14\n\n\nSolving, we get \nw = 1/140\n\n\n\uf0de  it takes 1 women 140 days to finish the work.",
+            "key_concept": "Work and Time",
+            "question_id": "Q7"
+        },
+        {
+            "question_number": 8,
+            "correct_option": "B",
+            "solution_text": "(x^2 + 4x + 3)/(x^2 + 3x + 1)\n\n\n\uf0deRoots are 3, 1\n\u2212 \u2212\uf03d\uf061\uf062 \n\n\uf0de 1/\uf062 +\uf061 and 1/\uf061 +\uf062  \n\uf0de (-1/3 - 1) and (-3 - 1)\n\n\n\n\uf0de -4/3  and -4.\n\n\uf0de  Polynomial k(x^2 - (-4 - 4/3)x + (-4*-4/3))\n\nk(x^2 + 16/3x + 16/3)\nk(3x^2 + 16x + 16)",
+            "key_concept": "Polynomials",
+            "question_id": "Q8"
+        },
+        {
+            "question_number": 9,
+            "correct_option": "C",
+            "solution_text": "Product of all three roots \n\n\uf0de  \n\uf028\n\uf029\n4 2\n2 2\n6\n3\n\uf02d\uf02d\n\uf061\uf0b4\uf062\uf0b4\uf067\uf03d\n=\n \n\n\uf0de  \n2 2\n2\n3\n\uf0b4\uf062\uf0b4\uf067=\n \n\n\uf0de \n2\n3\n\uf062\uf0b4\uf067=",
+            "key_concept": "Roots of equation",
+            "question_id": "Q9"
+        },
+        {
+            "question_number": 10,
+            "correct_option": "A",
+            "solution_text": "Price of T.V. = x  \n\n \n\nPrice of Fridge = y  \n\nA.T.Q     \n\n\uf028\n\uf029\n0.05\n0.1\n2000\n..... 1\nx\ny\n\uf02b\n=\n \n\n\uf028\n\uf029\n0.1\n0.05\n1500\n..... 2\nx\ny\n\uf02d\n=\n \n\n\uf0de 0.25\n5000\n20,000\nx\nx\n=\n\uf0de\n=",
+            "key_concept": "Linear Equations",
+            "question_id": "Q10"
+        },
+        {
+            "question_number": 11,
+            "correct_option": "A",
+            "solution_text": "Let 2 roots be \uf061, \uf02d\uf061. \n\nSum of roots \n\uf028\n\uf029\n\uf028\n\uf029\n5\n\uf03d\uf061\uf02b\uf02d\uf061\uf02b\uf067\uf03d\uf02d\uf02d\n \n\n\uf0de \n5\n\uf067=",
+            "key_concept": "Roots of equation",
+            "question_id": "Q11"
+        },
+        {
+            "question_number": 12,
+            "correct_option": "C",
+            "solution_text": "4\n2\n2\n2\n1\nx\nx\nx\nx\n+\n++\n-\n \n\n4\n2\n2\n2\n1\n=\n+\n+-\nx\nx\nx  \n \n\uf028\n\uf029\n2\n2\n2\n1\n=\n+\n-\nx\nx  \n \n\uf028\n\uf029\uf028\n\uf029\n2\n2\n1\n1\nx\nx\nx\nx\n=\n+\n+-\n++",
+            "key_concept": "Algebraic manipulation",
+            "question_id": "Q12"
+        },
+        {
+            "question_number": 13,
+            "correct_option": "D",
+            "solution_text": "2\n5\n3\n4\n3\nx\nx\n\uf0e6\n\uf0f6\n\uf0d7\n+\n+\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n\nComplete the square. \n \n\uf0de  \n2\n5\n25\n3\n4\n6\n36\nx\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0d7\n+\n+\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n\n\uf0de \n2\n5\n25\n3\n3\n4\n6\n36\nx\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0d7\n+\n+\n\uf0b4\n\uf02d\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \n\n\uf0de  \n2\n5\n119\n3\n6\n12\nx\n\uf0e6\n\uf0f6\n\uf0d7\n+\n+\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8",
+            "key_concept": "Completing the Square",
+            "question_id": "Q13"
+        },
+        {
+            "question_number": 14,
+            "correct_option": "C",
+            "solution_text": "Sum of roots  \n\n3\na\nb\na\na\nb\n\uf02d\n+\n+\n+\n=\n \n\n3\n3\n1\na\na\n=\n\uf0de\n=\n \n\nProduct of roots  \n \n\uf028\n\uf029\n\uf028\n\uf029\n1\n1\n1\n1\n\uf02d\n\uf0b4\uf0b4\n+\n\uf03d\uf02d\nb\nb\n \n\n2\n1\n1\nb\n\uf02d\n\uf03d\uf02d \n2\n2\nb =",
+            "key_concept": "Roots of equation",
+            "question_id": "Q14"
+        },
+        {
+            "question_number": 15,
+            "correct_option": "C",
+            "solution_text": "Number of \u20b9 50 notes = x \nNumber of \u20b9 100 notes = y \n\uf0de 50x + 100y = 15500 ..... 1\n200x + y = \n110, x = 90\ny = ",
+            "key_concept": "Linear Equations",
+            "question_id": "Q15"
+        },
+        {
+            "question_number": 16,
+            "correct_option": "A",
+            "solution_text": "(\uf061\uf02b\uf062)2 -\uf061\uf062= 24\n(5/2)2 - k/2 = 24\n25/4 - k/2 = 24\n71/2 = -k\nk = -71/2",
+            "key_concept": "Quadratic Equations",
+            "question_id": "Q16"
+        },
+        {
+            "question_number": 17,
+            "correct_option": "C",
+            "solution_text": "ax - by = b - a\nbx - ay = 0\n(a+b)x - (a+b)y = b - a\nx - y = (b-a)/(a+b)\nx = b/(a+b)\ny = a/(a+b)",
+            "key_concept": "System of Equations",
+            "question_id": "Q17"
+        },
+        {
+            "question_number": 18,
+            "correct_option": "C",
+            "solution_text": "Let number of boys = x \nNumber of girls = y \nx + y = 150\n25x + 50y = 4900\nx = 104, y = 46",
+            "key_concept": "Linear Equations",
+            "question_id": "Q18"
+        },
+        {
+            "question_number": 19,
+            "correct_option": "C",
+            "solution_text": "Let unit\u2019s digit = x \nTen\u2019s digit = y \n\uf0de Number is 10y + x\nA.T.Q. \n(10y + x) = 4(x + y) + 3\n\uf0de 6y - 3x = 3\n y - x = 1 ..... 1\nand 10y + x + 18 = 10x + y\n\uf0de x - y = 2 ..... 2\ny = 3,\nx = 5",
+            "key_concept": "Number Systems",
+            "question_id": "Q19"
+        },
+        {
+            "question_number": 20,
+            "correct_option": "B",
+            "solution_text": "D \uf0b3 0\nk^2 - 4 * 3 * 4 \uf0b3 0\n k \uf0a3 1/3",
+            "key_concept": "Discriminant",
+            "question_id": "Q20"
+        },
+        {
+            "question_number": 21,
+            "correct_option": "B",
+            "solution_text": "Case-I: \u20b9 2 \uf0ae 3 bananas. 1 banana at \u20b9 2/3 for lot A. 1 banana at \u20b9 1 for lot B. \uf0de 2/3 A + B = 400 \uf0de (2A + 3B)/3 = 1200 ..... 1. Case-II: 1 banana at \u20b9 1 for lot A. 1 banana at \u20b9 4/5 for lot B. \uf0de A + 4/5 B = 460 \uf0de (5A + 4B)/5 = 2300 ..... 2. (1) + (2) \uf0de 7A + 7B = 3500 \uf0de A + B = 500",
+            "key_concept": "Ratio and Proportion",
+            "question_id": "Q21"
+        },
+        {
+            "question_number": 22,
+            "correct_option": "D",
+            "solution_text": "Length = l; Breadth = b. A = l * b. A.T.Q: (l-5) * (b+3) = A - 9 \uf0de l*b + 3l - 5b - 15 = l*b - 9 \uf0de 3l - 5b = 6 ..... 1 and (l+3) * (b+2) = A + 67 \uf0de l*b + 2l + 3b + 6 = l*b + 67 \uf0de 2l + 3b = 61 ..... 2. (1) * 2: 6l - 10b = 12. (2) * 3: 6l + 9b = 183. Subtracting: 19b = 171 \uf0de b = 9 \uf0de l = 17",
+            "key_concept": "Area of rectangle",
+            "question_id": "Q22"
+        },
+        {
+            "question_number": 23,
+            "correct_option": "D",
+            "solution_text": "P(x) = Q(x) * g(x) + R(x) \uf0de (x^3 - x^2 + 5x - 6) = (x-1) * g(x) + (4x - 3) \uf0de (x^3 - x^2 + 5x - 9x - 6 + 3) = (x-1) * g(x) \uf0de (x^3 - x^2 - 4x - 3) = (x-1) * g(x) \uf0de g(x) = x^2 - 3",
+            "key_concept": "Polynomial Division",
+            "question_id": "Q23"
+        },
+        {
+            "question_number": 24,
+            "correct_option": "B",
+            "solution_text": "If 2\n3\n+\n is a root,  \n\n2\n3\n-\n is also a root. \n\n\uf0de  \n\uf028\n\uf029\n\uf028\n\uf029\n\uf028\n\uf029\n\uf028\n\uf029\n2\n3\nx\nx\n-\n+\n\uf0d7\n-\n-\n is a factor. \n\n\uf0de \n2\n4\n1\nx\nx\n-\n+ is a factor. \n\n\n2\n2\n4\n3\n2\n4\n3\n2\n3\n2\n3\n2\n2\n2\n2\n35\n4\n1\n6\n26\n138\n35\n4\n2\n27\n138\n2\n8\n2\n35\n140\n35\n35\n140\n35\n0\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\nx\n-\n-\n-\n+\n-\n-\n+\n-\n-\n+\n-\n-\n+\n-\n+\n-\n-\n+\n-\n-\n+\n-\n\n\n\uf0de  \uf028\n\uf029\uf028\n\uf029\n2\n2\n4\n1\n2\n35\nx\nx\nx\nx\n-\n+\n\uf0d7\n-\n-\n\n\nRoots are \n2\n3, 2\n3,\n5, 7\n\uf0de\n+\n-\n-\n. \n\nPositive rational root = 7",
+            "key_concept": "Roots of Polynomials",
+            "question_id": "Q24"
+        },
+        {
+            "question_number": 25,
+            "correct_option": "C",
+            "solution_text": "Let  first person\u2019s capital = x  \n\nsecond person\u2019s capital = y  \n\nA.T.Q. \n\n\n\uf028\n\uf029\n100\n2\n100\nx\ny\n+\n=\n\uf0b4\n-\n\n\n\uf0de \n\uf028\n\uf029\n2\n300\n..... 1\ny\nx\n-\n=\n\n\nand \n\uf028\n\uf029\n10\n6\n10\ny\nx\n+\n=\n\uf0b4\n-\n\n\n\uf0de \n\uf028\n\uf029\n6\n70\n..... 2\nx\ny\n-\n=\n\n\n40,\n170\nx\ny\n=\n=\n",
+            "key_concept": "Ratio and Proportion",
+            "question_id": "Q25"
+        },
+        {
+            "question_number": 26,
+            "correct_option": "C",
+            "solution_text": "The relationship is : 3 :3\nx",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q26"
+        },
+        {
+            "question_number": 27,
+            "correct_option": "D",
+            "solution_text": "Answer key provided. No explanation available.",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q27"
+        },
+        {
+            "question_number": 28,
+            "correct_option": "D",
+            "solution_text": "Answer key provided. No explanation available.",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q28"
+        },
+        {
+            "question_number": 29,
+            "correct_option": "D",
+            "solution_text": "Answer key provided. No explanation available.",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q29"
+        },
+        {
+            "question_number": 30,
+            "correct_option": "D",
+            "solution_text": "Answer key provided. No explanation available.",
+            "key_concept": "UNKNOWN",
+            "question_id": "Q30"
+        }
+    ]
+}

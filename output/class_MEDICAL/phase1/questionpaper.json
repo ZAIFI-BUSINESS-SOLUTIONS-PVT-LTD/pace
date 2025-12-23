@@ -90,7 +90,7 @@
         },
         {
             "question_number": 9,
-            "question_text": "A force F\n(5i\n3j 2k)\n\uf03d\n\uf02b\n\uf02b\nN is applied over a particle which displaces it from its origin to the point r\n(2i\nj)\n\uf03d\n\uf02d\nm The work done on the particle (in joule) is",
+            "question_text": "A force F\n(5i\n3j 2k)\n\uf03d\n\uf02b\n\uf02b\nN is applied over a particle which displaces it from its origin to the point \nr\n(2i\nj)\n\uf03d\n\uf02d\nm The work done on the particle (in joule) is",
             "options": [
                 "(1) \n7\n\uf02d",
                 "(2) + 7",
@@ -268,10 +268,10 @@
             "question_number": 25,
             "question_text": "A compound \u201cX\u201d turns limewater milky and is produced when dilute HCl reacts with a certain solid \n\u201cY\u201d. Which pair is correct?",
             "options": [
-                "(1) \n2\nX\nSO , Y\n\uf03d\n2\n3\nNa SO\n\uf03d",
-                "(2) \n2\nX\nCO , Y\n\uf03d\n2\n3\nNa CO\n\uf03d",
-                "(3) \nX\nH , Y\n\uf03d\n2\nZn\n\uf03d",
-                "(4)  \n2\n3\nX\nO , Y\n\uf03d\nKClO\n\uf03d"
+                "(1) \n223XSO , YNa SO\uf03d\uf03d",
+                "(2) \n223XCO , YNa CO\uf03d\uf03d",
+                "(3) \nXH , YZn\uf03d\uf03d",
+                "(4)  \n23XO , YKClO\uf03d\uf03d"
             ],
             "question_id": "Q25"
         },
@@ -288,23 +288,23 @@
         },
         {
             "question_number": 27,
-            "question_text": "Identify the oxidising agent in the reaction: \n2Zn  2HCl  ZnCl\n+\n\uf0ae\n+ \n2H",
+            "question_text": "Identify the oxidising agent in the reaction: \n2Zn  2HCl  ZnCl\uf02b\uf0ae\uf02b 2H",
             "options": [
                 "(1) Zn",
                 "(2) HCl",
                 "(3) ZnCl2",
-                "(4) \n2H"
+                "(4) 2H"
             ],
             "question_id": "Q27"
         },
         {
             "question_number": 28,
-            "question_text": "Which observation confirms that a chemical reaction has occurred when iron nails are dipped in copper sulphate solution?",
+            "question_text": "Which observation confirms that a chemical reaction has occurred when iron nails are dipped in \ncopper sulphate solution?",
             "options": [
                 "(1) Solution turns colourless and a reddish\u2011brown deposit forms on nails.",
                 "(2) Solution remains blue and nails stay shiny",
                 "(3) Gas bubbles evolve without colour change",
-                "(4) Temperature drops without any deposit."
+                "(4)  Temperature drops without any deposit."
             ],
             "question_id": "Q28"
         },
@@ -312,10 +312,10 @@
             "question_number": 29,
             "question_text": "Which is a correct balanced neutralisation reaction?",
             "options": [
-                "(1) \n2\n4\n2\n4\n2H SO\nNaOH\nNa SO\nH O\n\uf02b\n\uf0ae\n\uf02b",
-                "(2)  \n2\n4\n2\n4\n2H SO\n2NaOH\nNa SO\n2H O\n\uf02b\n\uf0ae\n\uf02b",
-                "(3) \n2\n4\n2\n4\n2\n2H SO\nNaOH\nNa SO\n2H O\n\uf02b\n\uf0ae\n\uf02b",
-                "(4)  \n2\n4\n4\n2\nH SO\nNaOH\nNaHSO\nH\n\uf02b\n\uf0ae\n\uf02b"
+                "(1) \n2\n4\n2\n4\n2\nH SO\nNaOH\nNa SO\nH O\n+\n\uf0ae\n+",
+                "(2)  \n2\n4\n2\n4\n2\nH SO\n2NaOH\nNa SO\n2H O\n+\n\uf0ae\n+",
+                "(3) \n2\n4\n2\n4\n2\n2H SO\nNaOH\nNa SO\n2H O\n+\n\uf0ae\n+",
+                "(4)  \n2\n4\n4\n2\nH SO\nNaOH\nNaHSO\nH\n+\n\uf0ae\n+"
             ],
             "question_id": "Q29"
         },
@@ -332,7 +332,7 @@
         },
         {
             "question_number": 31,
-            "question_text": "The point of contact between the terminal branches of the axon of a neuron with the dendrites of another neuron is called ____________",
+            "question_text": "The point of contact between the terminal branches of the axon of a neuron with the dendrites of \nanother neuron is called ____________",
             "options": [
                 "(1) Synapsis",
                 "(2)   Synapse",
@@ -387,7 +387,7 @@
         },
         {
             "question_number": 36,
-            "question_text": "How many ATP molecules can be obtained through anaerobic respiration of three molecules of Glucose?",
+            "question_text": "How many ATP molecules can be obtained through anaerobic respiration of three molecules of \nGlucose?",
             "options": [
                 "(1) 114",
                 "(2)   76",
@@ -434,7 +434,7 @@
             "question_text": "If hydrochloric acid is not produced in the stomach then which enzyme will not function?",
             "options": [
                 "(1) Pepsin",
-                "(2) Ptyalin",
+                "(2)   Ptyalin",
                 "(3) Procarboxy peptidase",
                 "(4) Lipase"
             ],
@@ -445,7 +445,7 @@
             "question_text": "Photophosphorylation is formation of ____________ in the process of photosynthesis.",
             "options": [
                 "(1) \u041exygen",
-                "(2) Water",
+                "(2)   Water",
                 "(3) ATP",
                 "(4) Carbon di-oxide"
             ],
@@ -456,7 +456,7 @@
             "question_text": "____________ closes the respiratory passage during ingestion of food.",
             "options": [
                 "(1) Uvula",
-                "(2) Hard palate",
+                "(2)   Hard palate",
                 "(3) Epiglottis",
                 "(4) Tongue"
             ],
@@ -467,7 +467,7 @@
             "question_text": "The deficiency of ______________ ions will delay blood clotting.",
             "options": [
                 "(1) Ca",
-                "(2) Na",
+                "(2)   Na",
                 "(3) K",
                 "(4) Al"
             ],
@@ -478,7 +478,7 @@
             "question_text": "Which one of the following triggers the ripening of fruits?",
             "options": [
                 "(1) Kinetin",
-                "(2) IAA",
+                "(2)   IAA",
                 "(3) Gibberellic acid",
                 "(4) Ethylene"
             ],
@@ -489,7 +489,7 @@
             "question_text": "Bending of growing shoot towards sunlight is called",
             "options": [
                 "(1) Phototropism",
-                "(2) Hydrotropism",
+                "(2)  Hydrotropism",
                 "(3) Geotropism",
                 "(4) Chemotropism"
             ],
@@ -501,7 +501,7 @@
             "options": [
                 "(1) Removal of sepals of flower",
                 "(2) Removal of petals of flower",
-                "(3) Removal of stamens of flower",
+                "(3)  Removal of stamens of flower",
                 "(4) Another name for self-pollination"
             ],
             "question_id": "Q46"
@@ -511,7 +511,7 @@
             "question_text": "Menopause in a human female refers to a stage when",
             "options": [
                 "(1) Menstruation stops",
-                "(2) Puberty begins",
+                "(2)   Puberty begins",
                 "(3) Menstruation begins",
                 "(4) Ovulation occurs"
             ],
@@ -523,8 +523,8 @@
             "options": [
                 "(1) Pollination Fertilization, Seedling, Embryo",
                 "(2) Seedling, Embryo, Fertilization, Pollination",
-                "(3) Pollination, Fertilization, Embryo, Seedling",
-                "(4) Embryo, Seedling, Pollination, Fertilization"
+                "(3)  Pollination, Fertilization, Embryo, Seedling",
+                "(4)  Embryo, Seedling, Pollination, Fertilization"
             ],
             "question_id": "Q48"
         },
@@ -533,7 +533,7 @@
             "question_text": "Which of the following is not part of the Alimentary canal?",
             "options": [
                 "(1) Mouth",
-                "(2) Pharynx",
+                "(2)   Pharynx",
                 "(3) larynx",
                 "(4) Oesophagus"
             ],
@@ -544,7 +544,7 @@
             "question_text": "Where does The \u201cAerobic Respiration Primarily occur in a cell?",
             "options": [
                 "(1) Cytoplasm",
-                "(2) Mitochondria",
+                "(2)   Mitochondria",
                 "(3) Nucleus",
                 "(4) Chloroplast"
             ],

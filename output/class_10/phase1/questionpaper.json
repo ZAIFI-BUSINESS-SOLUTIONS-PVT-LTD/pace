@@ -90,7 +90,7 @@
         },
         {
             "question_number": 9,
-            "question_text": "What comes in the place of x? \n\n\uf028\uf029\uf028\uf029\uf028\uf0291.31.80.5x2163666\uf0b4\uf0b8=",
+            "question_text": "What comes in the place of x? \n\n\uf028\uf029\uf028\uf029\uf028\uf0291.31.80.5x2163666\uf0b4\uf0b8\uf03d",
             "options": [
                 "(a) 5",
                 "(b) 4",
@@ -101,9 +101,9 @@
         },
         {
             "question_number": 10,
-            "question_text": "What is the value of 134 1082 15 ?",
+            "question_text": "What is the value of 134108215 ?",
             "options": [
-                "(a) 2 23\uf02d",
+                "(a) 223\uf02d",
                 "(b) 83\uf02b",
                 "(c)63\uf02d",
                 "(d) 85\uf02d"
@@ -123,7 +123,7 @@
         },
         {
             "question_number": 12,
-            "question_text": "88886644a65,b65,c65,d65,\uf03d\uf02d\uf03d\uf02b\uf03d\uf02b\uf03d\uf02band e65\uf03d\uf02b, then which of the following is a rational number?",
+            "question_text": "88886644a65,b65,c65,d65,\uf03d\uf02d\uf03d\uf02b\uf03d\uf02b\uf03d\uf02band e65\uf03d\uf02b, then which of the following isa rational number?",
             "options": [
                 "(a) abcde",
                 "(b) abde",
@@ -189,7 +189,7 @@
         },
         {
             "question_number": 18,
-            "question_text": "If the units of Mass, Length and Time are changed to be three times their original values  (i.e., M'\n3M,L'\n3L,T'\n3T)\uf03d\n\uf03d\n\uf03d, how will the unit of Power change?",
+            "question_text": "If the units of Mass, Length and Time are changed to be three times their original values  \n(i.e., M'\n3M,L'\n3L,T'\n3T)\n\uf03d\n\uf03d\n\uf03d\n, how will the unit of Power change?",
             "options": [
                 "(a) It will becoms 3 times the original unit.",
                 "(b) It will remain the same as the original unit.",
@@ -200,7 +200,7 @@
         },
         {
             "question_number": 19,
-            "question_text": "A scientist is trying to determine the volume of three identical pieces of new material. She places them in a measuring cylinder, as shown in the diagram. What is the volume of each piece of the new material?",
+            "question_text": "A scientist is trying to determine the volume of three identical pieces of new material. She places \nthem in a measuring cylinder, as shown in the diagram. What is the volume of each piece of the new \nmaterial?",
             "options": [
                 "(a) 13.3 cm3",
                 "(b) 30.0 cm3",
@@ -211,7 +211,7 @@
         },
         {
             "question_number": 20,
-            "question_text": "A stone is dropped from the top of a tower and reaches ground in 4 seconds. Find the height of the tower.",
+            "question_text": "A stone is dropped from the top of a tower and reaches ground in 4 seconds. Find the height of the \ntower.",
             "options": [
                 "(a) 26 m",
                 "(b) 19.6 m",
@@ -222,7 +222,7 @@
         },
         {
             "question_number": 21,
-            "question_text": "How much momentum will a dumb-bell of mass 10 kg transfer to a floor if it falls from a height of  \n80 cm? Take its downward acceleration to be 10 m/s2.",
+            "question_text": "How much momentum will a dumb-bell of mass 10 kg transfer to a floor if it falls from a height of  80 cm? Take its downward acceleration to be 10 m/s2.",
             "options": [
                 "(a)  30 kg m/s",
                 "(b) 40 kg m/s",
@@ -257,10 +257,10 @@
             "question_number": 24,
             "question_text": "A passenger travels along a straight line with velocity\n1v for first half time and with velocity\n2\nv for \nnext half time, then the mean velocity v is given by",
             "options": [
-                "(a) \n1\n2\nv\nv\nv\n2\n\uf02b\n=\n",
-                "(b) \n1\n2\nv\nv v\n=\n",
-                "(c) \n2\n1\nv\nv\nv\n=\n",
-                "(d) \n1\n2\n2\n1\n1\nv\nv\nv\n=\n\uf02b\n"
+                "(a) \n1\n2\nv\nv\nv\n2\n\uf02b\n\uf03d",
+                "(b) \n1\n2\nv\nv v\n\uf03d",
+                "(c) \n2\n1\nv\nv\nv\n\uf03d",
+                "(d) \n1\n2\n2\n1\n1\nv\nv\nv\n\uf03d\n\uf02b"
             ],
             "question_id": "Q24"
         },
